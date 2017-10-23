@@ -1,0 +1,132 @@
+.page-end {
+    padding: 186px 0 138px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#003784), color-stop(77%, #0077C0), to(#12A9D1));
+    background-image: linear-gradient(-180deg, #003784 0%, #0077C0 77%, #12A9D1 100%);
+    
+    .socials {
+        color: white;
+        margin-top: 78px;
+    }
+    
+    .subscribe__links {
+        margin-top: 80px;
+    }
+    
+    .dl-links {
+        text-align: center;
+        margin: 65px auto -60px;
+        color: white;
+        
+        a {
+            display: inline-block;
+            text-decoration: underline;
+            margin: 0 20px;
+        }
+    }
+}
+
+footer {
+    padding: 26px 29px 29px;
+    background: white;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    
+    p {
+        font-weight: bold;
+        font-size: 12px;
+        color: #83949F;
+        letter-spacing: 0.3px;
+        line-height: 16px;
+    }
+    
+    a {
+        display: inline-block;
+        font-weight: bold;
+        font-size: 12px;
+        color: #0077C0;
+        letter-spacing: 0.3px;
+        line-height: 16px;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (max-width: 1400px) { 
+    footer {
+        padding: 26px 34px 29px;
+    }
+    
+    .page-end {
+        padding: 156px 0 111px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .page-end {
+        padding: 94px 0 96px;
+        
+        .subscribe__timer {
+            margin-top: 59px;
+        }
+    }
+    
+    footer {
+        padding: 26px 19px 29px;
+    }
+    
+    .page-end .dl-links {
+        margin-bottom: -20px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .page-end {
+        padding: 70px 19px;
+        
+        .wrapper {
+            width: 100%;
+        }
+        
+        .subscribe h2 {
+            max-width: 100%;
+            margin-bottom: 30px;
+        }
+    }
+    
+    .page-end .subscribe__timer {
+        margin-top: 30px;
+    }
+    
+    .page-end .subscribe__links {
+        margin-top: 52px;
+    }
+    
+    .page-end .socials {
+        margin-top: 66px;
+    }
+    
+    footer {
+        flex-direction: column;
+        
+        p {
+            margin-bottom: 14px;
+            text-align: center;
+        }
+    }
+}
+
+.subscribe form .input-wrap.error p {
+    margin: 0 !important;
+}
+
+@media screen and (max-width: 767px) {
+    .subscribe__links {
+        line-height: 24px;
+    }
+}

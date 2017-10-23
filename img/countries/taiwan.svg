@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="28px" viewBox="0 0 42 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>taiwan-flag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-20.6%" y="-25.0%" width="141.2%" height="170.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(4.000000, 2.000000)" fill-rule="nonzero">
+            <g id="taiwan-flag" filter="url(#filter-1)">
+                <rect id="_x31_5" fill="#ED1E24" x="0" y="0" width="34" height="20"></rect>
+                <rect id="_x31_4" fill="#2B2F84" x="0" y="0" width="17" height="11"></rect>
+                <circle id="_x31_3" fill="#FFFFFF" cx="8" cy="6" r="2"></circle>
+                <path d="M9,2.99500244 L8.50056935,1 L8,3 C8.26349351,2.93174061 8.66385789,2.91589469 9,2.99500244 Z" id="_x31_2" fill="#FFFFFF"></path>
+                <path d="M7,3.46050707 L6,2 L6.36688366,4 C6.51076615,3.79985373 6.75947254,3.57191614 7,3.46050707 Z" id="_x31_1" fill="#FFFFFF"></path>
+                <path d="M7,4.36516527 L5,4 L6.46761975,5 C6.54973118,4.81000749 6.75073314,4.55107818 7,4.36516527 Z" id="_x31_0" fill="#FFFFFF"></path>
+                <path d="M5.99512433,5 L4,5.49937379 L6,6 C5.93174061,5.73653649 5.91577279,5.33621769 5.99512433,5 Z" id="_x39_" fill="#FFFFFF"></path>
+                <path d="M6.46050707,6 L5,7 L7,6.63311634 C6.79985373,6.48923385 6.57179425,6.24052746 6.46050707,6 Z" id="_x38_" fill="#FFFFFF"></path>
+                <path d="M6.36513487,8 L6,10 L7,8.53225806 C6.80985681,8.45026882 6.55094905,8.24926686 6.36513487,8 Z" id="_x37_" fill="#FFFFFF"></path>
+                <path d="M8,8.00487567 L8.49943065,10 L9,8 C8.73662036,8.06825939 8.33636985,8.08422721 8,8.00487567 Z" id="_x36_" fill="#FFFFFF"></path>
+                <path d="M9,8.53949293 L10,10 L9.63311634,8 C9.48931731,8.20014627 9.24061092,8.42820575 9,8.53949293 Z" id="_x35_" fill="#FFFFFF"></path>
+                <path d="M10,6.63483473 L12,7 L10.5323803,6 C10.4502688,6.19007576 10.2492669,6.44900508 10,6.63483473 Z" id="_x34_" fill="#FFFFFF"></path>
+                <path d="M11.0048757,6 L13,5.50062621 L11,5 C11.0682594,5.26346351 11.0841053,5.66366845 11.0048757,6 Z" id="_x33_" fill="#FFFFFF"></path>
+                <path d="M10.5394929,5 L12,4 L10,4.36688366 C10.2002682,4.51068269 10.4282058,4.75938908 10.5394929,5 Z" id="_x32_" fill="#FFFFFF"></path>
+                <path d="M9.63486513,4 L10,2 L9,3.46761975 C9.19005994,3.54960899 9.4489677,3.75061095 9.63486513,4 Z" id="_x31_" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
