@@ -923,3 +923,8 @@ background: url(../img/video_slider/ar-r_2.png) no-repeat; }
   line-height: 24px;
   text-align: center;
 }
+
+/*icohelp*/
+.db__bg-text {
+  display: none;
+}
