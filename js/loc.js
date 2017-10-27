@@ -41,7 +41,6 @@ for (var key2 in locot) {
 	}
 }
 
-
 /* Вариант 1) когда работаем массив от переводчика
 for (var key in locob) {
 	var lkey=locob[key]["I"];
@@ -53,7 +52,13 @@ for (var key in locob) {
 	}
 	locobf[lkey]['o']=key;
 }
+
+
+
 */
+
+
+
 // Вариант 2) когда работаем массив от переводчика
 var trlist=$('[localizerid]');
 trlist.each(function() { 
