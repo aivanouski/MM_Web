@@ -1,4 +1,7 @@
 /*preloader style*/
+.db__bg-text {
+  display: none;
+}
 .preloader {
   position: fixed;
   top: 0;
