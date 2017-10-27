@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  
+
   //video slider
     $(".video_slider-thumbs").slick({
         slidesToShow: 3,
@@ -9,7 +9,7 @@ $(document).ready(function() {
         arrows: true,
         focusOnSelect: true,
         infinite: false,
-        responsive: 
+        responsive:
         [
           {
             breakpoint: 480,
@@ -27,7 +27,7 @@ $(document).ready(function() {
         infinite: false
     });
 
-    
+
   //video popup
     $('.popup-vimeo').magnificPopup({
       disableOn: 700,
@@ -64,4 +64,58 @@ $(document).ready(function() {
       ]
     });
 
-});    
+    window.sr = ScrollReveal({
+      duration: 1500,
+      opacity: 0,
+      distance: '20px',
+      scale: 1
+    });
+
+    sr.reveal('.reveal-first', { delay: 1000 }, 300);
+    sr.reveal('.reveal-section');
+    sr.reveal('.reveal-section p');
+
+    $('.countdown').each(function() {
+      var $el = $(this);
+      var deadline = new Date(2017, 9, 28, 12);
+
+      update();
+
+      setInterval(update, 1000);
+
+      function update() {
+        var frame = getTimeRemaining(deadline);
+
+        ['days', 'hours', 'seconds', 'minutes'].forEach(function(key) {
+          $el.find('[data-key="' + key + '"]').text(frame[key]);
+        })
+      }
+    });
+
+    var inview = new Waypoint.Inview({
+      element: $('.hero_desc')[0],
+      exited: function() {
+        $('.countdown-panel').addClass('visible')
+      },
+
+      entered: function() {
+        $('.countdown-panel').removeClass('visible')
+      }
+    })
+
+    function getTimeRemaining(endtime) {
+      var t = Date.parse(endtime) - Date.parse(new Date());
+      var seconds = Math.floor((t / 1000) % 60);
+      var minutes = Math.floor((t / 1000 / 60) % 60);
+      var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+      var days = Math.floor(t / (1000 * 60 * 60 * 24));
+
+      return {
+        'total': t,
+        'days': days,
+        'hours': hours,
+        'minutes': minutes,
+        'seconds': seconds
+      };
+    }
+});
