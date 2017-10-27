@@ -1,0 +1,27 @@
+<svg width="968px" height="363px" viewBox="0 0 968 363" version="1.1">
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2088C7" offset="0%"></stop>
+            <stop stop-color="#F26C44" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="design-1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mm-landing-1440-copy" transform="translate(-260.000000, -2288.000000)">
+            <g id="growth" transform="translate(216.000000, 2289.000000)">
+                <path d="M78,317 L78,297" id="Line-7" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M249,317 L249,274" id="Line-7-Copy" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M419,316 L419,236" id="Line-7-Copy-4" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M590,316 L590,181" id="Line-7-Copy-3" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M760,317 L760,113" id="Line-7-Copy-6" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M931,317 L931,35" id="Line-7-Copy-5" stroke="#E8F0F3" stroke-width="2" stroke-linecap="round"></path>
+                <polyline id="Path-3" stroke="url(#linearGradient-1)" stroke-width="6" stroke-linecap="round" points="78 317 248.037404 294.521218 418.262357 257.457385 590.327644 201.740613 760.454915 133.952915 930 55"></polyline>
+                <circle id="Oval-6" fill="#4184B3" cx="77.5" cy="316.5" r="6.5"></circle>
+                <circle id="Oval-6-Copy" fill="#667F9C" cx="248.5" cy="294.5" r="6.5"></circle>
+                <circle id="Oval-6-Copy-2" fill="#887B87" cx="418.5" cy="257.5" r="6.5"></circle>
+                <circle id="Oval-6-Copy-3" fill="#B3756C" cx="589.5" cy="201.5" r="6.5"></circle>
+                <circle id="Oval-6-Copy-4" fill="#D87055" cx="759.5" cy="134.5" r="6.5"></circle>
+                <circle id="Oval-6-Copy-5" fill="#FE6C40" cx="930.5" cy="54.5" r="6.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
