@@ -9,9 +9,9 @@ if (lssr.indexOf('elng=')!=-1) {
 
 if (typeof(localizer_set)== "undefined") {
 	// У нас нет языка по умолчанию
-	var userLang = navigator.language || navigator.userLanguage; 
+	var userLang = navigator.language || navigator.userLanguage;
 	console.log('set lang to ['+userLang+']');
-	if (typeof(locall[userLang])!= "undefined") { 
+	if (typeof(locall[userLang])!= "undefined") {
 		setCookie("localizer_set", userLang, {expires: 3600*24*30});
 		chlang(userLang);
 	}
@@ -31,11 +31,11 @@ if (typeof(popd)!= "undefined") {
 		var pops=1;				// Show for all
 		if (popdl.length>0) {
 			pops=0;
-			for (r=0; r<popdl.length; r++) if (popdl[r]==localizer_set) pops=1;	
+			for (r=0; r<popdl.length; r++) if (popdl[r]==localizer_set) pops=1;
 		}
 		// Если текущий язык подходит для текущей темы
 		// Проверяем была ли она блокирована ранее , если нет > ставим ее в шоу
-		if (pops==1 && typeof(popm[key])== "undefined") popv=key;	
+		if (pops==1 && typeof(popm[key])== "undefined") popv=key;
 	}
 
 	if (popv!=-1) {
@@ -54,53 +54,53 @@ if (typeof(popd)!= "undefined") {
 		popm[popn]=0;  var keystring=JSON.stringify(popm);
 		setCookie("popc", keystring, {expires: 3600*24*30});
 		$(".popup_win").hide();
-	});		
-	
+	});
+
 }
 
 
 function chlang(lang){
-	
+
 	if (localizer_set != lang) setCookie("localizer_set", lang, {expires: 3600*24*30});
-	
+
 	var trlist=$('[localizerid]');
-	trlist.each(function() { 
+	trlist.each(function() {
 		var lkey=$(this).attr('localizerid');
-		if (typeof(locdata[lkey])!= "undefined") {   
-			if (typeof(locdata[lkey][lang])!= "undefined" && locdata[lkey][lang]!= "") {  
+		if (typeof(locdata[lkey])!= "undefined") {
+			if (typeof(locdata[lkey][lang])!= "undefined" && locdata[lkey][lang]!= "") {
 				$(this).html(locdata[lkey][lang]);
 			}
 		}
-	}); 
+	});
 
 	$('[whitepaperlink]').attr('href',wplink[lang]);
-	
+
 	var dld={
 		'zh':{
-			'dla':'/bar/wee.png',	
-			'dlt':'加入WeChat',	 
+			'dla':'/img/bar/wee.png',
+			'dlt':'加入WeChat',
 			'dli':'img/socials/white/wechat.svg'
 		},
 		'ko':{
-			'dla':'https://open.kakao.com/o/gmWcCnB',	
-			'dlt':'텔레그램 KakaoTalk',	 
+			'dla':'https://open.kakao.com/o/gmWcCnB',
+			'dlt':'텔레그램 KakaoTalk',
 			'dli':'img/socials/white/kakaotalk.png'
 		},
 		'ja':{
-			'dla':'/bar/line_ja.png',	
-			'dlt':'Line に追加',	 
+			'dla':'/img/bar/line_ja.png',
+			'dlt':'Line に追加',
 			'dli':'img/socials/color/line_logo.png'
 		}
 	};
-	
+
 	var dvol='none'; var del=document.getElementById("dla");
 	if (typeof(dld[lang])!= "undefined") {
-		dvol=''; 
+		dvol='';
 		document.getElementById("dla").href = dld[lang]['dla'];
 		document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
 		document.getElementById("dli").src = dld[lang]['dli'];
-	} 
-	
+	}
+
 	del.style.display = dvol;
 }
 
@@ -146,9 +146,9 @@ function getHash(){
 	var loc = window.location.hash.replace('#','');
 	if (loc!='') {
 		var locel=document.getElementById('popt');
-		if (s) {	// Если такое элемент есть 
+		if (s) {	// Если такое элемент есть
 			var target_top= $('#'+loc).offset().top;
 			$('html, body').animate({scrollTop:target_top}, 'slow');
 		}
-	}	
+	}
 }
