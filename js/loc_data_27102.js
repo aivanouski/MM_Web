@@ -90,7 +90,7 @@ locdata={
     "de": "Roadmap",
     "fr": "Roadmap",
     "ja": "ロードマップ",
-    "ko": "개발 계획",
+    "ko": "로드맵",
     "zh": "发展蓝图",
     "pt": "Roteiro",
     "en": "Roadmap"
@@ -199,7 +199,7 @@ locdata={
     "de": "Besuchen Sie Bitcointalk",
     "fr": "Visitez le Bitcointalk ",
     "ja": "Bitcointalkをご覧",
-    "ko": "Bitcointalk 방문하세요",
+    "ko": "Bitcointalk 방문",
     "zh": "访问 Bitcointalk",
     "pt": "Visite Bitcointalk",
     "en": "Visit Bitcointalk"
@@ -211,7 +211,7 @@ locdata={
     "de": "Laden Sie das White Paper herunter!",
     "fr": "Télécharger Le White Paper",
     "ja": "白書をダウンロード",
-    "ko": "화이트페이퍼 다운하세요",
+    "ko": "Whitepaper 다운로드",
     "zh": "下载白皮书",
     "pt": "Baixe o White Paper",
     "en": "Download Whitepaper"
@@ -235,7 +235,7 @@ locdata={
     "de": "Jetzt Telegram-Messenger beziehen",
     "fr": "Rejoignez-nous sur Telegram",
     "ja": "Telegramに追加",
-    "ko": "텔레그램 가입하세요",
+    "ko": "텔레그램 가입",
     "zh": "加入Telegram",
     "pt": "Participe do Telegram",
     "en": "Join Telegram"
@@ -253,15 +253,15 @@ locdata={
     "en": "Token distribution starts on 18th of October 2017"
   },*/
   "59d2f090a0624f4ad4889052": {
-    "ru": "",
-    "es": "",
-    "it": "",
-    "de": "",
-    "fr": "",
-    "ja": "",
-    "ko": "",
-    "zh": "",
-    "pt": "",
+    "ru": "Время до окончания кампании",
+    "es": "Tiempo restante hasta el final de la campaña",
+    "it": "Tempo rimasto fino alla fine della campagna",
+    "de": "Zeit bis zum Ende der Kampagne",
+    "fr": "Temps restant jusqu'à la fin de la campagne",
+    "ja": "キャンペーンの終了までの時間",
+    "ko": "캠페인이 끝날 때까지 남은 시간",
+    "zh": "剩餘時間直到活動結束",
+    "pt": "Tempo restante até o final da campanha",
     "en": "Time left until the campaign's finish:"
   },  
   // 
@@ -272,7 +272,7 @@ locdata={
     "de": "Tage",
     "fr": "jours",
     "ja": "日",
-    "ko": "일 ",
+    "ko": "일",
     "zh": "天",
     "pt": "dia",
     "en": "days"
@@ -320,7 +320,7 @@ locdata={
     "de": "Geben Sie eine korrekte E-Mailadresse ein",
     "fr": "Entrez l'email correcte ",
     "ja": "正しいEmailをご入力ください",
-    "ko": "실제 이메일 입력하세요",
+    "ko": "올바른 이메일 입력",
     "zh": "输入正确的email",
     "pt": "Digite o e-mail correto",
     "en": "Type correct email"
@@ -332,7 +332,7 @@ locdata={
     "de": "Abonnieren Sie jetzt unseren Newsletter!",
     "fr": "Inscrivez-vous maintenant",
     "ja": "今すぐ購読",
-    "ko": "지금 팔라우하세요",
+    "ko": "특별 할인 정보 받기",
     "zh": "马上订阅",
     "pt": "Inscreva-se agora",
     "en": "GET UNIQUE OFFER"
@@ -344,7 +344,7 @@ locdata={
     "de": "Globale Herausforderung:",
     "fr": "Un problème global:",
     "ja": "グローバルな問題：",
-    "ko": "글로벌  문제",
+    "ko": "글로벌 문제:",
     "zh": "全球问题：",
     "pt": "O problema global:",
     "en": "Global problem:"
@@ -356,7 +356,7 @@ locdata={
     "de": "100 von 196 Ländern weltweit sind Heimat für 2.000.000.000 Menschen ohne ein Bankkonto: Bargeldbesitzer und Menschen ohne Bargeld, Menschen ohne Zugang zu Finanzdienstleistungen. Über 60% von ihnen haben ein Smartphone, 80% sind bei Facebook angemeldet.",
     "fr": "100 des 196 pays du monde hébergent 2000000000 de personnes n'ayant pas de compte bancaire:  ces personnes n'utilisent que des espèces, n'ont aucun historique de crédit, aucun accès à des services financiers. Il est important de noter que la plupart de ces personnes possèdent un smartphone et utilisent régulièrement les réseaux sociaux. 2 000 000 000, c'est un nombre significatif  de nouvelles données et de clients potentiels. Les institutions financières n'ont aucune information sur ce genre de clients ni sur leur historique de crédit, de plus, elle ne souhaite même pas prendre le risque de travailler avec ce type de personnes. Alors que ces gens ont besoin de financements et que les entreprises ont définitivement besoin de nouveaux clients pour survivre à la concurrence.",
     "ja": "グローバルな問題： 世界の196ヵ国から100ヵ国は、銀行口座のない20億人の住まいである。 現金のみで支払いし、信用履歴がなく、金融サービスへのアクセスも無理で、人の60%以上がスマートフォンを持って、80%がFacebookに登録されている。",
-    "ko": "세계 국가 196개 중 100개에서 은행계좌없는 사람 20억 명이 거주한다. 그들은 현금만 쓰고 신용기록, 금융서비스 같은 것이 없다. 이와 같이 그 나라들의 인구 60% 이상이 스마트폰을 쓰고 80%가 페이스북을 가입되어 있다.",
+    "ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
     "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，不适用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
     "pt": "100 de 196 países do mundo são sede de 2.000.000.000 pessoas desbancarizadas sem conta bancária: apenas dinheiro, sem histórico de crédito, sem acesso a serviços financeiros, mais de 60% têm um smartphone, 80% estão registrados no Facebook. ",
     "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!"
@@ -369,7 +369,7 @@ locdata={
     "de": "Wir sind hier, um 2 Milliarden Menschen, die nicht von Banken bedient werden, zu helfen, Teil der neuen Globale Kryptowirtschaft zu werden.",
     "fr": "Nous sommes ici pour aider à inclure les 2 milliards de personnes n'ayant pas accès aux services bancaires dans la nouvelle crypto-économie",
     "ja": "我々は新しいグローバル暗号経済に銀行で扱われていない20億の人を引き付けるように手伝うためにここにいる。",
-    "ko": "우리는 은행으로 제공되지 않는 20억 명을 새로운 글로벌 암호경제에 끌어들이는 일을 돕기 위해 여기에 와 있다.",
+    "ko": "당사의 목적은 새로운 글로벌 크립토 경제를 탐험할 수 있도록 이 20억의 금융 소외 인구를 지원하는 것입니다!",
     "zh": "我们就是要帮助20亿非银行用户进入新的全球性加密经济体中",
     "pt": "Estamos aqui para ajudar a atrair 2 bilhões de pessoas desbancarizadas para Nova Crypto-Economia  Global ",
     "en": "We are here to help these 2 billion unbanked people  to explore The New Global Crypto Economy!"
@@ -382,7 +382,7 @@ locdata={
     "de": "Micromoney ist ein Team aus Profis, die Experten in Entwicklungsländern sind, in welche sich gestandene Banken nicht trauen.",
     "fr": "Micromoney est une équipe de professionnels qui peuvent travailler sur les marchés émergents où les banques établies ne sont pas capables d'aller, et où, elle ne seraient de toute façon pas assez innovantes pour survivre dans un tel environnement.",
     "ja": "MicroMoneyは、恐れがちな銀行が参入しない（たとえ参入しても、地雷原のように捉える）開発市場で働ける専門家のチームである。",
-    "ko": "은행은 발달되어 가는 시장에 들어가기가 무서워서 만일 간다고 해도 폭탄이 터질듯이 조심스럽게 행동한다. 미크로마니는 그러한 발달되고 있는 시장에서 활동할 수 있는 전문가들의 팀이다.",
+    "ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
     "zh": "Micromoney -这是一个专业的团队，我们活跃在各个发展中国家市场中，这是一片银行不敢踏入的领域，这些市场对银行来说是一片雷区。",
     "pt": "A Micromoney é uma equipe de profissionais que são capazes de trabalhar em mercados emergentes, nos quais os bancos temerosos não entram, e mesmo que eles venham, eles atravessarão este mercado como se fosse um campo minado.",
     "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment."
@@ -394,7 +394,7 @@ locdata={
     "de": "Unsere Lösung",
     "fr": "Notre solution",
     "ja": "本社のソリューション",
-    "ko": "우리의 방안은",
+    "ko": "당사의 솔루션",
     "zh": "我们的方案",
     "pt": "Nossa solução",
     "en": "Our Solution"
@@ -407,7 +407,7 @@ locdata={
     "de": "Unsere Lösung Micromoney ist ein öffentlich zugängliches Tool für Finanzierung und der Big Data, das neue Kunden mit Betrieben verbindet. Für Banken, Mikrofinanzierung, Versicherung, elektronischen Handel, Einzelhandel usw. stellt die Plattform der künstlichen Intelligenz von MicroMoney die Zahlungsfähigkeit fest der Einzelkunden fest, sodass der Kreditnehmer in nur 15 Minuten das erste Darlehen in seinem Leben aufnehmen kann. Der gesamte Ablauf findet über die Smartphone-App statt. Alle gesammelten Big Data und Kreditverläufe werden in einem Blockchain gespeichert. Tausende von Unternehmen werden auf diese Weise einen Zugang zu Millionen von neuen Kunden bekommen und sie in die Weltwirtschaft einbinden können.",
     "fr": "MicroMoney est un organisme de crédit Open Source et de Big Data qui met en relation de nouveaux clients avec tous les services financiers existants. La plateforme MicroMoney A. I. utilise des algorythmes complexes pour prévoir la solvabilité de chaque clients qui, en seulement 15 min, peut obtenir le premier prêt de sa vie à partir de son smartphone. Chaque clients a la possibilité de payer moins d'intérêt et d'avoir un meilleur classement dans son historique de crédit en utilisant notre plateforme plus régulièrement. Toutes les données agrégées et les historiques de crédit sont stockés sur la Blockchain. Des milliers d'entreprises auront désormais accès à de nouveaux clients que nous allons insérer dans l'économie mondiale.",
     "ja": "Micromoneyは、企業（銀行、マイクロファイナンス、保険、電子商取引、小売業等）と新しい顧客の間にリンクを作る公共信用・ビッグデータ局である。 MicroMoneyの人工知能プラットフォームは、顧客の支払い能力を決定し、わずか15分のうちに借り手はスマートフォンのみを使用して人生で最初のクレジットを取ることができる。 集計されたビッグデータと信用履歴はすべてブロックチェーンに保存されている。 何千社もの企業が何百万もの新顧客にアクセスができ、グローバル経済に導く。",
-    "ko": "Micromoney는 신규 고객과 은행, 소액 금융, 보험, 전자 상거래, 소매 등 기업과 새로운 차원의 연결을 제공하는 공개된 대출 및 대형 데이터 국이다. 인공 지능의 플랫폼인 Micromoney는 고객의 지불 능력을 결정하고 불과 15분 만에 차용자는 스마트폰만 사용해서 그의 인생에서 첫 번째 대출을 받을 수 있다. 모든 등록된 대용량 데이터와 신용기록이 블록체인에 보관한다. 수천 개의 기업이 수백만 명의 신규 고객을 확보하고 그들을 글로벌 경제로 끌어 들일 것이다.",
+    "ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
     "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与以下企业向联系： 银行、小型融资机构、保险公司、电子商务公司和零售业等。Micromoney 人工智能平台能够确认客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 所有收集到的庞大数据可信用记录被保存在区块链中。 上千家企业可以访问几百万的新客户并吸引他们进入世界经济题中。",
     "pt": "Micromoney é um bureau de empréstimos e dados grandes publicamente disponível que liga novos clientes às empresas: bancos, microfinanças, seguros, comércio eletrônico, varejo, etc. A plataforma da inteligência artificial da Micromoney determina a credibilidade dos clientes, e em apenas 15 minutos o mutuário pode tomar o primeiro empréstimo em sua vida usando apenas um smartphone. Todos os dados grandes agregados e históricos de crédito são armazenados no Blockchain. Milhares de empresas terão acesso a milhões de novos clientes e os envolverão na economia global.",
     "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
@@ -419,7 +419,7 @@ locdata={
     "de": "Wir wachsen",
     "fr": "Nous sommes en croissance",
     "ja": "我々は発展する",
-    "ko": "우리는 성장하고 있다",
+    "ko": "우리는 성장하고 있습니다",
     "zh": "我们在不断成长",
     "pt": "Estamos crescendo",
     "en": "We are growing"
@@ -431,7 +431,7 @@ locdata={
     "de": "Wir können über 7 Billionen USD in die Globale Kryptowirtschaft jährlich heranziehen",
     "fr": "Un business de plusieurs trillions de dollars avec un fort potentiel de croissance ! La demande pour notre type d'engagement financier est énorme et ce n'est que le début. Nous pouvons attirer plus de 7 trillions de dollars en volume annuel dans la crypto-économie Mondiale",
     "ja": "我々は、年にグローバル暗号経済に7兆ドル以上を誘致できる。",
-    "ko": "글로벌 암호경제 속으로  연간 7조 달러 이상을 유치할 수 있다",
+    "ko": "거대한 성장 잠재력을 가진 수조 달러 규모의 비즈니스! 당사와 같은 유형의 금융 포용성에 대한 수요가 거대하며 증가하는 추세입니다. 당사는 글로벌 크립토 경제에 연간 7조 달러 이상을 추가할 수 있습니다.",
     "zh": "我们每年能为全球加密经济吸引超过7万亿美元",
     "pt": "Podemos atrair mais de US $ 7 trilhões na Crypto-Economia  Global em volume anual",
     "en": "A multi trillion dollar business with huge growth potencial! The demand for our type of financial inclusion is huge and on the rise. We can add over 7 trillion dollars in annual volume of Global Crypto Economy"
@@ -515,7 +515,7 @@ locdata={
     "de": "Das haben wir erreicht",
     "fr": "Nos réalisations",
     "ja": "業績",
-    "ko": "성취",
+    "ko": "업적",
     "zh": "成果",
     "pt": "Realizações",
     "en": "Achievements"
@@ -527,7 +527,7 @@ locdata={
     "de": "Märkte, in denen wir erfolgreich arbeiten",
     "fr": "Nous y travaillons avec succès",
     "ja": "成功的に活動している",
-    "ko": "성공적으로 일합니다",
+    "ko": "성과를 올리고 있습니다.",
     "zh": "我们成功进入",
     "pt": "Estamos trabalhando com sucesso",
     "en": "We are successfully working"
@@ -575,7 +575,7 @@ locdata={
     "de": "In der Pipeline (wir starten im 4. Quartal 2017)",
     "fr": "Nous allons commencer dans 3 mois / au 4ème trimestre de 2017",
     "ja": "3ヶ月後にスタート/2017年のQ4",
-    "ko": "3개월 후 / 2017년의 4번째 3개월에 시작할 예정이다.",
+    "ko": "3개월 후/ 2017년 4분기에 출시될 예정입니다.",
     "zh": "经过3个月7年第4季度我们将进入",
     "pt": "Começamos startup em 3 meses/4 trimestre de 2017",
     "en": "We are starting in 3 months / Q4 2017"
@@ -623,7 +623,7 @@ locdata={
     "de": "In 6 weiteren Ländern ist alles startbereit",
     "fr": "Tout est prêt pour un lancement dans ces 6 autres pays",
     "ja": "また6ヵ国にスタートの準備ができている",
-    "ko": "추가로 6개 이상 국가에서 출시될 준비됐다.",
+    "ko": "추가로 6개 이상 국가에서 출시될 준비를 마쳤습니다.",
     "zh": "还将准备进入6个国家和地区",
     "pt": "Tudo está pronto para ser lançado em mais 6 países",
     "en": "Everything is ready to launch in 6 more countries"
@@ -671,7 +671,7 @@ locdata={
     "de": "1,380 Milliarden Menschen",
     "fr": "1,380 milliard de personnes",
     "ja": "13億8000万人",
-    "ko": "사람 1.380억 명",
+    "ko": "13.8억 명",
     "zh": "13.8亿人",
     "pt": "1.380 bilhões de pessoas",
     "en": "1,380 bln people"
@@ -695,7 +695,7 @@ locdata={
     "de": "Singapur",
     "fr": "Singapour",
     "ja": "シンガポール",
-    "ko": "싱가푸르",
+    "ko": "싱가포르",
     "zh": "新加坡",
     "pt": "Cingapura",
     "en": "Singapore"
@@ -707,7 +707,7 @@ locdata={
     "de": "Nigeria",
     "fr": "Le Nigeria",
     "ja": "ナイジェリア",
-    "ko": "니게리아",
+    "ko": "나이지리아",
     "zh": "尼日利亚",
     "pt": "Nigéria",
     "en": "Nigeria"
@@ -719,7 +719,7 @@ locdata={
     "de": "Demnächst",
     "fr": "Un modèle d'affaire : prochainement",
     "ja": "しばらく",
-    "ko": "곧",
+    "ko": "비즈니스 모델: 곧 나올 예정",
     "zh": "很快",
     "pt": "Estará em breve disponível ",
     "en": "Business Model: Will be soon"
@@ -731,7 +731,7 @@ locdata={
     "de": "MicroMoney ist eines der wenigen Blockchain-Unternehmen, das von einem echten Produkt unterstützt wird.",	
     "fr": "MicroMoney est l'une des rares entreprises Blockchain à s'appuyer sur un produit réel.",	
     "ja": "",	
-    "ko": "업무용 제품 지원을 제공하는 토큰의 몇 가지 배포본 중 하나: 사람들은 돈이 필요하고 기업은 고객이 필요하다.",
+    "ko": "MicroMoney는 실물 상품으로 뒷받침되는 몇 안 되는 블록체인 회사 중 하나입니다",
     "zh": "",
     "pt": "Uma das poucas distribuições de tokens com suporte ao produto de trabalho: as pessoas precisam de dinheiro, as empresas precisam de clientes",
     "en": "MicroMoney is one of few Blockchain companies that is backed by a real product"
@@ -743,7 +743,7 @@ locdata={
     "de": "MicroMoney für Menschen:",
     "fr": "Micromoney pour les personnes",
     "ja": "個人向けのMicroМоnеу",
-    "ko": "사람을 위한 Micromoney",
+    "ko": "고객을 위한 소액 금융",
     "zh": "针对个人的Micromoney ",
     "pt": "Micromoney para pessoas",
     "en": "Micromoney for people"
@@ -755,7 +755,7 @@ locdata={
     "de": "",
     "fr": "500,000+ likes sur Facebook",
     "ja": "",
-    "ko": "",
+    "ko": "500,000+ Facebook 좋아요",
     "zh": "",
     "pt": "",
     "en": "500,000+ likes on Facebook"
@@ -767,7 +767,7 @@ locdata={
     "de": "95 000 registrierter Unique Users",
     "fr": "95,000 clients uniques inscrits",
     "ja": "",
-    "ko": "",
+    "ko": "95,000 순 등록 고객",
     "zh": "",
     "pt": "",
     "en": "95,000 unique registered customers"
@@ -779,7 +779,7 @@ locdata={
     "de": "Big Data fürs Geschäft",
     "fr": "Big Data pour les entreprises",
     "ja": "ビジネス向けのビッグデータ",
-    "ko": "사업을 위한 대용량 데이터",
+    "ko": "기업을 위한 빅데이터",
     "zh": "针对企业的海量数据",
     "pt": "Dados comerciais grandes",
     "en": "Big data for business"
@@ -791,7 +791,7 @@ locdata={
     "de": "Große Nachfrage bei Banken",
     "fr": "Une grosse demande de la part des banques,",
     "ja": "",
-    "ko": "",
+    "ko": "은행의 거대 수요",
     "zh": "",
     "pt": "",
     "en": "huge demand from Banks"
@@ -803,7 +803,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "전자상거래",
     "zh": "",
     "pt": "",
     "en": "E-commerce"
@@ -815,7 +815,7 @@ locdata={
     "de": "Telecom-Branche & Retail-Businesses",
     "fr": "du e-commerce, des secteurs télécom et du retail.",
     "ja": "",
-    "ko": "",
+    "ko": "통신 & 리테일 비즈니스",
     "zh": "",
     "pt": "",
     "en": "Telecom &amp; Retail businesses"
@@ -827,7 +827,7 @@ locdata={
     "de": "Wachstums-Perspektive",
     "fr": "Perspectives de croissance",
     "ja": "成長の見通し",
-    "ko": "성장 전망",
+    "ko": "미래 성장",
     "zh": "发展前景",
     "pt": "Perspectiva de crescimento",
     "en": "Future Growth"
@@ -839,7 +839,7 @@ locdata={
     "de": "Weltweite Expansion - über 100 Länder mit einer riesigen Nachfrage nach unseren Angeboten",
     "fr": "Un développement à travers le monde: plus de 100 nouveaux pays, avec importantes demandes de nos services",
     "ja": "全政界における拡大ー我々のサービスを大いに需要する新しい国の100ヵ国以上",
-    "ko": "전 세계에 확장 — 우리 서비스에 대한 큰 수요가 있는 100개 이상의 새로운 국가",
+    "ko": "전 세계로의 확장 - 100개 이상의 국가에서 당사 서비스에 대한 수요가 상당히 높습니다.",
     "zh": "向全世界的扩展-超过100个新国家对我们的服务拥有巨大需求",
     "pt": "Expansões em todo o mundo - mais de 100 novos países com grande demanda por nossos serviços",
     "en": "Expansion worldwide – more than 100+ countries in the world with a huge demand for our services"
@@ -851,7 +851,7 @@ locdata={
     "de": "Auf Etherium-Basis",
     "fr": "Un système basé sur d'Etherium ",
     "ja": "Ethereumに基づく",
-    "ko": "에피룸에 바탕하여",
+    "ko": "이더리움 기반",
     "zh": "以以太坊为基础",
     "pt": "Com base no Etherium",
     "en": "Powered by Ethereum"
@@ -864,7 +864,7 @@ locdata={
 	"de": "Ihr Kreditverlauf in einer verteilten Datenbank -  transparent, kontrollierbar und kryptographisch mit einem verifizierten Code steuerbar",
     "fr": "Votre historique de crédit sur la Blockchain est transparent, vérifiable et géré par un code cryptografié vérifiable",
     "ja": "信用履歴は分散データベース内で保存され、透過的で、コントロールしやすく、暗号てきに承認されるコードによって管理される。",
-    "ko": "고객님의 분산 데이터베이스 속에 신용 기록 — 투명하고 제어되며 암호로 검증 가능한 코드로 제어됨",
+    "ko": "블록체인에 저장되는 신용 기록 - 투명하고, 감사가 가능하며, 암호화 기법으로 검증 가능한 코드로 관리됩니다.",
     "zh": "我们在分配数据库中的信用记录-透明、受到监控、受到密码与验证码的管理",
     "pt": "Seu histórico de crédito em um banco de dados distribuído é transparente, supervisionado, controlado por código criptograficamente verificável",
     "en": "Your credit history on blockchain - Transparent, Auditable, Administered by cryptographically verifiable code"
@@ -876,7 +876,7 @@ locdata={
     "de": "Finanzielle Integration",
     "fr": "Intégration financière",
     "ja": "金融的統合",
-    "ko": "재정접속",
+    "ko": "금융 포용성",
     "zh": "金融一体化",
     "pt": "Integração financeira",
     "en": "Financial inclusion"
@@ -888,7 +888,7 @@ locdata={
     "de": "Integration von 2 Milliarden Menschen in die globale Kryptowirtschaft",
     "fr": "Attirer de 2 milliards de personnes dans la crypto-économie mondiale",
     "ja": "20億人をグローバル暗号経済に引き付ける",
-    "ko": "글로벌 암호경제 속으로 20억 명을 끌어내기",
+    "ko": "글로벌 크립토 경제에 20억 인구가 추가됩니다.",
     "zh": "将20亿人带入全球加密经济中",
     "pt": "Envolvimento de 2 bilhões de pessoas na cripto-economia global",
     "en": "Add 2 bln people in world global crypto economy"
@@ -912,7 +912,7 @@ locdata={
     "de": "Micromoney setzt auf ein kostenloses Modell der Open Source Software",
     "fr": "Micromoney croit au modèle de type open source et aux logiciels libres",
     "ja": "MicroMoneyは、無料のオープンソースのソフトウェアモデルを信頼している",
-    "ko": "Micromoney는 오픈 소스로 자유 소프트웨어 모델을 신뢰합니다.",
+    "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式",
     "pt": "Micromoney confia em modelo de software livre de código aberto",
     "en": "Micromoney believes in maintaining a free and open source software model"
@@ -924,7 +924,7 @@ locdata={
     "de": "Digitale Identifizierung",
     "fr": "Identité numérique",
     "ja": "デジタル識別",
-    "ko": "디지털 인증",
+    "ko": "디지털 ID",
     "zh": "数字识别",
     "pt": "Identificação digital",
     "en": "Digital Identity"
@@ -936,7 +936,7 @@ locdata={
     "de": "Schaffung einer virtuellen Identifizierung, die sich mit Ihnen und ihren Mitteln entwickelt",
     "fr": "Création d'une identité numérique qui évolue avec vous et selon vos moyens",
     "ja": "あなたとあなたの資金と共に進化する仮想識別システムの作成",
-    "ko": "고객님과 함께 발달하는 가상 신분증 작성",
+    "ko": "고객 및 고객의 자금과 함께 발전하는 가상 ID를 만들 수 있습니다.",
     "zh": "建立验证识别，它将同我们和我们的资金共同发展",
     "pt": "Criação de uma identificação virtual que se desenvolve com você e seus meios meios monetários",
     "en": "Create a virtual identity that evolves with you and your funds"
@@ -960,7 +960,7 @@ locdata={
     "de": "Schnell, ohne Vermittler, zuverlässig",
     "fr": "Rapide, sans intermédiaires, fiable",
     "ja": "高速、仲介なしで、信頼性の高い",
-    "ko": "빠르고 중개자없는, 믿을 수있는",
+    "ko": "빠르고, 중개인이 없으며, 신뢰할 수 있습니다.",
     "zh": "快速、无中介、可靠",
     "pt": "Rápido, sem intermediários, confiável",
     "en": "Fast, no mediators, reliable"
@@ -972,7 +972,7 @@ locdata={
     "de": "Wir sind Anhänger des Blockchainsystems, und wir haben vor, in das Ökosystem einzudringen",
     "fr": "Nous sommes partisans du système Blockchain, et avons l'intention d'intégrer cet écosystème",
     "ja": "我々は、ブロックチェーンシステムの信奉者であり、次ぎの生態系に潜入するつもりである。",
-    "ko": "우리는블록체인 시스템의 지지자이며 차용인의 신분 확인 및 검증을 개선하기 위해 Civic 생태계에 침투하려고 한다",
+    "ko": "당사는 블록체인 전문가로 구성되어 있으며, 이 생태계와의 통합을 계획하고 있습니다.",
     "zh": "我们是区块链系统的拥护者，我们打算将这一技术应用在生态体系中",
     "pt": "Somos adeptos do sistema Blockchain e planejamos integrar-nos ao ecossistema",
     "en": "We are blockchain adepts and we plan to be integrated into the ecosystem"
@@ -984,10 +984,10 @@ locdata={
     "de": "Civic, um die Identifizierung und Verifizierung des Darlehensnehmers zu perfektionieren",
     "fr": "Civic, améliorer l'identification et la vérification de l'emprunteur",
     "ja": "借り手の識別と検証を改善するためーCivic",
-    "ko": "",
+    "ko": "Civic, 대출자의 신원 확인 & 검증 개선",
     "zh": "Civic可完善对贷款人的识别与验证",
     "pt": "Civic, sirve para melhorar a identificação e verificação do mutuário",
-    "en": "<span>Civic, To improve borrower’s identification & verification</span>"
+    "en": "Civic, To improve borrower’s identification & verification"
   },
   "59d2f090a0624f4ad4889093": {
     "ru": "Hive, чтобы обеспечить финансирование наших предприятий малого и среднего бизнеса",
@@ -996,10 +996,10 @@ locdata={
     "de": "Hive, um die Finanzierung von unseren kleinen und mittleren Unternehmen zu gewährleisten",
     "fr": "Hive, fournir des fonds à nos clients PME",
     "ja": "中小企業に融資を提供するためーHive",
-    "ko": "Hive, 중소기업 자금 지원을 보상하기 위해",
+    "ko": "Hive, 중소기업 고객에게 자금 지원",
     "zh": "Hive确保中小企业的融资",
     "pt": "Hive, fornecendo financiamento para nossos clientes de PMEs",
-    "en": "<span>Hive, providing funding for our SME customers</span>"
+    "en": "Hive, providing funding for our SME customers"
   },
   "59d2f090a0624f4ad4889094": {
     "ru": "GOLEM, децентрализованный суперкомпьютер.",
@@ -1008,10 +1008,10 @@ locdata={
     "de": "GOLEM, dezentralisierter Supercomputer.",
     "fr": "GOLEM, Super-calculateur décentralisé. Mettre l'IA au service de nos solutions de notations et d'analyses des risques",
     "ja": "分散型スパコンであるGOLEM。",
-    "ko": "GOLEM, 분산 슈퍼 컴퓨터이다.",
+    "ko": "GOLEM, 분산 슈퍼컴퓨터. 평가 및 위험 분석 솔루션을 위해 AI 사용",
     "zh": "GOLEM分散超级计算机。",
     "pt": "GOLEM, um supercomputador descentralizado.",
-    "en": "<span>GOLEM, Decentralized supercomputer. Deploying AI for our scoring and risk analytics solutions</span>"
+    "en": "GOLEM, Decentralized supercomputer. Deploying AI for our scoring and risk analytics solutions"
   },
   "59d2f090a0624f4ad4889095": {
     "ru": "Tether, альтернативная платежная система",
@@ -1020,10 +1020,10 @@ locdata={
     "de": "Tether, alternatives Bezahlsystem",
     "fr": "Tether, Système de paiement alternatif",
     "ja": "Tether、代替支払いシステム",
-    "ko": "Tether, 대체 지불 시스템 ",
+    "ko": "Tether, 대체 지불 시스템",
     "zh": "Tether非传统的支付系统",
     "pt": "Tether, um sistema de pagamento alternativo",
-    "en": "<span>Tether, Alternative Payment system</span>"
+    "en": "Tether, Alternative Payment system"
   },
   "59d2f090a0624f4ad4889096": {
     "ru": "Uport, глобальная, единая, независимая система идентификации клиентов",
@@ -1032,10 +1032,10 @@ locdata={
     "de": "Uport, ein globales, einheitliches, unabhängiges System der Identifizierung der Kunden",
     "fr": "Uport, Système d'identité client global, unifié et indépendant",
     "ja": "Uport、グローバル、統一・独立した顧客識別システム",
-    "ko": "Uport, 글로벌, 통합, 독립 고객 식별 시스템",
+    "ko": "Uport, 독립적인 글로벌 고객 ID 통합 시스템",
     "zh": "Uport-全球化、统一、独立的客户识别系统",
     "pt": "Uport, um sistema de identificação de clientes global, unificado e independente",
-    "en": "<span>Uport, Global, unified, sovereign customer’s identity system</span>"
+    "en": "Uport, Global, unified, sovereign customer’s identity system"
   },
   "59d2f090a0624f4ad4889097": {
     "ru": "COSMOS, сеть и основа для совместимости распределенных баз",
@@ -1044,10 +1044,10 @@ locdata={
     "de": "COSMOS, Netzwert und Grundlage für die Kompatibilität der verteilten Datenbanken",
     "fr": "COSMO, un réseau et un cadre pour une interopérabilité entre blockchain",
     "ja": "COSMOS、分散ベースの互換性の基礎とネットワーク",
-    "ko": "COSMOS, 네트워크 및 분산 데이터베이스의 호환성을 위한 기초",
+    "ko": "COSMOS, 블록체인 간 상호 운용성을 위한 네트워크 및 프레임워크",
     "zh": "COSMOS针对分配数据库相容性的网络和基础",
     "pt": "COSMOS, rede e base para a interoperabilidade entre os bancos na materia de blockchains de dados distribuídos",
-    "en": "<span>COSMOS, Network and a framework for interoperability between blockchains</span>"
+    "en": "COSMOS, Network and a framework for interoperability between blockchains"
   },
   "59d2f090a0624f4ad4889098": {
     "ru": "Everex, трансграничная платежная система.",
@@ -1056,7 +1056,7 @@ locdata={
     "de": "Everex, ein grenzüberschreitendes Bezahlsystem.",
     "fr": "Everex, Système de paiement transfrontalier. Obtenir des crypto-monnaies pour nos emprunteurs.",
     "ja": "Everex、クロスボーダー支払いシステム。",
-    "ko": "Everex, 국경간 지급 시스템.",
+    "ko": "Everex, 국경 간 지급 시스템. 대출자에 암호화 현금(crypto-cash) 지급.",
     "zh": "Everex，汇款系统。",
     "pt": "Everex, sistema de pagamento transfronteiriço.",
     "en": "Everex, Cross-border payment system. Getting crypto-cash for our borrowers."
@@ -1068,7 +1068,7 @@ locdata={
     "de": "Android-App für Kreditnehmer",
     "fr": "Application sur Android pour les emprunteurs",
     "ja": "借り手向けのアンドロイドのアプリ",
-    "ko": "차용인을 위한 Android 앱",
+    "ko": "대출자용 Android 앱",
     "zh": "为借款人设计的Android软件",
     "pt": "Aplicativo para Android para mutuários ",
     "en": "Android App for Borrowers"
@@ -1080,7 +1080,7 @@ locdata={
     "de": "Über 10.000 Downloads",
     "fr": "(Noté 4,7 !Plus de 10 000 téléchargements)",
     "ja": "1万回以上ダウンロードされた）",
-    "ko": "(다운 10000번 이상)",
+    "ko": "(평점 4.7! 다운로드 횟수 10,000건 이상)",
     "zh": "超过10000次下载）",
     "pt": "Mais de 10.000 downloads)",
     "en": "(4,7 Rating! More 10.000 downloads)"
@@ -1092,7 +1092,7 @@ locdata={
     "de": "Testen Sie die neue Micromoney App für Kreditnehmer!",
     "fr": "Testez l'application Micromoney APP pour les emprunteurs!",
     "ja": "借り手向けの Micromoney APPアプリを体験してください！",
-    "ko": "차용인을 위한 Micromoney 앱을 실험해보세요!",
+    "ko": "대출자용 MICROMONEY 앱을 사용해 보세요!",
     "zh": "试用为借款人设计的 Micromoney APP 软件！",
     "pt": "Experimente APP da Micro Money para os mutuários!",
     "en": "TRY MICROMONEY APP for borrowers!"
@@ -1104,7 +1104,7 @@ locdata={
     "de": "Micromoney vertraut dem kostenlosen Modell der Open Source Software",
     "fr": "Micromoney croit à l'open source et aux logiciels libres",
     "ja": "MicroMoneyは無料のオープンソースのソフトウェアモデルを信頼している。",
-    "ko": "Micromoney는 오픈 소스로 자유 소프트웨어 모델을 신뢰합니다.",
+    "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式。",
     "pt": "Micromoney confia em um modelo de software livre com código aberto.",
     "en": "Micromoney believes in maintaining a free and open source software model."
@@ -1116,7 +1116,7 @@ locdata={
     "de": "Prüfen Sie unsere Dokumente",
     "fr": "Consultez nos documents",
     "ja": "私たちの書類を調べる",
-    "ko": "우리의 서류를 확인하십시오.",
+    "ko": "당사의 문서를 확인해 보세요.",
     "zh": "檢查我們的文件",
     "pt": "",
     "en": "Check our documents"
@@ -1140,7 +1140,7 @@ locdata={
     "de": "DATENSCHUTZ-RICHTLINIEN",
     "fr": "Politique de confidentialité",
     "ja": "個人情報保護方針",
-    "ko": "개인 정보 정책",
+    "ko": "개인정보 정책 ",
     "zh": "隱私政策",
     "pt": "política de privacidade",
     "en": "privacy policy"
@@ -1152,7 +1152,7 @@ locdata={
     "de": "KURZFASSUNG WHITEPAPER",
     "fr": "Résumé du Livre Blanc",
     "ja": "",
-    "ko": "",
+    "ko": "백서 요약",
     "zh": "",
     "pt": "",
     "en": "Summary of the whitepaper"
@@ -1164,7 +1164,7 @@ locdata={
     "de": "KURZFASSUNG BUSINESS-MODELL",
     "fr": "LE BUSINESS PLAN EN BREF",
     "ja": "",
-    "ko": "",
+    "ko": "비즈니스 모델 (요약)",
     "zh": "",
     "pt": "",
     "en": "Business model briefly"
@@ -1176,7 +1176,7 @@ locdata={
     "de": "DETAILFASSUNG BUSINESS-MODELL",
     "fr": "Le Business Plan en intégralité",
     "ja": "",
-    "ko": "",
+    "ko": "비즈니스 모델 (전문)",
     "zh": "",
     "pt": "",
     "en": "Business model fully"
@@ -1188,7 +1188,7 @@ locdata={
     "de": "",
     "fr": "Résumé en quelques lignes",
     "ja": "",
-    "ko": "",
+    "ko": "엘리베이터 피치",
     "zh": "",
     "pt": "",
     "en": "Elevator Pitch"
@@ -1200,7 +1200,7 @@ locdata={
     "de": "Kontaktieren Sie uns",
     "fr": "Nous contacter",
     "ja": "お問い合わせ",
-    "ko": "우리와 연락",
+    "ko": "연락처",
     "zh": "與我們聯繫",
     "pt": "Entre em contato conosco",
     "en": "Contact with us"
@@ -1212,7 +1212,7 @@ locdata={
 	"de": "Wir starteten im Dezember 2015 unsere Tätigkeit mit:",
     "fr": "En décembre 2015, nous avons commencé nos activités avec:",
     "ja": "2015年に活動を始まるところ、",
-    "ko": "2015년 12월에 우리 활동을 다음과 같이 시작했다:",
+    "ko": "2015년 12월 사업 시작: ",
     "zh": "2015年12月我们凭借以下资源开展业务：",
     "pt": "Em dezembro de 2015 iniciamos nossa negócio com:",
     "en": "In December 2015, we started our business with:"
@@ -1224,7 +1224,7 @@ locdata={
     "de": "30.000 US-Dollar Startkapital",
     "fr": "30000 dollars US comme capital initial",
     "ja": "手始めの資本は3万米国ドル",
-    "ko": "초기 자본금 $ 30,000",
+    "ko": "초기 자본금 $30,000",
     "zh": "使用30000美元的启动资金",
     "pt": "US $ 30.000 do capital inicial",
     "en": "$30,000 of initial capital"
@@ -1236,7 +1236,7 @@ locdata={
     "de": "3 Mitarbeiter im Team",
     "fr": "3 personnes dans l'équipe",
     "ja": "チームメンバーは3人",
-    "ko": "조원 3명",
+    "ko": "팀원 3명",
     "zh": "3名工作人员组成的团队",
     "pt": "3 funcionários em equipe",
     "en": "3 employees in a team"
@@ -1248,7 +1248,7 @@ locdata={
     "de": "ersten 20 Kunden, und die Informationen wurden mit Excel und Google Docs verarbeitet",
     "fr": "les informations des 20 premiers clients ont été traitées sur Excel et Google Docs",
     "ja": "顧客は20人で、情報処理はExcelとGoogle Docsによってされた",
-    "ko": "첫 고객 20명, 정보는 Excel과 Google Docs에서 분석됐다.",
+    "ko": "첫 고객 20명, Excel 및 Google 문서로 모든 프로세스 처리",
     "zh": "首批20名客户，在 Excel和Google Docs进行信息加工",
     "pt": "primeiros 20 clientes, as informações foram processadas no Excel e no Google Docs 2016",
     "en": "first 20 customers, and all the processes in Excel and Google docs"
@@ -1260,7 +1260,7 @@ locdata={
     "de": "Haben eine Entwicklung des dezentralisierten Büros der Finanzierung begonnen:",
     "fr": "Nous avons commencé l'élaboration du bureau de crédit décentralisé: ",
     "ja": "分散型信用局の開発を開始：",
-    "ko": "분산된 대출 기관의 개발을 시작했다:",
+    "ko": "분산형 크레딧 뷰로의 개발 시작:",
     "zh": "开始筹建分散信用局：",
     "pt": "Equipe de 35 pessoas",
     "en": "Started to develop the Decentalized Credit bureau:"
@@ -1272,7 +1272,7 @@ locdata={
     "de": "Team von 35 Mitarbeitern",
     "fr": "Une équipe de 35 personnes ",
     "ja": "チームメンバーは35人",
-    "ko": "조원 35명",
+    "ko": "35명의 팀원",
     "zh": "35人组成的团队",
     "pt": "23000 usuários únicos registrados",
     "en": "35 people team"
@@ -1284,7 +1284,7 @@ locdata={
     "de": "23000 registrierte Unique Users",
     "fr": "23000 utilisateurs inscrits",
     "ja": "登録されたユニークなユーザは23000人",
-    "ko": "등록된 유일한 고객 23,000 명",
+    "ko": "23,000명의 순 등록 사용자",
     "zh": "23000个独立注册用户",
     "pt": "Agora",
     "en": "23.000 unique registered users"
@@ -1296,9 +1296,9 @@ locdata={
     "de": "Jetzt",
     "fr": "Maintenant",
     "ja": "現在",
-    "ko": "지금 팔라우하세요",
+    "ko": "현재",
     "zh": "目前",
-    "pt": "Indonésia, Sri Lanka, Tailândia",
+    "pt": "Agora",
     "en": "Now"
   },
   "59d2f090a0624f4ad48890bf": {
@@ -1308,7 +1308,7 @@ locdata={
     "de": "2017 beträgt der aktuelle Wert der Gesellschaft 1,85 Millionen US-Dollar",
     "fr": "En 2017, la valeur actuelle de l'entreprise est de 1,85 million de dollars US",
     "ja": "2017年に本社の現在の値は185万米国ドルに達した",
-    "ko": "2017년에 회사의 현재 비용이 1.85백만 달러이다",
+    "ko": "2017년, 회사의 현재 가치는 185만 달러입니다.",
     "zh": "2017年公司的价值为185万美元",
     "pt": "Equipe de 85 pessoas",
     "en": "In 2017, the current value of the company is $1.85 mln"
@@ -1320,7 +1320,7 @@ locdata={
     "de": "Team von 85 Mitarbeitern",
     "fr": "Une équipe de 85 personnes",
     "ja": "チームメンバーは85人",
-    "ko": "조원 85명",
+    "ko": "팀원 85명",
     "zh": "由85人组成的团队",
     "pt": "Mais de 95.000 clientes únicos registrados",
     "en": "85 people in the team"
@@ -1332,7 +1332,7 @@ locdata={
     "de": "Über 95.000 registrierte Unique Users",
     "fr": "Plus de 95000 de clients",
     "ja": "登録されたユニークなユーザは95000人以上",
-    "ko": "등록된 유일한 고객 95,000 명 이상",
+    "ko": "순 등록 사용자 95,000+",
     "zh": "超过95000位独立用户注册",
     "pt": "Mais de 500 mil pessoas gostam no Facebook",
     "en": "95,000+ unique registered users"
@@ -1344,7 +1344,7 @@ locdata={
     "de": "Über 500.000 \"Likes\" bei Facebook",
     "fr": "Plus de 500000 \"j'aime\" sur Facebook",
     "ja": "Facebook上で50万以上の「いいね！」",
-    "ko": "페이스북 페이지에 좋아요 500,000개 이상",
+    "ko": "Facebook 페이지의 좋아요 수 500,000+",
     "zh": "Facebook中超过500000 次点赞",
     "pt": "US1$ 1.000.000",
     "en": "500,000+ Facebook page likes"
@@ -1356,7 +1356,7 @@ locdata={
     "de": "Inbetriebnahme eines dezentralisierten, öffentlich zugänglichen Kreditbüros auf Blockchainbasis und Beginn der weltweiten Expansion",
     "fr": "Lancement du bureau de crédit Open Source sur la base de BLockchain et début d'un développement international",
     "ja": "ブロックチェーンに基づく分散型公的信用局及び世界展開の開始",
-    "ko": "블록체인에 기초하는 지방 분권화된 공공 신용 조사소 출범과 세계 확장의 시작",
+    "ko": "블록체인 기반의 분산형 오픈소스 크레딧 뷰로 출시 및 글로벌 확장 시",
     "zh": "以区块链技术为基础的分散式公开信用局投放，开始全世界规模的扩展",
     "pt": "Lançamento de um bureau de crédito descentralizado público com base no Blockchain e início da expansão mundial.",
     "en": "Launch of the Decentalized Open Source Credit bureau based on Blockchain and start of global expanding"
@@ -1390,9 +1390,9 @@ locdata={
     "es": "",
     "it": "",
     "de": "",
-    "fr": "",
+    "fr": "Taïwan",
     "ja": "",
-    "ko": "",
+    "ko": "대만",
     "zh": "",
     "pt": "",
     "en": "Taiwan"
@@ -1404,7 +1404,7 @@ locdata={
     "de": "",
     "fr": "La Corée du Sud",
     "ja": "",
-    "ko": "",
+    "ko": "대한민국",
     "zh": "",
     "pt": "",
     "en": "South Korea"
@@ -1416,7 +1416,7 @@ locdata={
     "de": "",
     "fr": "L'Afrique",
     "ja": "",
-    "ko": "",
+    "ko": "아프리카",
     "zh": "",
     "pt": "",
     "en": "Africa"
@@ -1428,7 +1428,7 @@ locdata={
     "de": "Nahost-Region",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "중동",
     "zh": "",
     "pt": "",
     "en": "Middle East"
@@ -1440,7 +1440,7 @@ locdata={
     "de": "Europa",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "유럽",
     "zh": "",
     "pt": "",
     "en": "Europe"
@@ -1452,7 +1452,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "미국",
     "zh": "",
     "pt": "",
     "en": "USA"
@@ -1464,7 +1464,7 @@ locdata={
     "de": "Bis zum 4. Quartal 2020",
     "fr": "Jusqu'au 4ème trimestre de l'année 2020",
     "ja": "2020年4Qまで",
-    "ko": "2020년 4째 3개월까지",
+    "ko": "2020년 4분기까지",
     "zh": "至2020年第4季度",
     "pt": "Antes do 4º trimestre de 2020",
     "en": "Up to Q4 2020"
@@ -1476,7 +1476,7 @@ locdata={
     "de": "Wir werden unser Bestes geben, um den Marktwert von MicroMoney im Jahr 2020 auf 1 Milliarde US-Dollar zu erreichen",
     "fr": "Nous ferons de notre mieux pour atteindre la valeur marchande de MicroMoney d'un milliard de dollars d'ici 2020",
     "ja": "2020年までにMicroMoneyの市場価値10億ドルを達成するためにできる限り最善を尽くします",
-    "ko": "우리는 2020 년까지 MicroMoney의 시장 가치 10 억 달러 달성을 위해 최선을 다할 것입니다.",
+    "ko": "2020년까지 MicroMoney의 시장 가치 1조 달러 달성을 위해 최선을 다할 것입니다.",
     "zh": "到2020年，我們將盡全力實現MicroMoney的10億美元市值",
     "pt": "",
     "en": "We do our best to make sure MicroMoney's market cap will achieve $1 billion mark by 2020"
@@ -1621,7 +1621,7 @@ locdata={
     "de": "",
     "fr": "Symbole",
     "ja": "",
-    "ko": "",
+    "ko": "기호",
     "zh": "",
     "pt": "",
     "en": "Symbol"
@@ -1657,7 +1657,7 @@ locdata={
     "de": "Wachstumsplan",
     "fr": "Objectif à atteindre",
     "ja": "",
-    "ko": "",
+    "ko": "모집 계획",
     "zh": "",
     "pt": "",
     "en": "Plan to raise"
@@ -1669,7 +1669,7 @@ locdata={
     "de": "",
     "fr": "Objectif haut",
     "ja": "",
-    "ko": "",
+    "ko": "최대 모금액",
     "zh": "",
     "pt": "",
     "en": "Hard cap"
@@ -1681,7 +1681,7 @@ locdata={
     "de": "Anpassungsmöglichkeit",
     "fr": "Marge ajustable",
     "ja": "調整の可能性",
-    "ko": "조절가능",
+    "ko": "조절 가능",
     "zh": "调控可能性",
     "pt": "Ajustável",
     "en": "Adjustable"
@@ -1693,7 +1693,7 @@ locdata={
     "de": "Jegliche Tokens, die während des Token-Crowdsale nicht verkauft werden, erlöschen.",
     "fr": "Tous les jetons non vendus lors de la vente publique des jetons seront utilisés ",
     "ja": "販売されていないどのトークンでもクラウドセール中でなくなる。",
-    "ko": "팔리지 않은 모든 토큰이 공개판매 때 사라질 것이다.",
+    "ko": "100% 선 채굴. 토큰 공개 판매 때 미판매된 모든 토큰은 소각됩니다.",
     "zh": "在代币公开销售期间所有未销售的代币将被销毁。",
     "pt": "Todos os tokens não vendidos durante o Token Crowdsale serão queimados ",
     "en": "100% pre-mined. Any unsold tokens during the Token distribution will be burned."
@@ -1705,7 +1705,7 @@ locdata={
     "de": "Art der Tokens",
     "fr": "Type de jetons",
     "ja": "トークンの種類",
-    "ko": "토큰 종류",
+    "ko": "토큰 유형",
     "zh": "代币类型",
     "pt": "Tipo de tokens",
     "en": "Token type"
@@ -1717,7 +1717,7 @@ locdata={
     "de": "Können Tokens verkauft werden, bevor das Crowdsale endet.",
     "fr": "Peuvent être vendus avant la fin de l'émission de jetons",
     "ja": "トークンのクラウドセールが終わる前に販売可能",
-    "ko": "공개판매가 끝나기 전에 팔릴 수 있다",
+    "ko": "토큰 분배의 완료 전에 토큰을 판매할 수 있습니까",
     "zh": "可能在代币公开销售结束前销售",
     "pt": "Pode ser vendido antes de Crowdsdale de tokens terminar ",
     "en": "Can be sold before Token distribution finished"
@@ -1729,7 +1729,7 @@ locdata={
     "de": "Nein, alle Tokens können erst verkauft werden, nachdem der Token-Crowdsale endet.",
     "fr": "Non, les tokens ne peuvent être vendus qu'après la fin de l'émission de tokens.",
     "ja": "いいえ、全てのトークンはクラウドセールが終わってからでないとに販売できない",
-    "ko": "아니요, 모든 토큰은 공개판매가 끝날 때만 팔릴 수 있다",
+    "ko": "아니요, 모든 토큰은 토큰 분배가 완료된 후에만 판매할 수 있습니다.",
     "zh": "不，所有的代币只在代币公开销售结束后销售。",
     "pt": "Não, todos os tokens só podem ser vendidos após Crowdsale de tokens terminar.",
     "en": "No, all tokens can be sold only after Token distribution finished."
@@ -1741,19 +1741,19 @@ locdata={
     "de": "Startpreis",
     "fr": "Prix de départ",
     "ja": "初期価格",
-    "ko": "시작값",
+    "ko": "초기 가격",
     "zh": "初始价格",
     "pt": "Preço inicial",
     "en": "Initial price"
   },
   "59d2f091a0624f4ad48890e2": {
-    "ru": "Структура кампании",
+    "ru": "Структура дистибьюции токена",
     "es": "Estructura de crowdsale-tokens",
     "it": "Struttura di Crowdsale AMM Token",
     "de": "Struktur des Token-Crowdsale",
     "fr": "Structure de l'émission de jetons",
     "ja": "トークンのクラウドセールの構成",
-    "ko": "토큰 공개판매의 구조",
+    "ko": "토큰 분배 구조",
     "zh": "代币公开销售结构",
     "pt": "Estrutura de Crowdsley de tokens ",
     "en": "Token distribution Structure"
@@ -1765,7 +1765,7 @@ locdata={
     "de": "Verteilung",
     "fr": "La distribution",
     "ja": "分布",
-    "ko": "배포",
+    "ko": "분배",
     "zh": "分配",
     "pt": "Distribuição",
     "en": "Distribution"
@@ -1789,7 +1789,7 @@ locdata={
     "de": "Team (Prämie für 1 Jahr gesperrt)",
     "fr": "L'équipe (gelé sur 1 an)",
     "ja": "チーム（1年間にフリーズ）",
-    "ko": "팀 (1 년간 동결)",
+    "ko": "팀 (1년간 동결)",
     "zh": "团队（1年内保持不变）",
     "pt": "Equipe (se congela por 1 ano)",
     "en": "Team (freezing for 1 year)"
@@ -1801,7 +1801,7 @@ locdata={
     "de": "Berater/Betreuer",
     "fr": "Les consultants / les curateurs",
     "ja": "コンサルタント/キュレーター",
-    "ko": "컨설턴트/멘토",
+    "ko": "어드바이저/멘토",
     "zh": "顾问协调人",
     "pt": "Consultores/curadores",
     "en": "Advisors / mentors"
@@ -1813,7 +1813,7 @@ locdata={
     "de": "Prämien",
     "fr": "Les primes",
     "ja": "プレミアム",
-    "ko": "상금",
+    "ko": "바운티",
     "zh": "奖金",
     "pt": "Prêmios",
     "en": "Bounties"
@@ -1837,7 +1837,7 @@ locdata={
     "de": "Privater Weiterverkauf",
     "fr": "Pré-vente privée",
     "ja": "個人再販売",
-    "ko": "비공개 판매",
+    "ko": "비공개 사전 분배",
     "zh": "部分预售",
     "pt": "Pré-venda privada",
     "en": "Private Predistribution"
@@ -1893,11 +1893,11 @@ locdata={
   "59d2f091a0624f4ad48890ed": {
     "ru": "Кампания",
     "es": "",
-    "it": "",
+    "it": "Società",
     "de": "Kampagne",
     "fr": "Campagne",
     "ja": "",
-    "ko": "",
+    "ko": "캠페인",
     "zh": "",
     "pt": "",
     "en": "Campaign"
@@ -1909,7 +1909,7 @@ locdata={
     "de": "Kampagne der Bitcointalk-Signaturen",
     "fr": "Campagne de Souscription Bitcointalk",
     "ja": "Bitcointalkのサイン・キャンペーン",
-    "ko": "Bitcointalk 사인 캠페인",
+    "ko": "Bitcointalk 서명 캠페인",
     "zh": "订阅Bitcointalk的公司",
     "pt": "Campanha de assinaturas Bitcointalk",
     "en": "Bitcointalk Signatures Campaign"
@@ -1921,7 +1921,7 @@ locdata={
     "de": "Unterstützungskampagne von Bitcointalk",
     "fr": "Campagne de Soutien Bitcointalk",
     "ja": "Bitcointalkのサポート・キャンペーン",
-    "ko": "Bitcointalk 지원캠페인",
+    "ko": "Bitcointalk 지원 캠페인",
     "zh": "支持Bitcointalk的公司",
     "pt": "Campanha de apoio ao Bitcointalk",
     "en": "Bitcointalk Support Campaign"
@@ -1933,7 +1933,7 @@ locdata={
     "de": "Veröffentlichungs kampagne",
     "fr": "Campagne de Publication",
     "ja": "投稿キャンペーン",
-    "ko": "게시 캠페인",
+    "ko": "게시",
     "zh": "出版公司",
     "pt": "Campanha de Publicação ",
     "en": "Publishing"
@@ -1945,7 +1945,7 @@ locdata={
     "de": "Kreative Unterstützung des Projekts",
     "fr": "Soutien Créatif au Projet",
     "ja": "プロジェクトの創造的なサポート",
-    "ko": "프로젝트의 창조적 지원",
+    "ko": "프로젝트 크리에이티브 지원",
     "zh": "项目创意支持",
     "pt": "Suporte criativo do projeto",
     "en": "Project Creative Support"
@@ -1969,7 +1969,7 @@ locdata={
     "de": "Unsere Sponsoren",
     "fr": "Nos sponsors",
     "ja": "我々のスポンサー",
-    "ko": "우리 후원들",
+    "ko": "후원사",
     "zh": "我们的赞助商",
     "pt": "Nossos patrocinadores",
     "en": "Our backers"
@@ -1987,13 +1987,13 @@ locdata={
     "en": "Technical partners"
   },
   "59d2f091a0624f4ad48890f6": {
-    "ru": "",
+    "ru": "Любезно согласились предоставить свою платформу",
     "es": "",
-    "it": "",
-    "de": "",
-    "fr": "",
+    "it": "gentilmente accettato di fornire la loro piattaforma",
+    "de": "freundlicherweise zugestimmt, ihre Plattform zur Verfügung zu stellen",
+    "fr": "aimablement accepté de fournir leur plate-forme",
     "ja": "",
-    "ko": "",
+    "ko": "에서 플랫폼 제공에 흔쾌히 동의해 주셨습니다.",
     "zh": "",
     "pt": "",
     "en": "kindly agreed to provide their platform"
@@ -2005,7 +2005,7 @@ locdata={
     "de": "Influencer und Kooperationspartner",
     "fr": "Nous partageons leurs idées et travaillons ensemble",
     "ja": "誰のアイディアを実施するか、誰と協力するか",
-    "ko": "누구의 사상을 실천하고 누구와 협조하는지",
+    "ko": "지지 또는 협력하고 있는 단체의 아이디어",
     "zh": "我们使用谁的创意或与谁合作",
     "pt": "De quem são as idéias que confessamos ou em cooperação com quem somos",
     "en": "Collaborative partners"
@@ -2017,7 +2017,7 @@ locdata={
     "de": "Vorstandsteam",
     "fr": "L’équipe de Direction",
     "ja": "CEOのチーム",
-    "ko": "출연자 팀",
+    "ko": "경영진",
     "zh": "执行团队",
     "pt": "Equipe executiva",
     "en": "Executive team"
@@ -2029,7 +2029,7 @@ locdata={
     "de": "Mitbegründer, Vorstand Operatives Geschäft",
     "fr": "Co-fondateur, Directeur des opérations",
     "ja": "共同創設者、最高執行責任者",
-    "ko": "공동 창립자, 주 운영 책임자",
+    "ko": "공동 설립자, COO",
     "zh": "联合创始人，总业务经理",
     "pt": "Co-fundador, Diretor operacional",
     "en": "Co-founder, COO"
@@ -2077,7 +2077,7 @@ locdata={
     "de": "SONATRA-Unternehmensgruppe, Kambodscha",
     "fr": "Le Groupe SONATRA, Cambodge",
     "ja": "SONATRAグループ、カンボジア",
-    "ko": "SONATRA 그룹, 캄보디아",
+    "ko": "SONATRA 그룹 캄보디아. 캄보디아 총리의 재정 고문. 주주",
     "zh": "柬埔寨，SONATRA集团",
     "pt": "Grupo SONATRA, Camboja",
     "en": "Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder."
@@ -2089,7 +2089,7 @@ locdata={
     "de": "Japan, 11 Jahre bei Bloomberg. 29 Jahre im Finanzsektor, Aktionär",
     "fr": "SONATRA Group, East Wing Capital, Japon, a travaillé 11 ans chez",
     "ja": "日本、ブルームバーグで11年間の経験。Financeで29年間、株主",
-    "ko": "일본, Bloomberg 안에 11년. Finance 안에 29년, 주주",
+    "ko": "SONATRA Group, East Wing Capital. Bloomberg에서 11년 재직. 금융 부문 경력 29년, 주주",
     "zh": "日本，在 Bloomberg任职11年，在Finance任职29年，股东",
     "pt": "Japão, 11 anos em Bloomberg. 29 anos em Finanças, acionista",
     "en": "SONATRA Group, East Wing Capital. 11 years in Bloomberg. 29 years in Finance. Shareholder"
@@ -2101,7 +2101,7 @@ locdata={
     "de": "Japan, Geschäftsführer bei Grand Corporation Osaka, Aktionär",
     "fr": "Directeur chez Grand Corporation Osaka, Japon, Shareholder.",
     "ja": "日本、グランド1コーポレーション（大阪）のCEO、株主",
-    "ko": "일본, Grand Corporation Osaka 이사장, 주주",
+    "ko": "일본 Grand Corporation Osaka, Grand Corporation Osaka 디렉터, 주주",
     "zh": "日本， Grand Corporation Osaka经理，股东",
     "pt": "Japão, diretor de Grand Corporação Osaka, acionista",
     "en": "Grand Corporation Osaka. Japan, Director of Grand Corporation Osaka, Shareholder"
@@ -2113,7 +2113,7 @@ locdata={
     "de": "Geschäftsführer bei Micromoney Sri Lanka, Prosperous Capital & Credit Limited.",
     "fr": "Le Directeur Micromoney au Sri Lanka, Prosperous Capital & Credit Limited.",
     "ja": "Micromoney Sri Lankaの支店長、Prosperous Capital & Credit Limitedの社長。",
-    "ko": "Micromoney 스리랑카 사장, Prosperous Capital & Credit Limited.",
+    "ko": "스리랑카 Micromoney 디렉터, 스리랑카 Prosperous Capital & Credit Limited. 디렉터",
     "zh": " Prosperous Capital & Credit Limited， Micromoney Sri Lanka经理。",
     "pt": "Diretor da Micromoney em Sri Lanka, Capital Próspera & Credit Limited.",
     "en": "Director for  Micromoney Sri Lanka, Prosperous Capital &amp; Credit Limited. Sri Lanka"
@@ -2137,7 +2137,7 @@ locdata={
     "de": "Geschäftsführer bei Micromoney Nigeria, Afrofinancial, Nigeria",
     "fr": "Directeur de MicroMoney au Nigéria",
     "ja": "Micromoney Nigeriaの支店長、Afrofinancial、ナイジェリア",
-    "ko": "Micromoney 니게리아 사장, Afrofinancial, 니게리아",
+    "ko": "나이지리아 Micromoney 디렉터, 나이지리아 Afrofinancial, consensys.net",
     "zh": "尼日利亚，Afrofinancial， Micromoney Nigeria经理",
     "pt": "Diretor da Micromoney em Nigéria, Afrofinancial, Nigéria",
     "en": "Director for Micromoney Nigeria, Afrofinancial, Nigeria"
@@ -2149,7 +2149,7 @@ locdata={
     "de": "MicroMoney Myanmar, Vorstand Operatives Geschäft",
     "fr": "MicroMoney Myanmar, Directeur des opérations ",
     "ja": "MicroMoney Myanmarの最高執行責任者",
-    "ko": "MicroMoney, 미얀마, 주 운영 책임자",
+    "ko": "미얀마 MicroMoney, COO",
     "zh": "MicroMoney Myanmar，总业务经理",
     "pt": "MicroMoney em Myanmar, Diretor de Operações, Bannathorn Sangsuk",
     "en": "MicroMoney Myanmar, COO"
@@ -2161,7 +2161,7 @@ locdata={
     "de": "MicroMoney Thailand, Managementvorstand",
     "fr": "MicroMoney Thailand, Directeur Général",
     "ja": "MicroMoney Thailandの支店長",
-    "ko": "MicroMoney 태국, 제너럴 매니저",
+    "ko": "태국 MicroMoney, GM",
     "zh": "MicroMoney Thailand，总经理",
     "pt": "Tin Htut Aung",
     "en": "MicroMoney Thailand, GM"
@@ -2173,7 +2173,7 @@ locdata={
     "de": "MicroMoney Myanmar, IT-Fachmann",
     "fr": "MicroMoney Myanmar, spécialiste des technologies de l’informations",
     "ja": "MicroMoney Myanmar、IT技術スペシャリスト",
-    "ko": "MicroMoney 미얀마, IT 전문가",
+    "ko": "미얀마 MicroMoney, IT",
     "zh": "MicroMoney Myanmar，信息技术专家",
     "pt": "Malsha Thilakarathne",
     "en": "MicroMoney Myanmar, IT"
@@ -2185,7 +2185,7 @@ locdata={
 	"de": "MicroMoney Sri Lanka, Manager Operatives Geschäft",
     "fr": "MicroMoney Sri Lanka, responsable des opérations",
     "ja": "MicroMoney Sri Lanka、執行管理者",
-    "ko": "MicroMoney 스리랑카, 운영 관리자",
+    "ko": "스리랑카 MicroMoney, 오퍼레이션 매니저",
     "zh": "MicroMoney Sri Lanka，业务经理",
     "pt": "Vivian Sukamto",
     "en": "MicroMoney Sri Lanka, Operations Manager"
@@ -2197,7 +2197,7 @@ locdata={
 	"de": "MicroMoney Indonesia, Manager Operatives Geschäft",
 	"fr": "MicroMoney Indonesia, responsable des opérations",
     "ja": "MicroMoney Indonesia、執行管理者",
-    "ko": "MicroMoney 인도네시아, 운영 관리자",
+    "ko": "인도네시아 MicroMoney, 오퍼레이션 매니저",
     "zh": "MicroMoney Indonesia，业务经理",
     "pt": "Gerente de Operações",
     "en": "MicroMoney Indonesia, Operations Manager"
@@ -2209,7 +2209,7 @@ locdata={
     "de": "MicroMoney Indonesia, Landesexperte",
     "fr": "MicroMoney Indonesia, expert pays",
     "ja": "MicroMoney Indonesia、国内専門家",
-    "ko": "Micromoney 인도네시아, 국가 전문가",
+    "ko": "인도네시아 MicroMoney, 지역 담당자",
     "zh": "MicroMoney Indonesia, 国家专家",
     "pt": "MicroMoney em Indonesia, Experto do Pais",
     "en": "MicroMoney Indonesia, Country Representative"
@@ -2221,7 +2221,7 @@ locdata={
     "de": "Micromoney Philippines, Landesexperte",
     "fr": "Micromoney Philippines, expert pays",
     "ja": "Micromoney Philippines、国内専門家",
-    "ko": "Micromoney 필리핀, 국가 전문가",
+    "ko": "필리핀 Micromoney, 지역 담당자",
     "zh": "Micromoney Philippines，国家专家",
     "pt": "MicroMoney em Filipinas, Experto do Pais",
     "en": "Micromoney Philippines, Country Representative"
@@ -2229,11 +2229,11 @@ locdata={
   "new2610-1": {
     "ru": "",
     "es": "",
-    "it": "",
+    "it": "Advisors",
     "de": "Unsere Berater",
     "fr": "Consultants",
     "ja": "",
-    "ko": "",
+    "ko": "자문",
     "zh": "",
     "pt": "",
     "en": "Advisors"
@@ -2245,7 +2245,7 @@ locdata={
     "de": "MicroMoney Myanmar, Fachmann für Personalfragen",
     "fr": "MicroMoney Myanmar, spécialiste des ressources humaines",
     "ja": "MicroMoney Myanmar、HRスペシャリスト",
-    "ko": "MicroMoney 미얀마, 인재 전문가",
+    "ko": "미얀마 MicroMoney, HR",
     "zh": "MicroMoney Myanmar，人事专家",
     "pt": "MicroMoney em Myanmar, Especialista em Recursos Humanos",
     "en": "MicroMoney Myanmar, HR"
@@ -2257,7 +2257,7 @@ locdata={
     "de": "Entwickler des Neuronennetzwerks KI und CRM",
     "fr": "Développeur en Réseaux Neuronal Artificiel Intelligent et CRM",
     "ja": "CRMとAIニューラルネットワークの設計者",
-    "ko": "인공 지능과 CRM의 신경 네트워크의 개발자",
+    "ko": "A.I. 인공 신경망 & CRM 개발자",
     "zh": "人工智能神经网络和CRM设计人员",
     "pt": "Desenvolvedor da rede neural de AI e CRM",
     "en": "A.I. Neural Network &amp; CRM developer"
@@ -2269,7 +2269,7 @@ locdata={
     "de": "Bancor (Einkommen von 150 Millionen USD), Qoin, Visa.",
     "fr": "Bancor (plus de 150 Mln USD lévés), Qoin, Visa.",
     "ja": "Bancor（$1億5000万獲得）, Qoin、Visa。",
-    "ko": "반코르 (이익 1.5억 달러), Qoin, Visa",
+    "ko": "Bancor (1억5천만 달러 모집), Qoin, Visa. Netherlands",
     "zh": "Bancor （获得1.5亿美元收入），Qoin， Visa。",
     "pt": "Bancor (receita recebida de 150 milhões de dólares), Qoin, Visa.",
     "en": "Bancor (rised $150mln), Qoin, Visa. Netherlands"
@@ -2281,7 +2281,7 @@ locdata={
     "de": "UNO, Thailand",
     "fr": "Nations Unies, la Thaïlande",
     "ja": "国際連合、タイ",
-    "ko": "유엔, 태국",
+    "ko": "UN 국제연합, 태국",
     "zh": "联合国，泰国",
     "pt": "Organização das Nações Unidas, Tailândia",
     "en": "UN United Nations, Thailand"
@@ -2305,7 +2305,7 @@ locdata={
     "de": "Anwalt von .",
     "fr": "Avocate chez , Singapour",
     "ja": "の弁護士",
-    "ko": "오미스고  변호사",
+    "ko": "Advocate 싱가포르",
     "zh": "律师。",
     "pt": "Advogado .",
     "en": " advocate. Singapore"
@@ -2317,7 +2317,7 @@ locdata={
     "de": "Agrello (Einkommen von 10 Millionen USD), Japan",
     "fr": "Agrello (a levé plus de 10 millions de dollars US), Japon",
     "ja": "Agrello（$1000万獲得）、日本",
-    "ko": "아그렐로 (이익 1천만 달러), 일본",
+    "ko": "일본 Agrello (1,000만 달러 모집)",
     "zh": "Agrello （获得1000万美元收入），日本",
     "pt": "Agrello (receita recebida de 10 milhões de dólares), Japão",
     "en": "Agrello (raised $10mln), Japan"
@@ -2329,7 +2329,7 @@ locdata={
     "de": "Partner in Lateinamerika",
     "fr": "Partenaire pour l' Amérique Latine",
     "ja": "ラテンアメリカでのパートナー",
-    "ko": "라틴 아메리카에서의 파트너",
+    "ko": "라틴 아메리카 지역 파트너",
     "zh": "拉丁美洲合伙人",
     "pt": "Parceiro na América Latina",
     "en": "Partner in Latin America"
@@ -2341,7 +2341,7 @@ locdata={
     "de": "London, Vereinigtes Königreich / Programmierer Neuronennetzwerks der KI",
     "fr": "Londres, Royaume-Uni / programmeur du réseau de neurones artificiels",
     "ja": "ロンドン、英国/AI ニューラルネットワークのプログラマ",
-    "ko": "런던, 영국 / 인공지능 신경망의 프로그래머",
+    "ko": "Facebook, 영국 런던 / A.I. 인공 신경망 프로그래머",
     "zh": "伦敦，ianhewangguo人工智能神经网络程序员",
     "pt": "Londres, Reino Unido/Programador da rede Neural da AI ",
     "en": "Facebook. London, UK / A.I. Neural Network programmer"
@@ -2353,7 +2353,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "Agrello, Qtum. 에스토니아",
     "zh": "",
     "pt": "",
     "en": "Agrello, Qtum. Estonia / Blockchain scientist"
@@ -2365,7 +2365,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "BankEx, Blockchain consortiums. 미국 뉴욕",
     "zh": "",
     "pt": "",
     "en": "BankEx, Blockchain consortiums. NY, USA. Ethereum early investor."
@@ -2377,7 +2377,7 @@ locdata={
     "de": "Chronobank, Australien. One of the first ICO of 2017",
     "fr": "Chronobank, Australie. One of the first ICO of 2017",
     "ja": "Chronobank、オーストラリア. One of the first ICO of 2017",
-    "ko": "Chronobank, 오스트레일리아. One of the first ICO of 2017",
+    "ko": "Chronobank, 호주",
     "zh": "Chronobank，澳大利亚 . One of the first ICO of 2017",
     "pt": "Chronobank, Austrália. One of the first ICO of 2017",
     "en": "Chronobank, Australia. One of the first ICO of 2017"
@@ -2389,7 +2389,7 @@ locdata={
     "de": "Starbase, Smart Contract, Japan / Berater, Ingenieur für verteilte Datenbanken",
     "fr": "Starbase, Smart Contract, Japon / consultant, ingénieur Blockchain",
     "ja": "Starbase、スマートコントラクト、日本/コンサルタント、分散データベースエンジニア",
-    "ko": "Starbase, 스마트 계약, 일본 / 컨설턴트, 분산 데이터베이스 엔지니어",
+    "ko": "일본 Starbase, 스마트 계약. 블록체인 엔지니어",
     "zh": "Starbase， Smart Contract,，日本顾问，分布式存储库工程师",
     "pt": "Starbase, contrato inteligente, Japão /consultor, engenheiro de Blockchain  y de bancos de dados distribuídos",
     "en": "Starbase, Smart Contract, Japan / Blockchain engineer"
@@ -2413,7 +2413,7 @@ locdata={
     "de": "",
     "fr": "COO of Starbase, Japon",
     "ja": "",
-    "ko": "",
+    "ko": "일본 Starbase COO",
     "zh": "",
     "pt": "",
     "en": "COO of Starbase, Japan"
@@ -2425,7 +2425,7 @@ locdata={
     "de": "Vorstand und CEO der JYC Holdings",
     "fr": "PDG et Directeur Général de JYC Holdings",
     "ja": "JYC Holdingsの取締役会長兼社長",
-    "ko": "JYC Holdings CEO와 이사장",
+    "ko": "JYC Holdings 회장 및 CEO",
     "zh": "JYC Holdings总裁及总经理",
     "pt": "Presidente e CEO da JYC Holdings",
     "en": "Chairman and CEO JYC Holdings"
@@ -2473,7 +2473,7 @@ locdata={
     "de": "Privatunternehmer, Geschäftsanalytiker bei ICO, Berater - ICObox, Gründer von GMPay",
     "fr": "Entrepreneur privé, analyste d'affaires ICO, consultant ICObox, fondateur de la GMPay",
     "ja": "民間実業家、ICOビジネスアナリスト、Icoboxのコンサルタント、GMPayの創始者",
-    "ko": "사설 사업가, ICO 비즈니스 분석가, ICObox 컨설턴트, GMPay 설립자",
+    "ko": "기업가, ICO 비즈니스 애널리스트, 자문 – ICObox, GMPay 설립자",
     "zh": "个体经营者，ICO商业-分析员，顾问-ICObox， GMPay创始人",
     "pt": "Empreendedor Privado, Analista de Negócios ICO, Consultor - ICObox, Fundador GMPay",
     "en": "Entrepreneur, ICO Business Analyst, Adviser – ICObox, Founder of GMPay"
@@ -2485,7 +2485,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "ICO 전략가 및 비즈니스 모델 애널리스트. Group 5 자문 ",
     "zh": "",
     "pt": "",
     "en": "ICO Strategist and Business Model Analyst. Group 5 Advisory"
@@ -2497,7 +2497,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "ICO 자문 및 and 재무 모델 애널리스트. Group 5 컨설팅",
     "zh": "",
     "pt": "",
     "en": "ICO Advisory and Financial Model Analyst. Group 5 Consultancy"
@@ -2509,7 +2509,7 @@ locdata={
     "de": "Mitbegründer von - Blockchain Exchange &amp; Wallet",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "Bitindia 공동 설립자 – 블록체인 익스체인지 & 지갑",
     "zh": "",
     "pt": "",
     "en": "Co-founder of Bitindia - Blockchain Exchange &amp; Wallet"
@@ -2521,7 +2521,7 @@ locdata={
     "de": "CEO: CFS. ReLife fund. Charity&amp;Philanthropy Unternehmer",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "CEO: CFS. ReLife fund. 자선 사업가",
     "zh": "",
     "pt": "",
     "en": "CEO: CFS. ReLife fund. Charity&amp;Philanthropy Entrepreneur"
@@ -2533,7 +2533,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "FinTech, 금융 기술, 디지털 혁신, 결제, 은행 업무",
     "zh": "",
     "pt": "",
     "en": "FinTech, Financial Technology, Digital Innovation, Payments, Banking"
@@ -2545,7 +2545,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "Telindus Luxembourg, 디지털 금융 솔루션",
     "zh": "",
     "pt": "",
     "en": "Digital Finance Solutions at Telindus"
@@ -2557,7 +2557,7 @@ locdata={
     "de": "Financial/Compliance/Blockchain Fachmann. Australian Government.",
     "fr": "Spécialiste Financier / Conformite / Blockchain/ Gouvernement Australien",
     "ja": "",
-    "ko": "",
+    "ko": "재무/컴플라이언스/블록체인 전문가. 호주 정부.",
     "zh": "",
     "pt": "",
     "en": "Financial/Compliance/Blockchain Specialist. Australian Government."
@@ -2569,7 +2569,7 @@ locdata={
     "de": "CEO und Mitbegründer von of VOISE",
     "fr": "PDG et co-fondateur de VOISE",
     "ja": "",
-    "ko": "",
+    "ko": "VOISE의 CEO 및 공동 설립자",
     "zh": "",
     "pt": "",
     "en": "CEO and Co-founder of VOISE"
@@ -2581,7 +2581,7 @@ locdata={
     "de": "Gründer & CEO Celsius Network - The Credit Coin ICO Berater und Investor",
     "fr": "Fondateur et PDG de Celcius Network. Conseiller auprès de Directeur des Opérations de Credit Coin et Investisseur. ",
     "ja": "",
-    "ko": "",
+    "ko": "설립자 & CEO. Celsius Network - The Credit Coin ICO 자문 및 투자자.",
     "zh": "",
     "pt": "",
     "en": "Founder & CEO Celsius Network - The Credit Coin ICO advisor and Investor. Governing Dynamix. Founded 2 on NY's TOP 10 Biggest Venture-Backed since 2000"
@@ -2617,7 +2617,7 @@ locdata={
     "de": "Wer Zugang zu frischen Kunden hat, die nicht von Banken bedient werden und nicht angeworben wurden, sowie über ihre persönlichen Daten verfügt, dem gehört die neue kryptowirtschaftliche Welt",
     "fr": "Celui qui a accès aux clients n'ayant pas accès aux services bancaires et les nouveaux clients non attirés et à leurs données personnelles, possède un nouveau monde crypto-économique",
     "ja": "「銀行に扱われていなく、誘致もされていない新しいクライアントと彼らの個人情報へアクセスを有する人は、新しい暗号経済世界を保有している。」",
-    "ko": "제공 안 하는 은행 그리고 새로운 고객과 그들의 개인정보에 대한 접속을 가지는 자가 새로운 암호경제의 세상을 가진다",
+    "ko": "“새로운 크립토 경제는 손길이 닿지 않은 새로운 금융 소외 고객층과 이들의 개인 데이터에 접근하는 자의 것이 될 것입이다”",
     "zh": "谁能够访问非银行用户和未开发客户的个人信息，谁就将掌控新的加密经济世界”",
     "pt": "Quem possui acesso a bancos desatendidos e novos clientes não privilegiados e seus dados pessoais, possui um novo mundo criptoeconômico",
     "en": "\"Who owns access to unbanked and untouched fresh customers and their personal data - owns a new crypto economy world\""
@@ -2641,7 +2641,7 @@ locdata={
     "de": "McDonalds in der wachsenden Welt des Geschäfts",
     "fr": "Uber pour l'Assistance Financière - McDonalds pour le Développement Economique Mondial",
     "ja": "",
-    "ko": "성장하는 사업의 세계 속 McDonalds",
+    "ko": "“금융 지원 부문의 Uber: McDonalds와 같은 글로벌 비즈니스 확장”",
     "zh": "McDonalds 在企业的发展世界中”",
     "pt": "McDonalds no crescente mundo dos negócios ",
     "en": "\"Uber in Financial Assistance: McDonalds in WorldWide business expanding\""
@@ -2653,7 +2653,7 @@ locdata={
     "de": "",
     "fr": "",
     "ja": "",
-    "ko": "제공 안 하는 은행 그리고 새로운 고객과 그들의 개인정보에 대한 접속을 가지는 자가 새로운 암호경제의 세상을 가진다",
+    "ko": "“신용 기록이 처음부터 우리의 목표는 아니었습니다. Micromoney Credit Conveyor의 가치가 매우 큰 부산물이었죠.”",
     "zh": "",
     "pt": "“No início o histórico de crédito não foi nosso objetivo, mas se tornou um subproduto muito valioso da linha de crédito da MicroMoney.",
     "en": "\"In the beginning - Credit History was not our goal; but it became a very valuable by-product of Micromoney Credit Conveyor.\""
@@ -2665,7 +2665,7 @@ locdata={
     "de": "",
     "fr": "Nous avons pour mission d'aider deux milliards de personnes n'ayant pas accès aux services bancaires à participer au système financier global.",
     "ja": "",
-    "ko": "",
+    "ko": "저희는 글로벌 금융 생태계의 일원이 될 수 있도록 20억의 금융 소외 인구를 지원하는 중대한 임무에 착수했습니다.",
     "zh": "",
     "pt": "",
     "en": "We took on a great mission to help two bln unbanked people become part of a global financial ecosystem."
@@ -2677,7 +2677,7 @@ locdata={
     "de": "",
     "fr": "Interview d'Anton Dzyatkovsky, Président de MicroMoney, à Forbes.",
     "ja": "",
-    "ko": "",
+    "ko": "MicroMoney의 CEO Anton Dzyatkovsky, Forbes와의 인터뷰",
     "zh": "",
     "pt": "",
     "en": "MicroMoney's CEO Anton Dzyatkovsky speaks to Forbes"
@@ -2689,7 +2689,7 @@ locdata={
     "de": "",
     "fr": "Nous sommes les seuls à accorder des crédits sans pièces ou documents justificatifs, donc même les personnes n'ayant aucune cote de crédit s'adressent à nous. ",
     "ja": "",
-    "ko": "",
+    "ko": "저희는 담보 및 서류 없이 대출을 해주는 유일한 기관입니다. 그러므로 신용점수가 없는 사람들도 저희에게 대출을 신청할 수 있습니다.",
     "zh": "",
     "pt": "",
     "en": "Only we issue loans without collateral and paper documents, so even people who don’t have credit rate apply to us."
@@ -2713,7 +2713,7 @@ locdata={
     "de": "Firma:",
     "fr": "Nom de l'entreprise:",
     "ja": "社名：",
-    "ko": "회사명",
+    "ko": "회사명:",
     "zh": "公司名称：",
     "pt": "Nome da empresa:",
     "en": "Company Name:"
@@ -2725,7 +2725,7 @@ locdata={
     "de": "Firmenunterlagen",
     "fr": "Documents d'enregistrement de la société",
     "ja": "",
-    "ko": "",
+    "ko": "기업 문서",
     "zh": "",
     "pt": "",
     "en": "Company incorporation documents"
@@ -2737,7 +2737,7 @@ locdata={
     "de": "201706086N, handelsgerichtlich eingetragen in der Republik Singapur",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "201706086N, 싱가포르 공화국에 설립",
     "zh": "",
     "pt": "",
     "en": "201706086N, incorporated in Republic of Singapore"
@@ -2749,7 +2749,7 @@ locdata={
     "de": "778(FC)/2016-2017(YGN), handelsgerichtlich eingetragen in der Union Myanmar",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "778(FC)/2016-2017(YGN), 미얀마 연방공화국에 설립",
     "zh": "",
     "pt": "",
     "en": "778(FC)/2016-2017(YGN), Incorporated in the Republic of the Union of Myanmar"
@@ -2761,7 +2761,7 @@ locdata={
     "de": "PV 125990, handelsgerichtlich eingetragen in der Demokratischen Sozialistischen Republik Sri Lanka",
     "fr": "",
     "ja": "",
-    "ko": "",
+    "ko": "PV 125990, 스리랑카 민주사회주의 공화국에 설립",
     "zh": "",
     "pt": "",
     "en": "PV 125990, incorporated in the Democratic Socialist Republic of Sri Lanka"
@@ -2773,7 +2773,7 @@ locdata={
     "de": "Registriernummer der Gesellschaft:",
     "fr": "Numéro d'enregistrement de la société:",
     "ja": "会社の登録番号：",
-    "ko": "회사의 등록번호",
+    "ko": "회사 등록번호:",
     "zh": "公司注册号：",
     "pt": "Número de registro da companhia:",
     "en": "Company Registration Number:"
@@ -2785,7 +2785,7 @@ locdata={
     "de": "Geschäftsanschrift:",
     "fr": "Adresse juridique:",
     "ja": "住所：",
-    "ko": "법적 주소:",
+    "ko": "사무소:",
     "zh": "法定地址：",
     "pt": "Endereço legal:",
     "en": "Office:"
@@ -2809,7 +2809,7 @@ locdata={
     "de": "Steuernummer",
     "fr": "Le numéro d'identification fiscale",
     "ja": "税番号：",
-    "ko": "세금 번호",
+    "ko": "세무 번호:",
     "zh": "税号",
     "pt": "Número de identificação fiscal ",
     "en": "Tax no."
@@ -2833,7 +2833,7 @@ locdata={
     "de": "Rechtssprechung der Registrierung",
     "fr": "Documents d'enregistrement",
     "ja": "登録管轄",
-    "ko": "등록 관할권",
+    "ko": "법인 설립의 관할권",
     "zh": "注册权限",
     "pt": "Jurisdição de incorporação ",
     "en": "Jurisdiction of incorporation"
@@ -2905,7 +2905,7 @@ locdata={
     "de": "",
     "fr": "Voir le code sur Github",
     "ja": "",
-    "ko": "",
+    "ko": "GITHUB에서 코드 보기",
     "zh": "",
     "pt": "",
     "en": "view CODE on GITHUB"
@@ -2917,7 +2917,7 @@ locdata={
     "de": "Was AMM tokens sind",
     "fr": "Que représente nos tokens ?",
     "ja": "",
-    "ko": "",
+    "ko": "AMM 토큰이 무엇입니까",
     "zh": "",
     "pt": "",
     "en": "What does AMM token represent"
@@ -2929,7 +2929,7 @@ locdata={
     "de": "AMM ist ein Token-Dienstprogramm. Das Token ist ein integraler Bestandteil des MicroMoney Ökosystems und kann als internes Zahlungsmittel verwendet werden. Unser Token-Modell sehr verständlich und benutzerfreundlich aufgebaut, sodass unsere Kunden es gern benutzen werden. Wir rechnen mit einer wachsenden Nachfrage nach unseren Tokens.",
     "fr": "AMM est un jeton, ou token, utilitaire. Le  jeton AMM fait partie intégrante de l'écosystème de MicroMoney et peut être utilisé tant comme un moyen de paiement interne que comme pour avoir accès aux services de MicroMoney. Le modèle de jetons est élaboré afin que nos clients l'utilisent fréquemment, augmentant ainsi la demande.",
     "ja": "",
-    "ko": "",
+    "ko": "AMM은 유틸리티 토큰입니다. 토큰은 MicroMoney 생태계의 필수 요소이며 내부 지불 수단으로 사용되거나 MicroMoney 서비스에 액세스하는 데 사용될 수 있습니다. 이 토큰 모델은 고객이 자주 사용하여 토큰에 대한 수요를 높일 수 있도록 만들어졌습니다.",
     "zh": "",
     "pt": "",
     "en": "AMM is a utility token. The token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services. The token model is built so that our clients will want to use it frequently, thereby creating higher demand for the token."
@@ -2945,8 +2945,176 @@ locdata={
     "zh": "人",
     "pt": "pessoas",
     "en": "people"
+  },
+  "New101": {
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "고객이 MicroMoney 모바일 앱을 통해 온라인 신청서를 작성하면, 혁신적이고 정교한 평가 시스템이 대출자의 휴대전화에서 수집한 모든 데이터를 토대로 작동합니다.",
+    "zh": "",
+    "pt": "",
+    "en": "The innovative and sophisticated scoring system works with all the data from a borrower’s mobile phone gathered after a customer completes the online application form within the MicroMoney’s mobile app."
+  },
+  "New102": {
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "MicroMoney, $30M 토큰 배포 캠페인으로 12시간 만에 1백만 달러 달성",
+    "zh": "",
+    "pt": "",
+    "en": "MicroMoney $30M Token Distribution Campaign Generates $1M in 12 Hours"
+  },
+  "New103": {
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "전 세계의 금융 소외 인구를 글로벌 금융 시스템의 일원으로 편입하려는 MicroMoney의 비전은 더 나은 21세기 비즈니스 목표 중 하나일 수 있습니다",
+    "zh": "",
+    "pt": "",
+    "en": "MicroMoney’s vision to convert the world’s unbanked into members of global financial system could be one of better business objectives of the entire 21st century"
+  },
+  "New104": {
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "MicroMoney는 온라인 대출업계의 마이크로 파이낸싱에 중점을 두고 있습니다. 아시아 전역의 소비자 금융 수요에 \"최고의 전문적인\" 솔루션을 제공하는 것을 목표로 하고 있으며 현재 아시아 5개국에서 사용할 수 있습니다.",
+    "zh": "",
+    "pt": "",
+    "en": "MicroMoney is focused on micro-financing in the online money lending industry and states that it aims to provide the “best professional” solutions to consumers’ financial needs across Asia and is now available in five Asian countries."
+  },
+  "New105": {
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "서류 없이 신속하게 저렴한 금리로 대출 서비스를 이용할 수 있다는 점에서 MicroMoney는 재정적으로 어려운 시기에 이상적인 솔루션입니다.",
+    "zh": "",
+    "pt": "",
+    "en": "Access to the loan services, fast, paperless, with an affordable interest rate is what making MicroMoney the solution for financial Catch-22."
+  },
+  "New106": { 
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "토큰 배포 조건",
+    "zh": "",
+    "pt": "",
+    "en": "Terms of token distribution"
+  },
+  "New107": { 
+    "ru": "",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "설명서",
+    "zh": "",
+    "pt": "",
+    "en": "Instruction"
+  },
+  "New108": { 
+    "ru": "Обзор экспертов",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "전문가 심의",
+    "zh": "",
+    "pt": "",
+    "en": "Expert review"
+  },
+  "New109": { 
+    "ru": "Вэбинар",
+	"es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "웹 세미나",
+    "zh": "",
+    "pt": "",
+    "en": "Webinars"
+  },
+  "New110": {  
+    "ru": "Всего собрано",
+	"es": "Total fundado",
+    "it": "Totale fondata",
+    "de": "Insgesamt gegründet",
+    "fr": "Total fondé",
+    "ja": "総計",
+    "ko": "합계 설립",
+    "zh": "總共創立",
+    "pt": "Total fundado",
+    "en": "Total founded"
+  },
+  "New111": {  
+    "ru": "Старт продаж",
+	"es": "Inicio de distribución",
+    "it": "Inizio distribuzione",
+    "de": "Vertriebsstart",
+    "fr": "Début de la distribution",
+    "ja": "配布開始",
+    "ko": "배포 시작",
+    "zh": "分發開始",
+    "pt": "Início da distribuição",
+    "en": "Distribution Start"
+  },
+  "New112": {  
+    "ru": "Участников",
+	"es": "Participantes",
+    "it": "partecipanti",
+    "de": "Teilnehmer",
+    "fr": "participants",
+    "ja": "参加者",
+    "ko": "참가자",
+    "zh": "參與者",
+    "pt": "participantes",
+    "en": "participants"
+  },
+  "New113": {  
+    "ru": "Токен бонус",
+	"es": "TOKEN SALE BONUS",
+    "it": "BONUS DI VENDITA TOKEN",
+    "de": "TOKEN SALE BONUS",
+    "fr": "BONUS DE VENTE DE JETON",
+    "ja": "TOKEN SALEボーナス",
+    "ko": "토큰 판매 보너스",
+    "zh": "東京銷售獎金",
+    "pt": "TOKEN VALE BONUS",
+    "en": "TOKEN SALE BONUS"
+  },
+  "New114": {  
+    "ru": "Заканчивается в",
+	"es": "TERMINA EN",
+    "it": "ENDS IN",
+    "de": "ENDET IN",
+    "fr": "FINI DANS",
+    "ja": "終わり",
+    "ko": "끝내기",
+    "zh": "結束了",
+    "pt": "TERMINA EM",
+    "en": "ENDS IN"
   }
-};/* // Вывод под excel
+};/* // Вывод под excel  
 for (var key in locdata) {
 	var en=locdata[key]["en"],ko=locdata[key]["ko"];
 	console.log(key+'\t'+en+'\t'+ko);
