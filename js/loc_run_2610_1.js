@@ -98,37 +98,37 @@ function chlang(lang){
 		'de':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join zu whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'en':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'es':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'fr':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'it':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'pt':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'join whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		},
 		'ru':{
 			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
 			'dlt':'Войти в Whatsapp',
-			'dli':'img/socials/color/what.png'
+			'dli':'img/socials/white/whatsapp.svg'
 		}
 	};
 	/**/
@@ -141,7 +141,7 @@ function chlang(lang){
 	}
 
 	del.style.display = dvol;
-	
+
 }
 
 //var script = document.createElement('script');script.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js";document.getElementsByTagName('head')[0].appendChild(script);
