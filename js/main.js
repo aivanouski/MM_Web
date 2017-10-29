@@ -64,16 +64,23 @@ $(document).ready(function() {
 
   if (window.progressInfo) {
     var progress = window.progressInfo;
-    var current = parseInt(progress.tokens).toLocaleString();
-    $('.progress-current span:first-child').text(current);
 
+    var current = parseInt(progress.total).toLocaleString();
     var btc = parseInt(progress.payments.BTC.amount).toLocaleString();
     var eth = parseInt(progress.payments.ETH.amount).toLocaleString();
     var usd = parseInt(progress.payments.USD.amount).toLocaleString();
+    var amm = (parseInt(progress.tokens) + parseInt(progress.bonuses)).toLocaleString();
 
+    $('.progress-current span:first-child').text(current);
     $('.founded-money-usd span').text(usd);
     $('.founded-money-btc span').text(btc);
     $('.founded-money-eth span').text(eth);
+    $('.founded-money-amm span').text(amm);
+
+    if (progress.erc20) {
+      var alt = parseInt(progress.erc20).toLocaleString();
+      $('.founded-money-alt span').text(alt).show();
+    }
   }
 
   window.sr = ScrollReveal({
