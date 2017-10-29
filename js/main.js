@@ -69,7 +69,7 @@ $(document).ready(function() {
     var btc = parseInt(progress.payments.BTC.amount).toLocaleString();
     var eth = parseInt(progress.payments.ETH.amount).toLocaleString();
     var usd = parseInt(progress.payments.USD.amount).toLocaleString();
-    var amm = (parseInt(progress.tokens) + parseInt(progress.bonuses)).toLocaleString();
+    var amm = (parseInt(progress.tokens) + parseInt(progress.bonus)).toLocaleString();
 
     $('.progress-current span:first-child').text(current);
     $('.founded-money-usd span').text(usd);
