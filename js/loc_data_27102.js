@@ -2592,7 +2592,7 @@ locdata={
     "it": "INTERNAZIONALE PTE Limitato, Ufficio 18 Sin Ming Stradetta, 08-06, Midview Città, Singapore",
     "de": "",
     "fr": "",
-    "ja": "マイクロマネー INTERNATIONAL PTE.LTD., Office 18 Sin Ming Lane, #08-06, Midview City, Singapore",
+    "ja": "",
     "ko": "",
     "zh": "",
     "pt": "",
