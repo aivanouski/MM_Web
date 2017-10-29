@@ -103,7 +103,7 @@ locdata={
     "fr": "À propos de nos jetons",
     "ja": "トークンの詳細",
     "ko": "토큰 상세 정보",
-    "zh": "有关代币",
+    "zh": "关于代币",
     "pt": "Sobre os tokens",
     "en": "Token details"
   },
@@ -357,7 +357,7 @@ locdata={
     "fr": "100 des 196 pays du monde hébergent 2000000000 de personnes n'ayant pas de compte bancaire:  ces personnes n'utilisent que des espèces, n'ont aucun historique de crédit, aucun accès à des services financiers. Il est important de noter que la plupart de ces personnes possèdent un smartphone et utilisent régulièrement les réseaux sociaux. 2 000 000 000, c'est un nombre significatif  de nouvelles données et de clients potentiels. Les institutions financières n'ont aucune information sur ce genre de clients ni sur leur historique de crédit, de plus, elle ne souhaite même pas prendre le risque de travailler avec ce type de personnes. Alors que ces gens ont besoin de financements et que les entreprises ont définitivement besoin de nouveaux clients pour survivre à la concurrence.",
     "ja": "世界196 か国中100の国で、銀行口座を持たない人々が20億人います。彼らは現金しか使えず、信用履歴もなく、金融サービスにアクセスできません。これらの人々の大部分が、定期的にスマートフォンやソーシャルネットワークを使用していることに注目することが重要です。これは膨大な量の新しいデータであり、彼らはかなりの数の新しい潜在顧客となります。金融機関は、これらの顧客と信用度について情報を持っていないため、これらの人々に提供するリスクを冒したくないと考えています。しかし、これらの人々にはそれでもなお資金が必要とであり、もちろん事業は競争を生き抜くために新規顧客が必要です。",
     "ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
-    "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，不适用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
+    "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，无法使用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
     "pt": "100 de 196 países do mundo são sede de 2.000.000.000 pessoas desbancarizadas sem conta bancária: apenas dinheiro, sem histórico de crédito, sem acesso a serviços financeiros, mais de 60% têm um smartphone, 80% estão registrados no Facebook. ",
     "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!"
   },
@@ -383,7 +383,7 @@ locdata={
     "fr": "Micromoney est une équipe de professionnels qui peuvent travailler sur les marchés émergents où les banques établies ne sont pas capables d'aller, et où, elle ne seraient de toute façon pas assez innovantes pour survivre dans un tel environnement.",
     "ja": "マイクロマネーは、全ての構築された銀行が運営できないような新興市場で働く能力を持つ、プロのチームです。彼らが実際に参加を決めたとしても、この環境で生き抜けるほどの革新性はありません。",
     "ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
-    "zh": "Micromoney -这是一个专业的团队，我们活跃在各个发展中国家市场中，这是一片银行不敢踏入的领域，这些市场对银行来说是一片雷区。",
+    "zh": "Micromoney -这是一个专业的团队，我们活跃在各个新兴市场中，这是一片银行不敢踏入的领域，即使银行决定在这些市场开拓业务，但他们缺乏创新能力，无法在此立足。",
     "pt": "A Micromoney é uma equipe de profissionais que são capazes de trabalhar em mercados emergentes, nos quais os bancos temerosos não entram, e mesmo que eles venham, eles atravessarão este mercado como se fosse um campo minado.",
     "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment."
   },
@@ -408,7 +408,7 @@ locdata={
     "fr": "MicroMoney est un organisme de crédit Open Source et de Big Data qui met en relation de nouveaux clients avec tous les services financiers existants. La plateforme MicroMoney A. I. utilise des algorythmes complexes pour prévoir la solvabilité de chaque clients qui, en seulement 15 min, peut obtenir le premier prêt de sa vie à partir de son smartphone. Chaque clients a la possibilité de payer moins d'intérêt et d'avoir un meilleur classement dans son historique de crédit en utilisant notre plateforme plus régulièrement. Toutes les données agrégées et les historiques de crédit sont stockés sur la Blockchain. Des milliers d'entreprises auront désormais accès à de nouveaux clients que nous allons insérer dans l'économie mondiale.",
     "ja": "マイクロマネーは、オープンソースのクレジット&ビッグデータビュローであり、新規顧客を既存のすべての金融サービスに接続します。マイクロマネーのA.I. プラットフォームでは、複雑なアルゴリズムを使用して全顧客の信用性を予測し、わずか15分で借り手がスマートフォンから人生初の融資を受けられます。当社のプラットフォームをさらに頻繁に使用すれば、全ての顧客には、より低い利子を払い、より高い信用貸付格付けを得る能力が生じます。集積したビッグデータと信用履歴はすべて、ブロックチェーンに保存されます。何千もの既存のビジネスは、当社がグローバル経済にもたらす何百万人もの新規顧客にアクセスするようになります。",
     "ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
-    "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与以下企业向联系： 银行、小型融资机构、保险公司、电子商务公司和零售业等。Micromoney 人工智能平台能够确认客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 所有收集到的庞大数据可信用记录被保存在区块链中。 上千家企业可以访问几百万的新客户并吸引他们进入世界经济题中。",
+    "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与现有金融业务连接起来 .Micromoney 人工智能平台使用复杂的算法预测 客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 如果客户经常使用我们的平台，那么他们都有能力支付小额利息并具有较高的信用等级。所有收集到的庞大数据和信用记录都被保存在区块链中，上千家企业可以接触到数百万个新客户并吸引他们进入世界经济体中。",
     "pt": "Micromoney é um bureau de empréstimos e dados grandes publicamente disponível que liga novos clientes às empresas: bancos, microfinanças, seguros, comércio eletrônico, varejo, etc. A plataforma da inteligência artificial da Micromoney determina a credibilidade dos clientes, e em apenas 15 minutos o mutuário pode tomar o primeiro empréstimo em sua vida usando apenas um smartphone. Todos os dados grandes agregados e históricos de crédito são armazenados no Blockchain. Milhares de empresas terão acesso a milhões de novos clientes e os envolverão na economia global.",
     "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
   },
@@ -504,7 +504,7 @@ locdata={
     "fr": "Le Moyen-Orient, l'Europe, les ÉTATS-UNIS",
     "ja": "中東、ヨーロッパ、米国",
     "ko": "중동, 유럽, 미국",
-    "zh": "近东、欧洲、美国啊",
+    "zh": "中东、欧洲、美国啊",
     "pt": "Médio Oriente, Europa, EUA",
     "en": "Middle East <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> Europe <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> USA <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>"
   },
@@ -576,7 +576,7 @@ locdata={
     "fr": "Nous allons commencer dans 3 mois / au 4ème trimestre de 2017",
     "ja": "当社は3カ月以内 / 2017年第4四半期に開始します。",
     "ko": "3개월 후/ 2017년 4분기에 출시될 예정입니다.",
-    "zh": "经过3个月7年第4季度我们将进入",
+    "zh": "经过3个月2017 年第4季度我们将进入",
     "pt": "Começamos startup em 3 meses/4 trimestre de 2017",
     "en": "We are starting in 3 months / Q4 2017"
   },
@@ -624,7 +624,7 @@ locdata={
     "fr": "Tout est prêt pour un lancement dans ces 6 autres pays",
     "ja": "さらに6カ国で開始する準備がすべて整っています",
     "ko": "추가로 6개 이상 국가에서 출시될 준비를 마쳤습니다.",
-    "zh": "还将准备进入6个国家和地区",
+    "zh": "还将准备进入超过6个国家",
     "pt": "Tudo está pronto para ser lançado em mais 6 países",
     "en": "Everything is ready to launch in 6 more countries"
   },
@@ -666,13 +666,13 @@ locdata={
   },
   "59d2f090a0624f4ad4889078": {
     "ru": "1,380 миллиарда людей",
-    "es": "1380 millones de personas",
+    "es": "1,380 millones de personas",
     "it": "1,380 miliardi di persone",
     "de": "1,380 Milliarden Menschen",
     "fr": "1,380 milliard de personnes",
     "ja": "13億8000万人",
-    "ko": "13.8억 명",
-    "zh": "13.8亿人",
+    "ko": "1.38억 명",
+    "zh": "1,380亿人",
     "pt": "1.380 bilhões de pessoas",
     "en": "1,380 bln people"
   },
@@ -732,7 +732,7 @@ locdata={
     "fr": "MicroMoney est l'une des rares entreprises Blockchain à s'appuyer sur un produit réel.",
     "ja": "マイクロマネーは、実際の商品に裏付けられた数少ないブロックチェーン企業の一つです。",
     "ko": "MicroMoney는 실물 상품으로 뒷받침되는 몇 안 되는 블록체인 회사 중 하나입니다",
-    "zh": "",
+    "zh": "MicroMoney是少数拥有真实产品的区块链公司之一",
     "pt": "Uma das poucas distribuições de tokens com suporte ao produto de trabalho: as pessoas precisam de dinheiro, as empresas precisam de clientes",
     "en": "MicroMoney is one of few Blockchain companies that is backed by a real product"
   },
@@ -756,7 +756,7 @@ locdata={
     "fr": "500,000+ likes sur Facebook",
     "ja": "500,000人以上の人がフェイスブックでいいねをつけています",
     "ko": "500,000+ Facebook 좋아요",
-    "zh": "",
+    "zh": "在Facebook上获得了50多万个赞",
     "pt": "",
     "en": "500,000+ likes on Facebook"
   },
@@ -768,7 +768,7 @@ locdata={
     "fr": "95,000 clients uniques inscrits",
     "ja": "95,000の独自に登録済みの顧客",
     "ko": "95,000 순 등록 고객",
-    "zh": "",
+    "zh": "95,000名独特的注册客户",
     "pt": "",
     "en": "95,000 unique registered customers"
   },
@@ -792,7 +792,7 @@ locdata={
     "fr": "Une grosse demande de la part des banques,",
     "ja": "銀行からの強い需要",
     "ko": "은행의 거대 수요",
-    "zh": "",
+    "zh": "银行电子商务的需求巨大",
     "pt": "",
     "en": "huge demand from Banks"
   },
@@ -804,7 +804,7 @@ locdata={
     "fr": "",
     "ja": "",
     "ko": "전자상거래",
-    "zh": "",
+    "zh": "电信&零售企业",
     "pt": "",
     "en": "E-commerce"
   },
@@ -816,7 +816,7 @@ locdata={
     "fr": "du e-commerce, des secteurs télécom et du retail.",
     "ja": "",
     "ko": "통신 & 리테일 비즈니스",
-    "zh": "",
+    "zh": "  ",
     "pt": "",
     "en": "Telecom &amp; Retail businesses"
   },
@@ -840,7 +840,7 @@ locdata={
     "fr": "Un développement à travers le monde: plus de 100 nouveaux pays, avec importantes demandes de nos services",
     "ja": "世界規模の拡大 –世界100か国以上による当社のサービスへの高い需要",
     "ko": "전 세계로의 확장 - 100개 이상의 국가에서 당사 서비스에 대한 수요가 상당히 높습니다.",
-    "zh": "向全世界的扩展-超过100个新国家对我们的服务拥有巨大需求",
+    "zh": "向全世界的扩展-全球有100多个国家对我们的服务拥有巨大需求",
     "pt": "Expansões em todo o mundo - mais de 100 novos países com grande demanda por nossos serviços",
     "en": "Expansion worldwide – more than 100+ countries in the world with a huge demand for our services"
   },
@@ -865,7 +865,7 @@ locdata={
     "fr": "Votre historique de crédit sur la Blockchain est transparent, vérifiable et géré par un code cryptografié vérifiable",
     "ja": "ブロックチェーン上の信用履歴- 透明性のある監査可能な暗号的に検証可能なコードにより管理",
     "ko": "블록체인에 저장되는 신용 기록 - 투명하고, 감사가 가능하며, 암호화 기법으로 검증 가능한 코드로 관리됩니다.",
-    "zh": "我们在分配数据库中的信用记录-透明、受到监控、受到密码与验证码的管理",
+    "zh": "客户在区块链中的信用记录-透明、分配数据库、受到密码与验证码的管理",
     "pt": "Seu histórico de crédito em um banco de dados distribuído é transparente, supervisionado, controlado por código criptograficamente verificável",
     "en": "Your credit history on blockchain - Transparent, Auditable, Administered by cryptographically verifiable code"
   },
@@ -925,7 +925,7 @@ locdata={
     "fr": "Identité numérique",
     "ja": "デジタル・アイデンティティ",
     "ko": "디지털 ID",
-    "zh": "数字识别",
+    "zh": "数字身份",
     "pt": "Identificação digital",
     "en": "Digital Identity"
   },
@@ -937,7 +937,7 @@ locdata={
     "fr": "Création d'une identité numérique qui évolue avec vous et selon vos moyens",
     "ja": "皆さんとその資金によって展開する仮想アイデンティティを創造",
     "ko": "고객 및 고객의 자금과 함께 발전하는 가상 ID를 만들 수 있습니다.",
-    "zh": "建立验证识别，它将同我们和我们的资金共同发展",
+    "zh": "建立虚拟身份，它将同客户和客户的资金共同发展",
     "pt": "Criação de uma identificação virtual que se desenvolve com você e seus meios meios monetários",
     "en": "Create a virtual identity that evolves with you and your funds"
   },
@@ -1081,7 +1081,7 @@ locdata={
     "fr": "(Noté 4,7 !Plus de 10 000 téléchargements)",
     "ja": "(4,7 の評価!10.000回以上のダウンロード)",
     "ko": "(평점 4.7! 다운로드 횟수 10,000건 이상)",
-    "zh": "超过10000次下载）",
+    "zh": "(4.7等级！超过10000次下载）",
     "pt": "Mais de 10.000 downloads)",
     "en": "(4,7 Rating! More 10.000 downloads)"
   },
@@ -1153,7 +1153,7 @@ locdata={
     "fr": "Résumé du Livre Blanc",
     "ja": "白書概要",
     "ko": "백서 요약",
-    "zh": "",
+    "zh": "白皮书摘要",
     "pt": "",
     "en": "Summary of the whitepaper"
   },
@@ -1165,7 +1165,7 @@ locdata={
     "fr": "LE BUSINESS PLAN EN BREF",
     "ja": "ビジネスモデル概要",
     "ko": "비즈니스 모델 (요약)",
-    "zh": "",
+    "zh": "简略版商业模式",
     "pt": "",
     "en": "Business model briefly"
   },
@@ -1177,7 +1177,7 @@ locdata={
     "fr": "Le Business Plan en intégralité",
     "ja": "ビジネスモデル詳細",
     "ko": "비즈니스 모델 (전문)",
-    "zh": "",
+    "zh": "详细版商业模式",
     "pt": "",
     "en": "Business model fully"
   },
@@ -1189,7 +1189,7 @@ locdata={
     "fr": "Résumé en quelques lignes",
     "ja": "エレベーターピッチ",
     "ko": "엘리베이터 피치",
-    "zh": "",
+    "zh": "电梯游说",
     "pt": "",
     "en": "Elevator Pitch"
   },
@@ -1309,7 +1309,7 @@ locdata={
     "fr": "En 2017, la valeur actuelle de l'entreprise est de 1,85 million de dollars US",
     "ja": "2017年、会社の現在の価値は185万ドル",
     "ko": "2017년, 회사의 현재 가치는 185만 달러입니다.",
-    "zh": "2017年公司的价值为185万美元",
+    "zh": "2017年公司的当前价值为185万美元",
     "pt": "Equipe de 85 pessoas",
     "en": "In 2017, the current value of the company is $1.85 mln"
   },
@@ -1393,7 +1393,7 @@ locdata={
     "fr": "Taïwan",
     "ja": "台湾",
     "ko": "대만",
-    "zh": "",
+    "zh": "台湾",
     "pt": "",
     "en": "Taiwan"
   },
@@ -1405,7 +1405,7 @@ locdata={
     "fr": "La Corée du Sud",
     "ja": "韓国",
     "ko": "대한민국",
-    "zh": "",
+    "zh": "韩国",
     "pt": "",
     "en": "South Korea"
   },
@@ -1417,7 +1417,7 @@ locdata={
     "fr": "L'Afrique",
     "ja": "アフリカ",
     "ko": "아프리카",
-    "zh": "",
+    "zh": "非洲",
     "pt": "",
     "en": "Africa"
   },
@@ -1441,7 +1441,7 @@ locdata={
     "fr": "",
     "ja": "欧州",
     "ko": "유럽",
-    "zh": "",
+    "zh": "欧洲",
     "pt": "",
     "en": "Europe"
   },
@@ -1453,7 +1453,7 @@ locdata={
     "fr": "",
     "ja": "米国",
     "ko": "미국",
-    "zh": "",
+    "zh": "美国",
     "pt": "",
     "en": "USA"
   },
@@ -1622,7 +1622,7 @@ locdata={
     "fr": "Symbole",
     "ja": "シンボル",
     "ko": "기호",
-    "zh": "",
+    "zh": "符号",
     "pt": "",
     "en": "Symbol"
   },
@@ -1658,7 +1658,7 @@ locdata={
     "fr": "Objectif à atteindre",
     "ja": "増加計画",
     "ko": "모집 계획",
-    "zh": "",
+    "zh": "计划筹集",
     "pt": "",
     "en": "Plan to raise"
   },
@@ -1670,7 +1670,7 @@ locdata={
     "fr": "Objectif haut",
     "ja": "ハードキャップ",
     "ko": "최대 모금액",
-    "zh": "",
+    "zh": "硬上限",
     "pt": "",
     "en": "Hard cap"
   },
@@ -1802,7 +1802,7 @@ locdata={
     "fr": "Les consultants / les curateurs",
     "ja": "アドバイザー / メンター",
     "ko": "어드바이저/멘토",
-    "zh": "顾问协调人",
+    "zh": "顾问",
     "pt": "Consultores/curadores",
     "en": "Advisors / mentors"
   },
@@ -1838,7 +1838,7 @@ locdata={
     "fr": "Pré-vente privée",
     "ja": "個人への事前配給",
     "ko": "비공개 사전 분배",
-    "zh": "部分预售",
+    "zh": "私人预分配",
     "pt": "Pré-venda privada",
     "en": "Private Predistribution"
   },
@@ -1898,7 +1898,7 @@ locdata={
     "fr": "Campagne",
     "ja": "キャンペーン",
     "ko": "캠페인",
-    "zh": "",
+    "zh": "活动",
     "pt": "",
     "en": "Campaign"
   },
@@ -1910,7 +1910,7 @@ locdata={
     "fr": "Campagne de Souscription Bitcointalk",
     "ja": "ビットコイントーク・シグナチャー・ キャンペーン",
     "ko": "Bitcointalk 서명 캠페인",
-    "zh": "订阅Bitcointalk的公司",
+    "zh": "Bitcointalk签售活动",
     "pt": "Campanha de assinaturas Bitcointalk",
     "en": "Bitcointalk Signatures Campaign"
   },
@@ -1922,7 +1922,7 @@ locdata={
     "fr": "Campagne de Soutien Bitcointalk",
     "ja": "ビットコイントーク・サポート・ キャンペーン",
     "ko": "Bitcointalk 지원 캠페인",
-    "zh": "支持Bitcointalk的公司",
+    "zh": "Bitcointalk支持活动",
     "pt": "Campanha de apoio ao Bitcointalk",
     "en": "Bitcointalk Support Campaign"
   },
@@ -1934,7 +1934,7 @@ locdata={
     "fr": "Campagne de Publication",
     "ja": "投稿キャンペーン",
     "ko": "게시",
-    "zh": "出版公司",
+    "zh": "出版",
     "pt": "Campanha de Publicação ",
     "en": "Publishing"
   },
@@ -1994,7 +1994,7 @@ locdata={
     "fr": "aimablement accepté de fournir leur plate-forme",
     "ja": "",
     "ko": "에서 플랫폼 제공에 흔쾌히 동의해 주셨습니다.",
-    "zh": "",
+    "zh": "欣然同意提供他们的平台",
     "pt": "",
     "en": "kindly agreed to provide their platform"
   },
@@ -2030,7 +2030,7 @@ locdata={
     "fr": "Co-fondateur, Directeur des opérations",
     "ja": "共同創立者, COO",
     "ko": "공동 설립자, COO",
-    "zh": "联合创始人，总业务经理",
+    "zh": "联合创始人，首席运营官",
     "pt": "Co-fundador, Diretor operacional",
     "en": "Co-founder, COO"
   },
@@ -2090,7 +2090,7 @@ locdata={
     "fr": "SONATRA Group, East Wing Capital, Japon, a travaillé 11 ans chez",
     "ja": "SONATRA Group, East Wing Capital.日本、ブルームバーグで11年金融業界で29年 株主",
     "ko": "SONATRA Group, East Wing Capital. Bloomberg에서 11년 재직. 금융 부문 경력 29년, 주주",
-    "zh": "日本，在 Bloomberg任职11年，在Finance任职29年，股东",
+    "zh": "SONATRA集团，East Wing Capital，日本，在 Bloomberg任职11年，在Finance任职29年，股东",
     "pt": "Japão, 11 anos em Bloomberg. 29 anos em Finanças, acionista",
     "en": "SONATRA Group, East Wing Capital. 11 years in Bloomberg. 29 years in Finance. Shareholder"
   },
@@ -2150,7 +2150,7 @@ locdata={
     "fr": "MicroMoney Myanmar, Directeur des opérations ",
     "ja": "マイクロマネー ミャンマー、 COO",
     "ko": "미얀마 MicroMoney, COO",
-    "zh": "MicroMoney Myanmar，总业务经理",
+    "zh": "MicroMoney Myanmar，首席运营官",
     "pt": "MicroMoney em Myanmar, Diretor de Operações, Bannathorn Sangsuk",
     "en": "MicroMoney Myanmar, COO"
   },
@@ -2210,7 +2210,7 @@ locdata={
     "fr": "MicroMoney Indonesia, expert pays",
     "ja": "マイクロマネー インドネシア、 国代表",
     "ko": "인도네시아 MicroMoney, 지역 담당자",
-    "zh": "MicroMoney Indonesia, 国家专家",
+    "zh": "MicroMoney Indonesia, 国家代表",
     "pt": "MicroMoney em Indonesia, Experto do Pais",
     "en": "MicroMoney Indonesia, Country Representative"
   },
@@ -2222,19 +2222,19 @@ locdata={
     "fr": "Micromoney Philippines, expert pays",
     "ja": "マイクロマネー フィリピン、 国代表",
     "ko": "필리핀 Micromoney, 지역 담당자",
-    "zh": "Micromoney Philippines，国家专家",
+    "zh": "Micromoney Philippines，国家代表",
     "pt": "MicroMoney em Filipinas, Experto do Pais",
     "en": "Micromoney Philippines, Country Representative"
   },
   "new2610-1": {
-    "ru": "",
+    "ru": "Советники",
     "es": "",
     "it": "Advisors",
     "de": "Unsere Berater",
     "fr": "Consultants",
     "ja": "アドバイザー",
     "ko": "자문",
-    "zh": "",
+    "zh": "顾问",
     "pt": "",
     "en": "Advisors"
   },
@@ -2258,7 +2258,7 @@ locdata={
     "fr": "Développeur en Réseaux Neuronal Artificiel Intelligent et CRM",
     "ja": "A.I.Neural Network & CRM 開発者",
     "ko": "A.I. 인공 신경망 & CRM 개발자",
-    "zh": "人工智能神经网络和CRM设计人员",
+    "zh": "人工智能神经网络和CRM开发人员",
     "pt": "Desenvolvedor da rede neural de AI e CRM",
     "en": "A.I. Neural Network &amp; CRM developer"
   },
@@ -2294,7 +2294,7 @@ locdata={
     "fr": "Spécialiste de l'économie numérique pour les Nations-Unies, Lendit, GreenPeace, Judge-China Big Data FinTech Award",
     "ja": "国際連合のデジタル経済、LendIt、グリーンピース、Judge－中国ビッグデータフィンテック賞",
     "ko": "유엔 디지털 경제,  Lendit, GreenPeace, Judge-China Big Data FinTech Award",
-    "zh": "联合国数字经济，Lendit,，GreenPeace,，Judge-China Big Data FinTech Award",
+    "zh": "联合国数字经济，朗迪，绿色和平组织，法官-中国大数据金融科技奖",
     "pt": "Economia Digital da ONU, Lendit, Greenpeace, juiz-China Prêmio de FinTech Big Data",
     "en": "UN Digital Economy, Lendit, GreenPeace, Judge-China Big Data FinTech Award"
   },
@@ -2306,7 +2306,7 @@ locdata={
     "fr": "Avocate chez , Singapour",
     "ja": "弁護士.シンガポール",
     "ko": "Advocate 싱가포르",
-    "zh": "律师。",
+    "zh": "律师，新加坡。",
     "pt": "Advogado .",
     "en": " advocate. Singapore"
   },
@@ -2342,7 +2342,7 @@ locdata={
     "fr": "Londres, Royaume-Uni / programmeur du réseau de neurones artificiels",
     "ja": "Facebook.ロンドン、 UK / A.I.Neural Network プログラマー",
     "ko": "Facebook, 영국 런던 / A.I. 인공 신경망 프로그래머",
-    "zh": "伦敦，ianhewangguo人工智能神经网络程序员",
+    "zh": "Facebook，英国伦敦/，ianhewangguo人工智能神经网络程序员",
     "pt": "Londres, Reino Unido/Programador da rede Neural da AI ",
     "en": "Facebook. London, UK / A.I. Neural Network programmer"
   },
@@ -2354,7 +2354,7 @@ locdata={
     "fr": "",
     "ja": "Agrello, Qtum.Estonia / Blockchain サイエンティスト",
     "ko": "Agrello, Qtum. 에스토니아",
-    "zh": "",
+    "zh": "Agrello, Qtum. 爱沙尼亚 / 区块链科学家",
     "pt": "",
     "en": "Agrello, Qtum. Estonia / Blockchain scientist"
   },
@@ -2366,7 +2366,7 @@ locdata={
     "fr": "",
     "ja": "BankEx, Blockchain consortiums.NY, USA",
     "ko": "BankEx, Blockchain consortiums. 미국 뉴욕",
-    "zh": "",
+    "zh": "BankEx, 美国纽约，区块链联盟",
     "pt": "",
     "en": "BankEx, Blockchain consortiums. NY, USA. Ethereum early investor."
   },
@@ -2390,7 +2390,7 @@ locdata={
     "fr": "Starbase, Smart Contract, Japon / consultant, ingénieur Blockchain",
     "ja": "Starbase, Smart Contract, Japan Blockchain エンジニア",
     "ko": "일본 Starbase, 스마트 계약. 블록체인 엔지니어",
-    "zh": "Starbase， Smart Contract,，日本顾问，分布式存储库工程师",
+    "zh": "Starbase， 智能合约 / 日本，区块链工程师",
     "pt": "Starbase, contrato inteligente, Japão /consultor, engenheiro de Blockchain  y de bancos de dados distribuídos",
     "en": "Starbase, Smart Contract, Japan / Blockchain engineer"
   },
@@ -2414,7 +2414,7 @@ locdata={
     "fr": "COO of Starbase, Japon",
     "ja": "議長および CEO JYC Holdings",
     "ko": "일본 Starbase COO",
-    "zh": "",
+    "zh": "Starbase首席运营官，日本",
     "pt": "",
     "en": "COO of Starbase, Japan"
   },
@@ -2426,7 +2426,7 @@ locdata={
     "fr": "PDG et Directeur Général de JYC Holdings",
     "ja": "JYC Holdingsの取締役会長兼社長",
     "ko": "JYC Holdings 회장 및 CEO",
-    "zh": "JYC Holdings总裁及总经理",
+    "zh": "JYC Holdings 董事长兼首席执行官",
     "pt": "Presidente e CEO da JYC Holdings",
     "en": "Chairman and CEO JYC Holdings"
   },
@@ -2450,7 +2450,7 @@ locdata={
     "fr": "BMO - Bank of Montreal, Société Canadienne du Tourisme Spatial",
     "ja": "BMO（モントリオール銀行）、カナダの宇宙観光協会",
     "ko": "BMO - Bank of Montreal, 캐나다 우주관광 학회",
-    "zh": "BMO - Bank of Montreal,，加拿大太空游协会",
+    "zh": "BMO - 蒙特利尔银行,，加拿大太空游协会",
     "pt": "BMO - Banco de Montreal, Sociedade Canadense de Turismo Espacial",
     "en": "BMO - Bank of Montreal, Space Tourism Society Canada"
   },
@@ -2462,7 +2462,7 @@ locdata={
     "fr": "Hong Kong and Shanghai Banking Corporation (HSBC)",
     "ja": "香港・上海銀行株式会社（HSBC）",
     "ko": "홍콩 및 상하이 뱅킹회사 (HSBC)",
-    "zh": "Hong Kong and Shanghai Banking Corporation ",
+    "zh": "香港上海汇丰银行有限公司",
     "pt": "Hong Kong e Shanghai Banking Corporation (HSBC)",
     "en": "Hong Kong and Shanghai Banking Corporation (HSBC)"
   },
@@ -2510,7 +2510,7 @@ locdata={
     "fr": "",
     "ja": "Bitindia共同創立者 - Blockchain Exchange & Wallet",
     "ko": "Bitindia 공동 설립자 – 블록체인 익스체인지 & 지갑",
-    "zh": "",
+    "zh": "Bitindia的联合创始人 - 区块链 交易所和钱包",
     "pt": "",
     "en": "Co-founder of Bitindia - Blockchain Exchange &amp; Wallet"
   },
@@ -2522,7 +2522,7 @@ locdata={
     "fr": "",
     "ja": "CEO:CFS.ReLife fund. Charity&Philanthropy 起業家",
     "ko": "CEO: CFS. ReLife fund. 자선 사업가",
-    "zh": "",
+    "zh": "首席执行官：CFS. ReLife基金。 慈善企业家",
     "pt": "",
     "en": "CEO: CFS. ReLife fund. Charity&amp;Philanthropy Entrepreneur"
   },
@@ -2534,7 +2534,7 @@ locdata={
     "fr": "",
     "ja": "",
     "ko": "FinTech, 금융 기술, 디지털 혁신, 결제, 은행 업무",
-    "zh": "",
+    "zh": "金融科技，金融技术， 数字创新，付款， 银行业",
     "pt": "",
     "en": "FinTech, Financial Technology, Digital Innovation, Payments, Banking"
   },
@@ -2546,7 +2546,7 @@ locdata={
     "fr": "",
     "ja": "Telindus デジタルファイナンスソリューション",
     "ko": "Telindus Luxembourg, 디지털 금융 솔루션",
-    "zh": "",
+    "zh": "Telindus的数字金融解决方案",
     "pt": "",
     "en": "Digital Finance Solutions at Telindus"
   },
@@ -2558,7 +2558,7 @@ locdata={
     "fr": "Spécialiste Financier / Conformite / Blockchain/ Gouvernement Australien",
     "ja": "金融/コンプライアンス/ブロックチェーンスペシャリストオーストラリア政府",
     "ko": "재무/컴플라이언스/블록체인 전문가. 호주 정부.",
-    "zh": "",
+    "zh": "财务/合规性/区块链 专家。澳大利亚政府。",
     "pt": "",
     "en": "Financial/Compliance/Blockchain Specialist. Australian Government."
   },
@@ -2570,7 +2570,7 @@ locdata={
     "fr": "PDG et co-fondateur de VOISE",
     "ja": "",
     "ko": "VOISE의 CEO 및 공동 설립자",
-    "zh": "",
+    "zh": "财务/合规性/区块链 专家。澳大利亚政府。",
     "pt": "",
     "en": "CEO and Co-founder of VOISE"
   },
@@ -2582,7 +2582,7 @@ locdata={
     "fr": "Fondateur et PDG de Celcius Network. Conseiller auprès de Directeur des Opérations de Credit Coin et Investisseur. ",
     "ja": "Founder & CEO Celsius Network - The Credit Coin ICO アドバイザーおよび投資家",
     "ko": "설립자 & CEO. Celsius Network - The Credit Coin ICO 자문 및 투자자.",
-    "zh": "",
+    "zh": "Celsius网络的创始人兼首席执行官 - Credit Coin的ICO顾问及 投资人",
     "pt": "",
     "en": "Founder & CEO Celsius Network - The Credit Coin ICO advisor and Investor. Governing Dynamix. Founded 2 on NY's TOP 10 Biggest Venture-Backed since 2000"
   },
@@ -2666,7 +2666,7 @@ locdata={
     "fr": "Nous avons pour mission d'aider deux milliards de personnes n'ayant pas accès aux services bancaires à participer au système financier global.",
     "ja": "当社は20億人の銀行口座を持たない人々が、グローバル金融エコシステムの一部となるのを助けるという素晴らしい使命を担っています。",
     "ko": "저희는 글로벌 금융 생태계의 일원이 될 수 있도록 20억의 금융 소외 인구를 지원하는 중대한 임무에 착수했습니다.",
-    "zh": "",
+    "zh": "我们从事了一项伟大的事业，那就是帮助20亿无银行账户的人成为全球金融生态系统的一部分。",
     "pt": "",
     "en": "We took on a great mission to help two bln unbanked people become part of a global financial ecosystem."
   },
@@ -2678,7 +2678,7 @@ locdata={
     "fr": "Interview d'Anton Dzyatkovsky, Président de MicroMoney, à Forbes.",
     "ja": "マイクロマネーの CEO であるAnton Dzyatkovskyはフォーブスに述べています。",
     "ko": "MicroMoney의 CEO Anton Dzyatkovsky, Forbes와의 인터뷰",
-    "zh": "",
+    "zh": "MicroMoney的首席执行官Anton Dzyatkovsky向福布斯杂志如是说。",
     "pt": "",
     "en": "MicroMoney's CEO Anton Dzyatkovsky speaks to Forbes"
   },
@@ -2690,7 +2690,7 @@ locdata={
     "fr": "Nous sommes les seuls à accorder des crédits sans pièces ou documents justificatifs, donc même les personnes n'ayant aucune cote de crédit s'adressent à nous. ",
     "ja": "当社では担保や紙の文書無しでローンを発行します。そのため、信用格付けがない人でも当社に申し込むことができます。",
     "ko": "저희는 담보 및 서류 없이 대출을 해주는 유일한 기관입니다. 그러므로 신용점수가 없는 사람들도 저희에게 대출을 신청할 수 있습니다.",
-    "zh": "",
+    "zh": "只有我们才发放没有抵押品和纸质文件的贷款，所以，即使是没有信用等级的人也适用于我们。",
     "pt": "",
     "en": "Only we issue loans without collateral and paper documents, so even people who don’t have credit rate apply to us."
   },
@@ -2726,7 +2726,7 @@ locdata={
     "fr": "Documents d'enregistrement de la société",
     "ja": "企業設立文書",
     "ko": "기업 문서",
-    "zh": "",
+    "zh": "公司注册文件",
     "pt": "",
     "en": "Company incorporation documents"
   },
@@ -2738,7 +2738,7 @@ locdata={
     "fr": "",
     "ja": "201706086N, シンガポール共和国に設立",
     "ko": "201706086N, 싱가포르 공화국에 설립",
-    "zh": "",
+    "zh": "201706086N, 在新加坡共和国注册成立",
     "pt": "",
     "en": "201706086N, incorporated in Republic of Singapore"
   },
@@ -2750,7 +2750,7 @@ locdata={
     "fr": "",
     "ja": "778(FC)/2016-2017(YGN), ミャンマー共和国に設立 ",
     "ko": "778(FC)/2016-2017(YGN), 미얀마 연방공화국에 설립",
-    "zh": "",
+    "zh": "778(FC)/2016-2017(YGN),在缅甸联邦共和国注册成立",
     "pt": "",
     "en": "778(FC)/2016-2017(YGN), Incorporated in the Republic of the Union of Myanmar"
   },
@@ -2906,7 +2906,7 @@ locdata={
     "fr": "Voir le code sur Github",
     "ja": "GITHUBでコードを見る",
     "ko": "GITHUB에서 코드 보기",
-    "zh": "",
+    "zh": "在GITHUB上查看代码",
     "pt": "",
     "en": "view CODE on GITHUB"
   },
@@ -2918,7 +2918,7 @@ locdata={
     "fr": "Que représente nos tokens ?",
     "ja": " AMM トークンが表すものは何か",
     "ko": "AMM 토큰이 무엇입니까",
-    "zh": "",
+    "zh": "AMM代币的含义是什么",
     "pt": "",
     "en": "What does AMM token represent"
   },
@@ -2930,7 +2930,7 @@ locdata={
     "fr": "AMM est un jeton, ou token, utilitaire. Le  jeton AMM fait partie intégrante de l'écosystème de MicroMoney et peut être utilisé tant comme un moyen de paiement interne que comme pour avoir accès aux services de MicroMoney. Le modèle de jetons est élaboré afin que nos clients l'utilisent fréquemment, augmentant ainsi la demande.",
     "ja": "AMMはユーティリティトークンです。トークンはマイクロマネーのエコシステムにとって欠かせない一部であり、内部支払いの手段、あるいはマイクロマネーのサービスにアクセスする手段として使用することができます。トークンモデルは、顧客がそれを頻繁に使用したいと思うようにし、それによってトークンの需要を高めるために作成されています。",
     "ko": "AMM은 유틸리티 토큰입니다. 토큰은 MicroMoney 생태계의 필수 요소이며 내부 지불 수단으로 사용되거나 MicroMoney 서비스에 액세스하는 데 사용될 수 있습니다. 이 토큰 모델은 고객이 자주 사용하여 토큰에 대한 수요를 높일 수 있도록 만들어졌습니다.",
-    "zh": "",
+    "zh": "AMM是一种效用代币。该代币是MicroMoney生态系统的一个组成部分，并且它可用作内部付款方式或是用于获取MicroMoney的服务。该代币模型的构建使我们的客户想要频繁地使用它，从而为该代币创造出更高的需求。",
     "pt": "",
     "en": "AMM is a utility token. The token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services. The token model is built so that our clients will want to use it frequently, thereby creating higher demand for the token."
   },
