@@ -262,11 +262,16 @@ body {
   vertical-align: middle;
 }
 
-.founded-money-alt:before {
+.founded-money-alt:before,
+.founded-money-amm:before {
   content: 'Altcoins';
   font-size: 12px;
   vertical-align: middle;
   margin-right: 7px;
+}
+
+.founded-money-amm:before {
+  content: 'AMM'
 }
 
 @media (max-width: 759px) {
