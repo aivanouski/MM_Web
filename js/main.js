@@ -87,7 +87,7 @@ $(document).ready(function() {
 
   $('.countdown').each(function() {
     var $el = $(this);
-    var deadline = new Date(2017, 9, 28, 12);
+    var deadline = new Date(2017, 10, 17, 23, 59);
 
     update();
 
@@ -102,6 +102,7 @@ $(document).ready(function() {
     }
   });
 
+  /*
   var inview = new Waypoint.Inview({
     element: $('.hero_desc')[0],
     exited: function() {
@@ -112,6 +113,7 @@ $(document).ready(function() {
       $('.countdown-panel').removeClass('visible')
     }
   });
+  */
 
   function getTimeRemaining(endtime) {
     var t = Date.parse(endtime) - Date.parse(new Date());

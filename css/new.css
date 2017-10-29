@@ -379,29 +379,32 @@ body {
 }
 
 .countdown-panel {
-  position: fixed;
   text-align: center;
-  right: 20px;
-  bottom: -40px;
   padding: 20px 10px;
   width: 260px;
   background: #fff;
   border-radius: 4px;
   box-shadow: 5px 10px 30px rgba(0,0,0,.1);
-  opacity: 0;
   transition: 0.8s opacity, 0.8s bottom;
-  z-index: 10;
+  z-index: 100;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 759px) {
   .countdown-panel {
+    margin: 30px auto;
+  }
+
+  .countdown-panel .btn {
     display: none;
   }
 }
 
-.countdown-panel.visible {
-  opacity: 1;
-  bottom: 40px;
+@media (min-width: 760px) {
+  .countdown-panel {
+    position: fixed;
+    right: 20px;
+    bottom: 40px;
+  }
 }
 
 .countdown-panel_title {

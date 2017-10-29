@@ -134,11 +134,11 @@ locdata={
   "59d2f090a0624f4ad4889048": {
     "ru": "Пресса",
     "es": "Periódico",
-	"it": "Rassegna stampa",
+    "it": "Rassegna stampa",
     "de": "Medien über uns",
     "fr": "Espace Média",
     "ja": "プレス",
-	"ko": "보도자료",
+    "ko": "보도자료",
     "zh": "新聞稿",
     "pt": "Pressione",
     "en": "Press"
@@ -263,8 +263,8 @@ locdata={
     "zh": "剩餘時間直到活動結束",
     "pt": "Tempo restante até o final da campanha",
     "en": "Time left until the campaign's finish:"
-  },  
-  // 
+  },
+  //
   "59d2f090a0624f4ad4889053": {
     "ru": "Дней",
     "es": "días",
@@ -325,7 +325,7 @@ locdata={
     "pt": "Digite o e-mail correto",
     "en": "Type correct email"
   },
-  "59d2f090a0624f4ad4889059": {  
+  "59d2f090a0624f4ad4889059": {
     "ru": "Подпишитесь сейчас",
     "es": "Suscríbase ahora",
     "it": "Iscrivetevi ora",
@@ -356,7 +356,7 @@ locdata={
     "de": "100 von 196 Ländern weltweit sind Heimat für 2.000.000.000 Menschen ohne ein Bankkonto: Bargeldbesitzer und Menschen ohne Bargeld, Menschen ohne Zugang zu Finanzdienstleistungen. Über 60% von ihnen haben ein Smartphone, 80% sind bei Facebook angemeldet.",
     "fr": "100 des 196 pays du monde hébergent 2000000000 de personnes n'ayant pas de compte bancaire:  ces personnes n'utilisent que des espèces, n'ont aucun historique de crédit, aucun accès à des services financiers. Il est important de noter que la plupart de ces personnes possèdent un smartphone et utilisent régulièrement les réseaux sociaux. 2 000 000 000, c'est un nombre significatif  de nouvelles données et de clients potentiels. Les institutions financières n'ont aucune information sur ce genre de clients ni sur leur historique de crédit, de plus, elle ne souhaite même pas prendre le risque de travailler avec ce type de personnes. Alors que ces gens ont besoin de financements et que les entreprises ont définitivement besoin de nouveaux clients pour survivre à la concurrence.",
     "ja": "世界196 か国中100の国で、銀行口座を持たない人々が20億人います。彼らは現金しか使えず、信用履歴もなく、金融サービスにアクセスできません。これらの人々の大部分が、定期的にスマートフォンやソーシャルネットワークを使用していることに注目することが重要です。これは膨大な量の新しいデータであり、彼らはかなりの数の新しい潜在顧客となります。金融機関は、これらの顧客と信用度について情報を持っていないため、これらの人々に提供するリスクを冒したくないと考えています。しかし、これらの人々にはそれでもなお資金が必要とであり、もちろん事業は競争を生き抜くために新規顧客が必要です。",
-	"ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
+    "ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
     "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，不适用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
     "pt": "100 de 196 países do mundo são sede de 2.000.000.000 pessoas desbancarizadas sem conta bancária: apenas dinheiro, sem histórico de crédito, sem acesso a serviços financeiros, mais de 60% têm um smartphone, 80% estão registrados no Facebook. ",
     "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!"
@@ -365,7 +365,7 @@ locdata={
     "ru": "Мы здесь, чтобы помочь этим 2 миллиардам людей получить все возможности мировой криптоиндустрии!",
     //"it": "Siamo qui per contribuire ad attirare 2 miliardi di persone non servite dalle banche nella nuova Globale cripto-economia",
     "it": "Noi siamo qui per aiutare questi 2 miliardi di persone che non hanno accesso si servizi bancari ad esplorare La Nuova Cripto Economia Globale!",
-	"es": "Nuestra misión aquí es ayudar a atraer 2 mil millones de personas no aseguradas por los bancos hacia la nueva cripto-economía Global",
+    "es": "Nuestra misión aquí es ayudar a atraer 2 mil millones de personas no aseguradas por los bancos hacia la nueva cripto-economía Global",
     "de": "Wir sind hier, um 2 Milliarden Menschen, die nicht von Banken bedient werden, zu helfen, Teil der neuen Globale Kryptowirtschaft zu werden.",
     "fr": "Nous sommes ici pour aider à inclure les 2 milliards de personnes n'ayant pas accès aux services bancaires dans la nouvelle crypto-économie",
     "ja": "当社は、銀行口座を持たないこれらの人々が新しいグローバル暗号経済を探索するのを手伝うためにあります。　",
@@ -378,11 +378,11 @@ locdata={
     "ru": "MicroMoney - это команда профессионалов, которые могут работать на развивающихся рынках, куда банки боятся даже заходить, потому что работа с такими рынками похожа на проход по минному полю.",
     //"it": "Micromoney è una squadra di professionisti che possono lavorare nei mercati emergenti, dove le banche pavide non entrano e anche se lo fanno, andranno su questo mercato come se fosse un campo minato.",
     "it": "Micromoney è una squadra di professionisti che sono in grado di lavorare nei mercati emergenti, dove le banche consolidate non sono in grado di operare oppure, quando lo fanno, non sono abbastanza innovative per sopravvivere in questo ambiente.",
-	"es": "Micromoney es un equipo de profesionales que puede trabajar en mercados emergentes, donde los bancos temerosos no penetran, e incluso, si entran, transitaran por este mercado como si fuera por un campo minado.",
+    "es": "Micromoney es un equipo de profesionales que puede trabajar en mercados emergentes, donde los bancos temerosos no penetran, e incluso, si entran, transitaran por este mercado como si fuera por un campo minado.",
     "de": "Micromoney ist ein Team aus Profis, die Experten in Entwicklungsländern sind, in welche sich gestandene Banken nicht trauen.",
     "fr": "Micromoney est une équipe de professionnels qui peuvent travailler sur les marchés émergents où les banques établies ne sont pas capables d'aller, et où, elle ne seraient de toute façon pas assez innovantes pour survivre dans un tel environnement.",
     "ja": "マイクロマネーは、全ての構築された銀行が運営できないような新興市場で働く能力を持つ、プロのチームです。彼らが実際に参加を決めたとしても、この環境で生き抜けるほどの革新性はありません。",
-	"ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
+    "ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
     "zh": "Micromoney -这是一个专业的团队，我们活跃在各个发展中国家市场中，这是一片银行不敢踏入的领域，这些市场对银行来说是一片雷区。",
     "pt": "A Micromoney é uma equipe de profissionais que são capazes de trabalhar em mercados emergentes, nos quais os bancos temerosos não entram, e mesmo que eles venham, eles atravessarão este mercado como se fosse um campo minado.",
     "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment."
@@ -402,12 +402,12 @@ locdata={
   "59d2f090a0624f4ad488905f": {
     "ru": "MicroMoney - это открытое кредитное бюро и Big Data-платформа, которая помогает находить новых клиентов для банков, микрофинансовых и страховых компаний, онлайн-сервисов, розничных сетей и так далее. Для заполнения заявки на кредит клиент использует мобильное приложение MicroMoney. Разработанная нашей компанией система скоринга, основанная на алгоритмах искусственного интеллекта и нейронных сетях, всего за 15 минут определяет уровень платежеспособности заемщика, и дает ему возможность за считанные минуты получить свой самый первый кредит в жизни, используя только свой смартфон. Все полученные в ходе скоринга данные и кредитные истории хранятся в блокчейне. Тысячи компаний с помощью этих данных получат доступ к миллионам новых клиентов и привлекут их в мировую экономику.",
 //    "it": "Micromoney è un’azienda di microfinanziamenti e di big data che collega i suoi clienti precedentemente privi di un conto in banca con le imprese: banche, agenzie di microfinanziamenti, assicurazioni, e-commerce, vendite al dettaglio, ecc. La piattaforma di intelligenze artificiale Micromoney determina la solvibilità dei clienti e in soli 15 minuti il mutuatario può ottenere il primo prestito della sua vita utilizzando solamente uno smartphone. Tutti le informazioni, preautorizzate dal cliente e le loro esperienze creditizie vengono archiviati nel blockchain. Migliaia di imprese avranno cosi’ accesso a milioni di nuovi clienti e li attireranno nell'economia globale.",
-	"it":"Micromoney è un ufficio di finanziamento e di dati estesi che collega nuovi clienti a tutti i servizi finanziari esistenti. La Piattaforma MICROMONEY A.I. utilizza complessi algoritmi per determinare la solvibilità  di tutti i clienti e in circa 15 minuti un creditore può ottenere il suo primo credito usando solamente il proprio smartphone. Utilizzando spesso la nostra piattaforma tutti i clienti possono pagare meno interessi e godere di un indice di affidabilità creditizia  piu' alto. Tutti i dati estesi aggregati e le concessioni di credito vengono archiviati nella Blockchain. Centinaia di attività economiche esistenti avranno accesso a milioni di nuovi clienti che porteranno all' economia globale.",
+    "it":"Micromoney è un ufficio di finanziamento e di dati estesi che collega nuovi clienti a tutti i servizi finanziari esistenti. La Piattaforma MICROMONEY A.I. utilizza complessi algoritmi per determinare la solvibilità  di tutti i clienti e in circa 15 minuti un creditore può ottenere il suo primo credito usando solamente il proprio smartphone. Utilizzando spesso la nostra piattaforma tutti i clienti possono pagare meno interessi e godere di un indice di affidabilità creditizia  piu' alto. Tutti i dati estesi aggregati e le concessioni di credito vengono archiviati nella Blockchain. Centinaia di attività economiche esistenti avranno accesso a milioni di nuovi clienti che porteranno all' economia globale.",
     "es": "Micromoney es una oficina pública de créditos y grandes volúmenes de datos que conecta a los nuevos clientes con las empresas:de micro-finanzas, de seguros, comercio electrónico, minoristas, bancos etc. La plataforma de inteligencia artificial de Micromoney determina la solvencia financiera de los clientes, y en sólo 15 minutos el prestatario puede tomar el primer préstamo en su vida con tan sólo usar su teléfono inteligente. Todos los grandes volúmenes de datos agregados y historiales crediticios se almacenan en el blockchain. Miles de empresas obtendrán acceso a millones de nuevos clientes que serán atraídos a la economía global.",
     "de": "Unsere Lösung Micromoney ist ein öffentlich zugängliches Tool für Finanzierung und der Big Data, das neue Kunden mit Betrieben verbindet. Für Banken, Mikrofinanzierung, Versicherung, elektronischen Handel, Einzelhandel usw. stellt die Plattform der künstlichen Intelligenz von MicroMoney die Zahlungsfähigkeit fest der Einzelkunden fest, sodass der Kreditnehmer in nur 15 Minuten das erste Darlehen in seinem Leben aufnehmen kann. Der gesamte Ablauf findet über die Smartphone-App statt. Alle gesammelten Big Data und Kreditverläufe werden in einem Blockchain gespeichert. Tausende von Unternehmen werden auf diese Weise einen Zugang zu Millionen von neuen Kunden bekommen und sie in die Weltwirtschaft einbinden können.",
     "fr": "MicroMoney est un organisme de crédit Open Source et de Big Data qui met en relation de nouveaux clients avec tous les services financiers existants. La plateforme MicroMoney A. I. utilise des algorythmes complexes pour prévoir la solvabilité de chaque clients qui, en seulement 15 min, peut obtenir le premier prêt de sa vie à partir de son smartphone. Chaque clients a la possibilité de payer moins d'intérêt et d'avoir un meilleur classement dans son historique de crédit en utilisant notre plateforme plus régulièrement. Toutes les données agrégées et les historiques de crédit sont stockés sur la Blockchain. Des milliers d'entreprises auront désormais accès à de nouveaux clients que nous allons insérer dans l'économie mondiale.",
     "ja": "マイクロマネーは、オープンソースのクレジット&ビッグデータビュローであり、新規顧客を既存のすべての金融サービスに接続します。マイクロマネーのA.I. プラットフォームでは、複雑なアルゴリズムを使用して全顧客の信用性を予測し、わずか15分で借り手がスマートフォンから人生初の融資を受けられます。当社のプラットフォームをさらに頻繁に使用すれば、全ての顧客には、より低い利子を払い、より高い信用貸付格付けを得る能力が生じます。集積したビッグデータと信用履歴はすべて、ブロックチェーンに保存されます。何千もの既存のビジネスは、当社がグローバル経済にもたらす何百万人もの新規顧客にアクセスするようになります。",
-	"ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
+    "ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
     "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与以下企业向联系： 银行、小型融资机构、保险公司、电子商务公司和零售业等。Micromoney 人工智能平台能够确认客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 所有收集到的庞大数据可信用记录被保存在区块链中。 上千家企业可以访问几百万的新客户并吸引他们进入世界经济题中。",
     "pt": "Micromoney é um bureau de empréstimos e dados grandes publicamente disponível que liga novos clientes às empresas: bancos, microfinanças, seguros, comércio eletrônico, varejo, etc. A plataforma da inteligência artificial da Micromoney determina a credibilidade dos clientes, e em apenas 15 minutos o mutuário pode tomar o primeiro empréstimo em sua vida usando apenas um smartphone. Todos os dados grandes agregados e históricos de crédito são armazenados no Blockchain. Milhares de empresas terão acesso a milhões de novos clientes e os envolverão na economia global.",
     "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
@@ -532,7 +532,7 @@ locdata={
     "pt": "Estamos trabalhando com sucesso",
     "en": "We are successfully working"
   },
-  "59d2f090a0624f4ad488906c": {		// error under ban
+  "59d2f090a0624f4ad488906c": {     // error under ban
     "ru": "15 миллионов людей",
     "es": "15 millones de personas",
     "it": "15 milioni di persone",
@@ -726,11 +726,11 @@ locdata={
   },
   "59d2f090a0624f4ad488907d": {
     "ru": "У MicroMoney - одна из немногих кампаний по дистрибьюций токенов, в которых есть рабочий продукт и действующая бизнес-модель: людям нужны деньги, а компаниям нужны клиенты.",
-    "es": "",	
-    "it": "MicroMoney è uno delle poche compagnie  Blockchain che è supportata da un prodotto reale ",	
-    "de": "MicroMoney ist eines der wenigen Blockchain-Unternehmen, das von einem echten Produkt unterstützt wird.",	
-    "fr": "MicroMoney est l'une des rares entreprises Blockchain à s'appuyer sur un produit réel.",	
-    "ja": "マイクロマネーは、実際の商品に裏付けられた数少ないブロックチェーン企業の一つです。",	
+    "es": "",
+    "it": "MicroMoney è uno delle poche compagnie  Blockchain che è supportata da un prodotto reale ",
+    "de": "MicroMoney ist eines der wenigen Blockchain-Unternehmen, das von einem echten Produkt unterstützt wird.",
+    "fr": "MicroMoney est l'une des rares entreprises Blockchain à s'appuyer sur un produit réel.",
+    "ja": "マイクロマネーは、実際の商品に裏付けられた数少ないブロックチェーン企業の一つです。",
     "ko": "MicroMoney는 실물 상품으로 뒷받침되는 몇 안 되는 블록체인 회사 중 하나입니다",
     "zh": "",
     "pt": "Uma das poucas distribuições de tokens com suporte ao produto de trabalho: as pessoas precisam de dinheiro, as empresas precisam de clientes",
@@ -861,7 +861,7 @@ locdata={
     "es": "Su historial de crédito en la base distribuida es transparente y controlado por un código criptográficamente verificable",
     //"it": "La vostra storia creditizia distribuita nella base  -  in modo trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
     "it": "La vostra storia creditizia su Blockhain trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
-	"de": "Ihr Kreditverlauf in einer verteilten Datenbank -  transparent, kontrollierbar und kryptographisch mit einem verifizierten Code steuerbar",
+    "de": "Ihr Kreditverlauf in einer verteilten Datenbank -  transparent, kontrollierbar und kryptographisch mit einem verifizierten Code steuerbar",
     "fr": "Votre historique de crédit sur la Blockchain est transparent, vérifiable et géré par un code cryptografié vérifiable",
     "ja": "ブロックチェーン上の信用履歴- 透明性のある監査可能な暗号的に検証可能なコードにより管理",
     "ko": "블록체인에 저장되는 신용 기록 - 투명하고, 감사가 가능하며, 암호화 기법으로 검증 가능한 코드로 관리됩니다.",
@@ -1136,7 +1136,7 @@ locdata={
   "59d2f090a0624f4ad48890b0": {
     "ru": "ПОЛИТИКА СОБЛЮДЕНИЯ КОНФИДЕНЦИАЛЬНОСТИ",
     "es": "politica sulla riservatezza",
-	"it": "POLITICA DELLA PRIVACY",
+    "it": "POLITICA DELLA PRIVACY",
     "de": "DATENSCHUTZ-RICHTLINIEN",
     "fr": "Politique de confidentialité",
     "ja": "プライバシーポリシー",
@@ -1209,7 +1209,7 @@ locdata={
     "ru": "В декабре 2015 года мы начали свою деятельность с:",
     "es": "En diciembre del año 2015 comenzamos nuestra actividad con:",
     "it": "Nel dicembre del 2015 abbiamo cominciato la nostra attività con:",
-	"de": "Wir starteten im Dezember 2015 unsere Tätigkeit mit:",
+    "de": "Wir starteten im Dezember 2015 unsere Tätigkeit mit:",
     "fr": "En décembre 2015, nous avons commencé nos activités avec:",
     "ja": "2015年12月に当社は初期投資額$30,000 で事業を開始しました。",
     "ko": "2015년 12월 사업 시작: ",
@@ -1480,7 +1480,7 @@ locdata={
     "zh": "到2020年，我們將盡全力實現MicroMoney的10億美元市值",
     "pt": "",
     "en": "We do our best to make sure MicroMoney's market cap will achieve $1 billion mark by 2020"
-	//"en": "We will do the best we can to achieve a MicroMoney's market value of $1 billion by 2020"
+    //"en": "We will do the best we can to achieve a MicroMoney's market value of $1 billion by 2020"
   },
   "59d2f090a0624f4ad48890ca": {
     "ru": "Ключевые компоненты",
@@ -2182,7 +2182,7 @@ locdata={
     "ru": "",
     "es": "MicroMoney en Sri Lanka, gerente de operaciones",
     "it": "MicroMoney Sri Lanka, Manager operativo",
-	"de": "MicroMoney Sri Lanka, Manager Operatives Geschäft",
+    "de": "MicroMoney Sri Lanka, Manager Operatives Geschäft",
     "fr": "MicroMoney Sri Lanka, responsable des opérations",
     "ja": "マイクロマネー Sri Lanka、 オペレーション担当マネージャー",
     "ko": "스리랑카 MicroMoney, 오퍼레이션 매니저",
@@ -2194,8 +2194,8 @@ locdata={
     "ru": "",
     "es": "MicroMoney en Indonesia, Gerente de operaciones",
     "it": "MicroMoney Indonesia, Manager operativo",
-	"de": "MicroMoney Indonesia, Manager Operatives Geschäft",
-	"fr": "MicroMoney Indonesia, responsable des opérations",
+    "de": "MicroMoney Indonesia, Manager Operatives Geschäft",
+    "fr": "MicroMoney Indonesia, responsable des opérations",
     "ja": "マイクロマネー インドネシア、オペレーション担当マネージャー",
     "ko": "인도네시아 MicroMoney, 오퍼레이션 매니저",
     "zh": "MicroMoney Indonesia，业务经理",
@@ -2705,7 +2705,7 @@ locdata={
     "zh": "法人",
     "pt": "Entidades jurídicas",
     "en": "Legal companies"
-  },// Documents d'enregistrement de la société  
+  },// Documents d'enregistrement de la société
   "59d2f091a0624f4ad488915a": {
     "ru": "Название компании:",
     "es": "Nombre de la compañía:",
@@ -2936,7 +2936,7 @@ locdata={
   },
   "mloc_05": {
     "ru": "людей",
-	"es": "personas",
+    "es": "personas",
     "it": "persone",
     "de": "menschen",
     "fr": "personnes",
@@ -2948,7 +2948,7 @@ locdata={
   },
   "New101": {
     "ru": "",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -2960,7 +2960,7 @@ locdata={
   },
   "New102": {
     "ru": "",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -2972,7 +2972,7 @@ locdata={
   },
   "New103": {
     "ru": "",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -2984,7 +2984,7 @@ locdata={
   },
   "New104": {
     "ru": "",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -2996,7 +2996,7 @@ locdata={
   },
   "New105": {
     "ru": "",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -3006,9 +3006,9 @@ locdata={
     "pt": "",
     "en": "Access to the loan services, fast, paperless, with an affordable interest rate is what making MicroMoney the solution for financial Catch-22."
   },
-  "New106": { 
+  "New106": {
     "ru": "Условия дистрибьюции токена",
-	"es": "Términos de distribución de tokens",
+    "es": "Términos de distribución de tokens",
     "it": "Condizioni di distribuzione del token",
     "de": "Begriffe der Token-Verteilung",
     "fr": "Conditions de distribution de jetons",
@@ -3018,9 +3018,9 @@ locdata={
     "pt": "Termos de distribuição de token",
     "en": "Terms of token distribution"
   },
-  "New107": { 
+  "New107": {
     "ru": "Инструкция",
-	"es": "Instrucción",
+    "es": "Instrucción",
     "it": "Istruzione",
     "de": "Anweisung",
     "fr": "Instruction",
@@ -3030,9 +3030,9 @@ locdata={
     "pt": "Instrução",
     "en": "Instruction"
   },
-  "New108": { 
+  "New108": {
     "ru": "Обзор экспертов",
-	"es": "Revisión de expertos",
+    "es": "Revisión de expertos",
     "it": "Esperto di esperti",
     "de": "Expertenbewertung",
     "fr": "Avis d'expert",
@@ -3042,9 +3042,9 @@ locdata={
     "pt": "Revisão de especialistas",
     "en": "Expert review"
   },
-  "New109": { 
+  "New109": {
     "ru": "Вэбинар",
-	"es": "",
+    "es": "",
     "it": "",
     "de": "",
     "fr": "",
@@ -3054,9 +3054,9 @@ locdata={
     "pt": "",
     "en": "Webinars"
   },
-  "New110": {  
+  "New110": {
     "ru": "Всего собрано",
-	"es": "Total fundado",
+    "es": "Total fundado",
     "it": "Totale fondata",
     "de": "Insgesamt gegründet",
     "fr": "Total fondé",
@@ -3066,9 +3066,9 @@ locdata={
     "pt": "Total fundado",
     "en": "Total founded"
   },
-  "New111": {  
+  "New111": {
     "ru": "Старт продаж",
-	"es": "Inicio de distribución",
+    "es": "Inicio de distribución",
     "it": "Inizio distribuzione",
     "de": "Vertriebsstart",
     "fr": "Début de la distribution",
@@ -3078,9 +3078,9 @@ locdata={
     "pt": "Início da distribuição",
     "en": "Distribution Start"
   },
-  "New112": {  
+  "New112": {
     "ru": "Участников",
-	"es": "Participantes",
+    "es": "Participantes",
     "it": "partecipanti",
     "de": "Teilnehmer",
     "fr": "participants",
@@ -3090,9 +3090,9 @@ locdata={
     "pt": "participantes",
     "en": "participants"
   },
-  "New113": {  
+  "New113": {
     "ru": "Токен бонус",
-	"es": "TOKEN SALE BONUS",
+    "es": "TOKEN SALE BONUS",
     "it": "BONUS DI VENDITA TOKEN",
     "de": "TOKEN SALE BONUS",
     "fr": "BONUS DE VENTE DE JETON",
@@ -3100,11 +3100,11 @@ locdata={
     "ko": "토큰 판매 보너스",
     "zh": "東京銷售獎金",
     "pt": "TOKEN VALE BONUS",
-    "en": "TOKEN SALE BONUS"
+    "en": "Time left until the end of campaign"
   },
-  "New114": {  
+  "New114": {
     "ru": "Заканчивается через",
-	"es": "TERMINA EN",
+    "es": "TERMINA EN",
     "it": "ENDS IN",
     "de": "ENDET IN",
     "fr": "FINI DANS",
@@ -3114,33 +3114,33 @@ locdata={
     "pt": "TERMINA EM",
     "en": "ENDS IN"
   }
-};/* // Вывод под excel  
+};/* // Вывод под excel
 for (var key in locdata) {
-	var en=locdata[key]["en"],ko=locdata[key]["ko"];
-	console.log(key+'\t'+en+'\t'+ko);
+    var en=locdata[key]["en"],ko=locdata[key]["ko"];
+    console.log(key+'\t'+en+'\t'+ko);
 }*/
 locall={
-	'en':'English',					// Английский
-	'ru':'Русский',					// Русский
-	'it':'Italiano',				// итальянский
-	'es':'Español',					// испанский
-	'de':'Deutsch',					// немецкий
-	'fr':'Français',				// французский
-	'ja':'日本語',					// японский
-	'ko':'한국어',						// корейский
-	'zh':'中國',						// китайский
-	'pt':'Portugues'				// португальский
+    'en':'English',                 // Английский
+    'ru':'Русский',                 // Русский
+    'it':'Italiano',                // итальянский
+    'es':'Español',                 // испанский
+    'de':'Deutsch',                 // немецкий
+    'fr':'Français',                // французский
+    'ja':'日本語',                 // японский
+    'ko':'한국어',                     // корейский
+    'zh':'中國',                      // китайский
+    'pt':'Portugues'                // португальский
 };
 
 wplink={
-	'en':'MicroMoney_whitepaper_ENG.pdf',					
-	'ru':'/wp/Micromoney_whitepaper_RU.pdf',				
-	'it':'/wp/Micromoney_whitepaper_IT.pdf',				
-	'es':'/wp/Micromoney_whitepaper_ES.pdf',				
-	'de':'/wp/Micromoney_whitepaper_DE.pdf',				
-	'fr':'/wp/Micromoney_whitepaper_FR.pdf',				
-	'ja':'/wp/Micromoney_whitepaper_JP.pdf',					
-	'ko':'/wp/Micromoney_whitepaper_KO.pdf',						
-	'zh':'/wp/Micromoney_whitepaper_CN.pdf',						
-	'pt':'/wp/Micromoney_whitepaper_BR.pdf'				
+    'en':'MicroMoney_whitepaper_ENG.pdf',
+    'ru':'/wp/Micromoney_whitepaper_RU.pdf',
+    'it':'/wp/Micromoney_whitepaper_IT.pdf',
+    'es':'/wp/Micromoney_whitepaper_ES.pdf',
+    'de':'/wp/Micromoney_whitepaper_DE.pdf',
+    'fr':'/wp/Micromoney_whitepaper_FR.pdf',
+    'ja':'/wp/Micromoney_whitepaper_JP.pdf',
+    'ko':'/wp/Micromoney_whitepaper_KO.pdf',
+    'zh':'/wp/Micromoney_whitepaper_CN.pdf',
+    'pt':'/wp/Micromoney_whitepaper_BR.pdf'
 };
