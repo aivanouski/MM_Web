@@ -274,10 +274,19 @@ body {
   content: 'AMM'
 }
 
+.progress-soft-target {
+  float: left;
+  margin-left: 25px;
+}
+
 @media (max-width: 759px) {
   .progress-hard-target,
   .progress-target {
     text-align: right;
+  }
+
+  .progress-soft-target {
+    text-align: left;
   }
 
   .progress-hard-target {
@@ -290,6 +299,10 @@ body {
 }
 
 @media (min-width: 760px) {
+  .progress-soft-target {
+    margin-left: 65px;
+  }
+
   .progress-start img {
     margin-bottom: 5px;
   }
