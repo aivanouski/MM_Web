@@ -93,7 +93,7 @@ locdata={
     "ja": "ロードマップ",
     "ko": "로드맵",
     "zh": "发展蓝图",
-    "pt": "Roteiro",
+    "pt": "Roadmap",
     "en": "Roadmap"
   },
   "59d2f090a0624f4ad4889045": {
@@ -141,7 +141,7 @@ locdata={
     "ja": "プレス",
     "ko": "보도자료",
     "zh": "新聞稿",
-    "pt": "Pressione",
+    "pt": "Imprensa",
     "en": "Press"
   },
   "59d2f090a0624f4ad4889049": {
@@ -359,7 +359,7 @@ locdata={
     "ja": "世界196 か国中100の国で、銀行口座を持たない人々が20億人います。彼らは現金しか使えず、信用履歴もなく、金融サービスにアクセスできません。これらの人々の大部分が、定期的にスマートフォンやソーシャルネットワークを使用していることに注目することが重要です。これは膨大な量の新しいデータであり、彼らはかなりの数の新しい潜在顧客となります。金融機関は、これらの顧客と信用度について情報を持っていないため、これらの人々に提供するリスクを冒したくないと考えています。しかし、これらの人々にはそれでもなお資金が必要とであり、もちろん事業は競争を生き抜くために新規顧客が必要です。",
     "ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
     "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，无法使用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
-    "pt": "100 de 196 países do mundo são sede de 2.000.000.000 pessoas desbancarizadas sem conta bancária: apenas dinheiro, sem histórico de crédito, sem acesso a serviços financeiros, mais de 60% têm um smartphone, 80% estão registrados no Facebook. ",
+    "pt": "Em 100 dos 196 países do mundo vivem 2.000.000.000 de pessoas sem qualquer acesso a bancos, pessoas que utilizam apenas dinheiro vivo, não têm histórico de crédito nem acesso a nenhum serviço financeiro. É importante referir que, apesar disso, a maioria dessas pessoas tem smartphones e usa as redes sociais regularmente. Estamos perante uma imensa quantidade de novos dados e um número substancial de potenciais novos clientes. As instituições financeiras não têm nenhuma informação sobre esses clientes ou sua capacidade de solvência, por isso não querem assumir riscos com serviços direcionados para essas pessoas. No entanto, elas continuam precisando de dinheiro e as empresas, certamente, continuam precisando de novos clientes para sobreviver no nosso mundo competitivo!",
     "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!"
   },
   "59d2f090a0624f4ad488905c": {
@@ -372,7 +372,7 @@ locdata={
     "ja": "当社は、銀行口座を持たないこれらの人々が新しいグローバル暗号経済を探索するのを手伝うためにあります。　",
     "ko": "당사의 목적은 새로운 글로벌 크립토 경제를 탐험할 수 있도록 이 20억의 금융 소외 인구를 지원하는 것입니다!",
     "zh": "我们就是要帮助20亿非银行用户进入新的全球性加密经济体中",
-    "pt": "Estamos aqui para ajudar a atrair 2 bilhões de pessoas desbancarizadas para Nova Crypto-Economia  Global ",
+    "pt": "Estamos aqui para ajudar esses 2 bilhões de pessoas sem acesso ao sistema bancário a explorar a Nova Economia Global da Moeda Criptografada!",
     "en": "We are here to help these 2 billion unbanked people  to explore The New Global Crypto Economy!"
   },
   "59d2f090a0624f4ad488905d": {
@@ -385,7 +385,7 @@ locdata={
     "ja": "マイクロマネーは、全ての構築された銀行が運営できないような新興市場で働く能力を持つ、プロのチームです。彼らが実際に参加を決めたとしても、この環境で生き抜けるほどの革新性はありません。",
     "ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
     "zh": "Micromoney -这是一个专业的团队，我们活跃在各个新兴市场中，这是一片银行不敢踏入的领域，即使银行决定在这些市场开拓业务，但他们缺乏创新能力，无法在此立足。",
-    "pt": "A Micromoney é uma equipe de profissionais que são capazes de trabalhar em mercados emergentes, nos quais os bancos temerosos não entram, e mesmo que eles venham, eles atravessarão este mercado como se fosse um campo minado.",
+    "pt": "A Micromoney é formada por uma equipe de profissionais com capacidade para trabalhar nos mercados emergentes, onde os bancos oficiais não operaram e, mesmo que operem nesses locais, não são inovadores o suficiente para sobreviver nesse ambiente.",
     "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment."
   },
   "59d2f090a0624f4ad488905e": {
@@ -410,7 +410,7 @@ locdata={
     "ja": "マイクロマネーは、オープンソースのクレジット&ビッグデータビュローであり、新規顧客を既存のすべての金融サービスに接続します。マイクロマネーのA.I. プラットフォームでは、複雑なアルゴリズムを使用して全顧客の信用性を予測し、わずか15分で借り手がスマートフォンから人生初の融資を受けられます。当社のプラットフォームをさらに頻繁に使用すれば、全ての顧客には、より低い利子を払い、より高い信用貸付格付けを得る能力が生じます。集積したビッグデータと信用履歴はすべて、ブロックチェーンに保存されます。何千もの既存のビジネスは、当社がグローバル経済にもたらす何百万人もの新規顧客にアクセスするようになります。",
     "ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
     "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与现有金融业务连接起来 .Micromoney 人工智能平台使用复杂的算法预测 客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 如果客户经常使用我们的平台，那么他们都有能力支付小额利息并具有较高的信用等级。所有收集到的庞大数据和信用记录都被保存在区块链中，上千家企业可以接触到数百万个新客户并吸引他们进入世界经济体中。",
-    "pt": "Micromoney é um bureau de empréstimos e dados grandes publicamente disponível que liga novos clientes às empresas: bancos, microfinanças, seguros, comércio eletrônico, varejo, etc. A plataforma da inteligência artificial da Micromoney determina a credibilidade dos clientes, e em apenas 15 minutos o mutuário pode tomar o primeiro empréstimo em sua vida usando apenas um smartphone. Todos os dados grandes agregados e históricos de crédito são armazenados no Blockchain. Milhares de empresas terão acesso a milhões de novos clientes e os envolverão na economia global.",
+    "pt": "A MicroMoney é o que se chama um “Open Source Credit & Big Data Bureau” que faz a conexão entre novos clientes e todos os serviços financeiros já existentes. A plataforma de Inteligência Artificial da MicroMoney recorre a complexos algoritmos para calcular a capacidade de solvência de todos os clientes e, em apenas 15 minutos, alguém pedindo crédito poderá estar obter o seu primeiro empréstimo na vida utilizando apenas o smartphone. Todos os clientes têm a possibilidade de pagar menos juros e ter um rating mais alto de crédito se usarem a nossa plataforma com mais frequência. Todo o Big Data agregado e histórico de crédito ficam armazenados no Blockchain. Com isso, milhares de empresas terão acesso a milhões de novos clientes a quem nós abrimos as portas da economia global.",
     "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
   },
   "59d2f090a0624f4ad4889060": {
@@ -434,7 +434,7 @@ locdata={
     "ja": "巨大な成長の可能性を持つ何兆ドル単位のビジネス!当社のようなタイプの金融包摂への需要は、膨大であり増加の一途にあります。当社はグローバル暗号経済の年間売り上げ高に、7兆ドル以上の金額を追加できます。",
     "ko": "거대한 성장 잠재력을 가진 수조 달러 규모의 비즈니스! 당사와 같은 유형의 금융 포용성에 대한 수요가 거대하며 증가하는 추세입니다. 당사는 글로벌 크립토 경제에 연간 7조 달러 이상을 추가할 수 있습니다.",
     "zh": "我们每年能为全球加密经济吸引超过7万亿美元",
-    "pt": "Podemos atrair mais de US $ 7 trilhões na Crypto-Economia  Global em volume anual",
+    "pt": "Um negócio que envolve vários trilhões de dólares com enorme potencial de crescimento! A demanda por nosso tipo de inclusão financeira é enorme e continua aumentando. Podemos adicionar mais de 7 trilhões de dólares em volume anual da Economia Global da Moeda Criptografada",
     "en": "A multi trillion dollar business with huge growth potencial! The demand for our type of financial inclusion is huge and on the rise. We can add over 7 trillion dollars in annual volume of Global Crypto Economy"
   },
   "59d2f090a0624f4ad4889062": {
@@ -458,7 +458,7 @@ locdata={
     "ja": "ミャンマー",
     "ko": "미얀마",
     "zh": "缅甸",
-    "pt": "Começamos a desenvolver o bureau de crédito descentalizado:",
+    "pt": "Myanmar",
     "en": "Myanmar"
   },
   "59d2f090a0624f4ad4889064": {
@@ -518,7 +518,7 @@ locdata={
     "ja": "業績",
     "ko": "업적",
     "zh": "成果",
-    "pt": "Realizações",
+    "pt": "Trabalho já feito",
     "en": "Achievements"
   },
   "59d2f090a0624f4ad488906b": {
@@ -554,7 +554,7 @@ locdata={
     "ja": "ビジネスモデル：",
     "ko": "비즈니스 모델:",
     "zh": "经营模式：",
-    "pt": "Modelo de negócio:",
+    "pt": "Modelo de Negócio:",
     "en": "Business Model:"
   },
   "59d2f090a0624f4ad488906f": {
@@ -578,7 +578,7 @@ locdata={
     "ja": "当社は3カ月以内 / 2017年第4四半期に開始します。",
     "ko": "3개월 후/ 2017년 4분기에 출시될 예정입니다.",
     "zh": "经过3个月2017 年第4季度我们将进入",
-    "pt": "Começamos startup em 3 meses/4 trimestre de 2017",
+    "pt": "Começaremos a trabalhar dentro de 3 meses / No 4º trimestre de 2017",
     "en": "We are starting in 3 months / Q4 2017"
   },
   "59d2f090a0624f4ad4889071": {
@@ -698,7 +698,7 @@ locdata={
     "ja": "シンガポール",
     "ko": "싱가포르",
     "zh": "新加坡",
-    "pt": "Cingapura",
+    "pt": "Singapura",
     "en": "Singapore"
   },
   "59d2f090a0624f4ad488907b": {
@@ -734,7 +734,7 @@ locdata={
     "ja": "マイクロマネーは、実際の商品に裏付けられた数少ないブロックチェーン企業の一つです。",
     "ko": "MicroMoney는 실물 상품으로 뒷받침되는 몇 안 되는 블록체인 회사 중 하나입니다",
     "zh": "MicroMoney是少数拥有真实产品的区块链公司之一",
-    "pt": "Uma das poucas distribuições de tokens com suporte ao produto de trabalho: as pessoas precisam de dinheiro, as empresas precisam de clientes",
+    "pt": "A MicroMoney é uma das poucas empresas Blockchain apoiadas por produto real",
     "en": "MicroMoney is one of few Blockchain companies that is backed by a real product"
   },
   "59d2f090a0624f4ad488907e": {
@@ -758,7 +758,7 @@ locdata={
     "ja": "500,000人以上の人がフェイスブックでいいねをつけています",
     "ko": "500,000+ Facebook 좋아요",
     "zh": "在Facebook上获得了50多万个赞",
-    "pt": "",
+    "pt": "Mais de 500,000 likes no Facebook",
     "en": "500,000+ likes on Facebook"
   },
   "59d2f090a0624f4ad4889080": {
@@ -770,7 +770,7 @@ locdata={
     "ja": "95,000の独自に登録済みの顧客",
     "ko": "95,000 순 등록 고객",
     "zh": "95,000名独特的注册客户",
-    "pt": "",
+    "pt": "95.000 clientes registrados",
     "en": "95,000 unique registered customers"
   },
   "59d2f090a0624f4ad4889081": {
@@ -782,7 +782,7 @@ locdata={
     "ja": "ビジネス用ビッグデータ",
     "ko": "기업을 위한 빅데이터",
     "zh": "针对企业的海量数据",
-    "pt": "Dados comerciais grandes",
+    "pt": "Big data para empresas",
     "en": "Big data for business"
   },
   "59d2f090a0624f4ad4889082": {
@@ -794,7 +794,7 @@ locdata={
     "ja": "銀行からの強い需要",
     "ko": "은행의 거대 수요",
     "zh": "银行电子商务的需求巨大",
-    "pt": "",
+    "pt": "Enorme demanda dos bancos",
     "en": "huge demand from Banks"
   },
   "59d2f090a0624f4ad4889083": {
@@ -806,7 +806,7 @@ locdata={
     "ja": "",
     "ko": "전자상거래",
     "zh": "电信&零售企业",
-    "pt": "",
+    "pt": "E-commerce",
     "en": "E-commerce"
   },
   "59d2f090a0624f4ad4889084": {
@@ -818,7 +818,7 @@ locdata={
     "ja": "",
     "ko": "통신 & 리테일 비즈니스",
     "zh": "  ",
-    "pt": "",
+    "pt": "Telecom e Empresas de varejo",
     "en": "Telecom &amp; Retail businesses"
   },
   "59d2f090a0624f4ad4889085": {
@@ -842,7 +842,7 @@ locdata={
     "ja": "世界規模の拡大 –世界100か国以上による当社のサービスへの高い需要",
     "ko": "전 세계로의 확장 - 100개 이상의 국가에서 당사 서비스에 대한 수요가 상당히 높습니다.",
     "zh": "向全世界的扩展-全球有100多个国家对我们的服务拥有巨大需求",
-    "pt": "Expansões em todo o mundo - mais de 100 novos países com grande demanda por nossos serviços",
+    "pt": "Expansão à escala mundial - mais de 100 novos países com grande demanda por nossos serviços",
     "en": "Expansion worldwide – more than 100+ countries in the world with a huge demand for our services"
   },
   "59d2f090a0624f4ad4889087": {
@@ -854,7 +854,7 @@ locdata={
     "ja": "イーサリアム使用",
     "ko": "이더리움 기반",
     "zh": "以以太坊为基础",
-    "pt": "Com base no Etherium",
+    "pt": "Fornecido pelo Etherium",
     "en": "Powered by Ethereum"
   },
   "59d2f090a0624f4ad4889088": {
@@ -867,7 +867,7 @@ locdata={
     "ja": "ブロックチェーン上の信用履歴- 透明性のある監査可能な暗号的に検証可能なコードにより管理",
     "ko": "블록체인에 저장되는 신용 기록 - 투명하고, 감사가 가능하며, 암호화 기법으로 검증 가능한 코드로 관리됩니다.",
     "zh": "客户在区块链中的信用记录-透明、分配数据库、受到密码与验证码的管理",
-    "pt": "Seu histórico de crédito em um banco de dados distribuído é transparente, supervisionado, controlado por código criptograficamente verificável",
+    "pt": "O seu histórico de crédito no blockchain é transparente, pode ser verificado e é administrado por um código criptografado",
     "en": "Your credit history on blockchain - Transparent, Auditable, Administered by cryptographically verifiable code"
   },
   "59d2f090a0624f4ad4889089": {
@@ -879,7 +879,7 @@ locdata={
     "ja": "金融包摂",
     "ko": "금융 포용성",
     "zh": "金融一体化",
-    "pt": "Integração financeira",
+    "pt": "Inclusão financeira",
     "en": "Financial inclusion"
   },
   "59d2f090a0624f4ad488908a": {
@@ -891,7 +891,7 @@ locdata={
     "ja": "世界のグローバル暗号経済に20億人を結びつける",
     "ko": "글로벌 크립토 경제에 20억 인구가 추가됩니다.",
     "zh": "将20亿人带入全球加密经济中",
-    "pt": "Envolvimento de 2 bilhões de pessoas na cripto-economia global",
+    "pt": "Traz 2 bilhões de pessoas para a economia global da moeda criptografada",
     "en": "Add 2 bln people in world global crypto economy"
   },
   "59d2f090a0624f4ad488908b": {
@@ -915,7 +915,7 @@ locdata={
     "ja": "マイクロマネーでは、自由でオープンソース・ソフトウェアモデルの存在を信じています。",
     "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式",
-    "pt": "Micromoney confia em modelo de software livre de código aberto",
+    "pt": "A Micromoney confia em um modelo de software livre e de código aberto",
     "en": "Micromoney believes in maintaining a free and open source software model"
   },
   "59d2f090a0624f4ad488908d": {
@@ -927,7 +927,7 @@ locdata={
     "ja": "デジタル・アイデンティティ",
     "ko": "디지털 ID",
     "zh": "数字身份",
-    "pt": "Identificação digital",
+    "pt": "Identidade digital",
     "en": "Digital Identity"
   },
   "59d2f090a0624f4ad488908e": {
@@ -939,7 +939,7 @@ locdata={
     "ja": "皆さんとその資金によって展開する仮想アイデンティティを創造",
     "ko": "고객 및 고객의 자금과 함께 발전하는 가상 ID를 만들 수 있습니다.",
     "zh": "建立虚拟身份，它将同客户和客户的资金共同发展",
-    "pt": "Criação de uma identificação virtual que se desenvolve com você e seus meios meios monetários",
+    "pt": "Cria uma identidade virtual que evolui com você e seu dinheiro",
     "en": "Create a virtual identity that evolves with you and your funds"
   },
   "59d2f090a0624f4ad488908f": {
@@ -975,7 +975,7 @@ locdata={
     "ja": "当社はブロックチェーンの熟練者であり、エコシステ",
     "ko": "당사는 블록체인 전문가로 구성되어 있으며, 이 생태계와의 통합을 계획하고 있습니다.",
     "zh": "我们是区块链系统的拥护者，我们打算将这一技术应用在生态体系中",
-    "pt": "Somos adeptos do sistema Blockchain e planejamos integrar-nos ao ecossistema",
+    "pt": "Somos adeptos do sistema Blockchain e planejamos integrar-nos no ecossistema",
     "en": "We are blockchain adepts and we plan to be integrated into the ecosystem"
   },
   "59d2f090a0624f4ad4889092": {
@@ -1071,7 +1071,7 @@ locdata={
     "ja": "アンドロイドアプリ",
     "ko": "대출자용 Android 앱",
     "zh": "为借款人设计的Android软件",
-    "pt": "Aplicativo para Android para mutuários ",
+    "pt": "Aplicativo Android para tomadores de empréstimo",
     "en": "Android App for Borrowers"
   },
   "59d2f090a0624f4ad488909c": {
@@ -1083,7 +1083,7 @@ locdata={
     "ja": "(4,7 の評価!10.000回以上のダウンロード)",
     "ko": "(평점 4.7! 다운로드 횟수 10,000건 이상)",
     "zh": "(4.7等级！超过10000次下载）",
-    "pt": "Mais de 10.000 downloads)",
+    "pt": "(4,7 Rating! Mais de 10.000  downloads)",
     "en": "(4,7 Rating! More 10.000 downloads)"
   },
   "59d2f090a0624f4ad488909d": {
@@ -1095,7 +1095,7 @@ locdata={
     "ja": "借入者向けのマイクロマネー・アプリをお試しください!",
     "ko": "대출자용 MICROMONEY 앱을 사용해 보세요!",
     "zh": "试用为借款人设计的 Micromoney APP 软件！",
-    "pt": "Experimente APP da Micro Money para os mutuários!",
+    "pt": "EXPERIMENTE A APP DA MICROMONEY PARA TOMADORES DE EMPRÉSTIMO!",
     "en": "TRY MICROMONEY APP for borrowers!"
   },
   "59d2f090a0624f4ad48890a9": {
@@ -1107,7 +1107,7 @@ locdata={
     "ja": "マイクロマネーでは、自由なオープンソース・ソフトウェアモデルの存在を信じています。",
     "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式。",
-    "pt": "Micromoney confia em um modelo de software livre com código aberto.",
+    "pt": "A Micromoney confia em um modelo de software livre e de código aberto.",
     "en": "Micromoney believes in maintaining a free and open source software model."
   },
   "59d2f090a0624f4ad48890ab": {
@@ -1119,7 +1119,7 @@ locdata={
     "ja": "私たちのドキュメントをチェックしてください",
     "ko": "당사의 문서를 확인해 보세요.",
     "zh": "檢查我們的文件",
-    "pt": "",
+    "pt": "Confira os nossos documentos",
     "en": "Check our documents"
   },
   "59d2f090a0624f4ad48890ac": {
@@ -1131,7 +1131,7 @@ locdata={
     "ja": "白書",
     "ko": "화이트페이퍼 ",
     "zh": "白皮书",
-    "pt": "livro branco",
+    "pt": "WHITE PAPER",
     "en": "whitepaper"
   },
   "59d2f090a0624f4ad48890b0": {
@@ -1155,7 +1155,7 @@ locdata={
     "ja": "白書概要",
     "ko": "백서 요약",
     "zh": "白皮书摘要",
-    "pt": "",
+    "pt": "RESUMO DO “ WHITE PAPER “",
     "en": "Summary of the whitepaper"
   },
   "59d2f090a0624f4ad48890b3": {
@@ -1167,7 +1167,7 @@ locdata={
     "ja": "ビジネスモデル概要",
     "ko": "비즈니스 모델 (요약)",
     "zh": "简略版商业模式",
-    "pt": "",
+    "pt": "APRESENTAÇÃO RESUMIDA DO MODELO DO NEGÓCIO",
     "en": "Business model briefly"
   },
   "59d2f090a0624f4ad48890b4": {
@@ -1179,7 +1179,7 @@ locdata={
     "ja": "ビジネスモデル詳細",
     "ko": "비즈니스 모델 (전문)",
     "zh": "详细版商业模式",
-    "pt": "",
+    "pt": "APRESENTAÇÃO COMPLETA DO MODELO DO NEGÓCIO",
     "en": "Business model fully"
   },
   "59d2f090a0624f4ad48890b5": {
@@ -1191,7 +1191,7 @@ locdata={
     "ja": "エレベーターピッチ",
     "ko": "엘리베이터 피치",
     "zh": "电梯游说",
-    "pt": "",
+    "pt": "DISCURSO DE ELEVADOR (“ELEVATOR PITCH”)",
     "en": "Elevator Pitch"
   },
   "59d2f090a0624f4ad48890b6": {
@@ -1239,7 +1239,7 @@ locdata={
     "ja": "チームメンバーは3人",
     "ko": "팀원 3명",
     "zh": "3名工作人员组成的团队",
-    "pt": "3 funcionários em equipe",
+    "pt": "Equipe com 3 funcionários",
     "en": "3 employees in a team"
   },
   "59d2f090a0624f4ad48890ba": {
@@ -1275,7 +1275,7 @@ locdata={
     "ja": "35名のチーム",
     "ko": "35명의 팀원",
     "zh": "35人组成的团队",
-    "pt": "23000 usuários únicos registrados",
+    "pt": "23.000 usuários registradoss",
     "en": "35 people team"
   },
   "59d2f090a0624f4ad48890bd": {
@@ -1347,7 +1347,7 @@ locdata={
     "ja": "フェイスブックでいいねを付けた 人500,000以上",
     "ko": "Facebook 페이지의 좋아요 수 500,000+",
     "zh": "Facebook中超过500000 次点赞",
-    "pt": "US1$ 1.000.000",
+    "pt": "Mais de 500.000 likes na página do  Facebook  ",
     "en": "500,000+ Facebook page likes"
   },
   "59d2f090a0624f4ad48890c3": {
@@ -1359,7 +1359,7 @@ locdata={
     "ja": "ブロックチェーンに基づく分散型オープンソースの個人信用調査機関の開始と、世界規模の拡大の開始",
     "ko": "블록체인 기반의 분산형 오픈소스 크레딧 뷰로 출시 및 글로벌 확장 시",
     "zh": "以区块链技术为基础的分散式公开信用局投放，开始全世界规模的扩展",
-    "pt": "Lançamento de um bureau de crédito descentralizado público com base no Blockchain e início da expansão mundial.",
+    "pt": "Abertura de um bureau de crédito descentralizado de código aberto com base no Blockchain e início da expansão global",
     "en": "Launch of the Decentalized Open Source Credit bureau based on Blockchain and start of global expanding"
   },
   "59d2f090a0624f4ad48890c4": {
@@ -1383,7 +1383,7 @@ locdata={
     "ja": "ユニークな顧客",
     "ko": "독특한 고객",
     "zh": "獨特的客戶",
-    "pt": "clientes únicos",
+    "pt": "clientes",
     "en": "unique customers"
   },
   "59d2f090a0624f4ad48890c5": {
@@ -1407,7 +1407,7 @@ locdata={
     "ja": "韓国",
     "ko": "대한민국",
     "zh": "韩国",
-    "pt": "",
+    "pt": "Coreia do Sul",
     "en": "South Korea"
   },
   "59d2f090a0624f4ad48890c7": {
@@ -1624,7 +1624,7 @@ locdata={
     "ja": "シンボル",
     "ko": "기호",
     "zh": "符号",
-    "pt": "",
+    "pt": "Símbolo",
     "en": "Symbol"
   },
   "59d2f091a0624f4ad48890d6": {
@@ -1648,7 +1648,7 @@ locdata={
     "ja": "合計供給量 (トークンの配給)",
     "ko": "토큰의 공개판매",
     "zh": "全部销售（代币的公开销售）",
-    "pt": "Entrega total (Crowdsdale de tokens) ",
+    "pt": "Entrega Total  (Distribuição de Tokens)",
     "en": "Total supply (Token distribution)"
   },
   "59d2f091a0624f4ad48890d8": {
@@ -1660,7 +1660,7 @@ locdata={
     "ja": "増加計画",
     "ko": "모집 계획",
     "zh": "计划筹集",
-    "pt": "",
+    "pt": "Plano de angariação",
     "en": "Plan to raise"
   },
   "59d2f091a0624f4ad48890d9": {
@@ -1672,7 +1672,7 @@ locdata={
     "ja": "ハードキャップ",
     "ko": "최대 모금액",
     "zh": "硬上限",
-    "pt": "",
+    "pt": "Teto limite",
     "en": "Hard cap"
   },
   "59d2f091a0624f4ad48890da": {
@@ -1696,7 +1696,7 @@ locdata={
     "ja": "100%事前調査トークンの配給中、売れ残ったトークンは燃やされます。",
     "ko": "100% 선 채굴. 토큰 공개 판매 때 미판매된 모든 토큰은 소각됩니다.",
     "zh": "在代币公开销售期间所有未销售的代币将被销毁。",
-    "pt": "Todos os tokens não vendidos durante o Token Crowdsale serão queimados ",
+    "pt": "100% pré-minado. Todos os tokens que não forem vendidos durante a distribuição serão queimados.",
     "en": "100% pre-mined. Any unsold tokens during the Token distribution will be burned."
   },
   "59d2f091a0624f4ad48890dc": {
@@ -1708,7 +1708,7 @@ locdata={
     "ja": "トークンのタイプ",
     "ko": "토큰 유형",
     "zh": "代币类型",
-    "pt": "Tipo de tokens",
+    "pt": "Tipo de token",
     "en": "Token type"
   },
   "59d2f091a0624f4ad48890de": {
@@ -1720,7 +1720,7 @@ locdata={
     "ja": "トークンの配給が終了する前に販売できる",
     "ko": "토큰 분배의 완료 전에 토큰을 판매할 수 있습니까",
     "zh": "可能在代币公开销售结束前销售",
-    "pt": "Pode ser vendido antes de Crowdsdale de tokens terminar ",
+    "pt": "Podem ser vendidos antes de a distribuição de tokens terminar",
     "en": "Can be sold before Token distribution finished"
   },
   "59d2f091a0624f4ad48890df": {
@@ -1732,7 +1732,7 @@ locdata={
     "ja": "いいえ、全てのトークは、トークンの配給が終了した後で初めて販売できます。 ",
     "ko": "아니요, 모든 토큰은 토큰 분배가 완료된 후에만 판매할 수 있습니다.",
     "zh": "不，所有的代币只在代币公开销售结束后销售。",
-    "pt": "Não, todos os tokens só podem ser vendidos após Crowdsale de tokens terminar.",
+    "pt": "Não, qualquer token só pode ser vendido depois de a distribuição terminar.",
     "en": "No, all tokens can be sold only after Token distribution finished."
   },
   "59d2f091a0624f4ad48890e0": {
@@ -1756,7 +1756,7 @@ locdata={
     "ja": "トークンの配給構造",
     "ko": "토큰 분배 구조",
     "zh": "代币公开销售结构",
-    "pt": "Estrutura de Crowdsley de tokens ",
+    "pt": "Estrutura da distribuição de tokens",
     "en": "Token distribution Structure"
   },
   "59d2f091a0624f4ad48890e3": {
@@ -1792,7 +1792,7 @@ locdata={
     "ja": "チーム(1 年間凍結)",
     "ko": "팀 (1년간 동결)",
     "zh": "团队（1年内保持不变）",
-    "pt": "Equipe (se congela por 1 ano)",
+    "pt": "Equipe (bloqueado por 1 ano)",
     "en": "Team (freezing for 1 year)"
   },
   "59d2f091a0624f4ad48890e6": {
@@ -1804,7 +1804,7 @@ locdata={
     "ja": "アドバイザー / メンター",
     "ko": "어드바이저/멘토",
     "zh": "顾问",
-    "pt": "Consultores/curadores",
+    "pt": "Consultores/mentores",
     "en": "Advisors / mentors"
   },
   "59d2f091a0624f4ad48890e7": {
@@ -1828,7 +1828,7 @@ locdata={
     "ja": "ボーナス",
     "ko": "보너스",
     "zh": "红利",
-    "pt": "Ofertas",
+    "pt": "Pré-venda privada",
     "en": "Bonuses"
   },
   "59d2f091a0624f4ad48890e9": {
@@ -1900,7 +1900,7 @@ locdata={
     "ja": "キャンペーン",
     "ko": "캠페인",
     "zh": "活动",
-    "pt": "",
+    "pt": "Campanha",
     "en": "Campaign"
   },
   "59d2f091a0624f4ad48890ef": {
@@ -1912,7 +1912,7 @@ locdata={
     "ja": "ビットコイントーク・シグナチャー・ キャンペーン",
     "ko": "Bitcointalk 서명 캠페인",
     "zh": "Bitcointalk签售活动",
-    "pt": "Campanha de assinaturas Bitcointalk",
+    "pt": "Camapanha de assinaturas do Bitcointalk ",
     "en": "Bitcointalk Signatures Campaign"
   },
   "59d2f091a0624f4ad48890f0": {
@@ -1936,7 +1936,7 @@ locdata={
     "ja": "投稿キャンペーン",
     "ko": "게시",
     "zh": "出版",
-    "pt": "Campanha de Publicação ",
+    "pt": "Publicação de",
     "en": "Publishing"
   },
   "59d2f091a0624f4ad48890f2": {
@@ -2008,7 +2008,7 @@ locdata={
     "ja": "当社が誰のアイディアを認め、誰と協働するか",
     "ko": "지지 또는 협력하고 있는 단체의 아이디어",
     "zh": "我们使用谁的创意或与谁合作",
-    "pt": "De quem são as idéias que confessamos ou em cooperação com quem somos",
+    "pt": "Os autores das ideias que apoiamos (ou juntamente com quem apoiamos) são:",
     "en": "Collaborative partners"
   },
   "59d2f091a0624f4ad48890f8": {
@@ -2668,7 +2668,7 @@ locdata={
     "ja": "当社は20億人の銀行口座を持たない人々が、グローバル金融エコシステムの一部となるのを助けるという素晴らしい使命を担っています。",
     "ko": "저희는 글로벌 금융 생태계의 일원이 될 수 있도록 20억의 금융 소외 인구를 지원하는 중대한 임무에 착수했습니다.",
     "zh": "我们从事了一项伟大的事业，那就是帮助20亿无银行账户的人成为全球金融生态系统的一部分。",
-    "pt": "",
+    "pt": "Assumimos a grande missão de ajudar 2 bilhões de pessoas sem acesso a bancos a se tornarem parte de um ecossistema financeiro global.",
     "en": "We took on a great mission to help two bln unbanked people become part of a global financial ecosystem."
   },
   "59d2f091a0624f4ad4889157": {
@@ -2680,7 +2680,7 @@ locdata={
     "ja": "マイクロマネーの CEO であるAnton Dzyatkovskyはフォーブスに述べています。",
     "ko": "MicroMoney의 CEO Anton Dzyatkovsky, Forbes와의 인터뷰",
     "zh": "MicroMoney的首席执行官Anton Dzyatkovsky向福布斯杂志如是说。",
-    "pt": "",
+    "pt": "O CEO do MicroMoney's, Anton Dzyatkovsky, fala na Forbes",
     "en": "MicroMoney's CEO Anton Dzyatkovsky speaks to Forbes"
   },
   "59d2f091a0624f4ad4889158": {
@@ -2692,7 +2692,7 @@ locdata={
     "ja": "当社では担保や紙の文書無しでローンを発行します。そのため、信用格付けがない人でも当社に申し込むことができます。",
     "ko": "저희는 담보 및 서류 없이 대출을 해주는 유일한 기관입니다. 그러므로 신용점수가 없는 사람들도 저희에게 대출을 신청할 수 있습니다.",
     "zh": "只有我们才发放没有抵押品和纸质文件的贷款，所以，即使是没有信用等级的人也适用于我们。",
-    "pt": "",
+    "pt": "Somos os únicos a aprovar créditos sem garantias nem documentos em papel, por isso, mesmo as pessoas sem taxa de crédito recorrem a nós.",
     "en": "Only we issue loans without collateral and paper documents, so even people who don’t have credit rate apply to us."
   },
   "59d2f091a0624f4ad4889159": {
@@ -2908,7 +2908,7 @@ locdata={
     "ja": "GITHUBでコードを見る",
     "ko": "GITHUB에서 코드 보기",
     "zh": "在GITHUB上查看代码",
-    "pt": "",
+    "pt": "VIEW  CODE  ON GITHUB",
     "en": "view CODE on GITHUB"
   },
   "mloc_02": {
@@ -2920,7 +2920,7 @@ locdata={
     "ja": " AMM トークンが表すものは何か",
     "ko": "AMM 토큰이 무엇입니까",
     "zh": "AMM代币的含义是什么",
-    "pt": "",
+    "pt": "O que representam o token AMM ",
     "en": "What does AMM token represent"
   },
   "mloc_03": {
@@ -2932,7 +2932,7 @@ locdata={
     "ja": "AMMはユーティリティトークンです。トークンはマイクロマネーのエコシステムにとって欠かせない一部であり、内部支払いの手段、あるいはマイクロマネーのサービスにアクセスする手段として使用することができます。トークンモデルは、顧客がそれを頻繁に使用したいと思うようにし、それによってトークンの需要を高めるために作成されています。",
     "ko": "AMM은 유틸리티 토큰입니다. 토큰은 MicroMoney 생태계의 필수 요소이며 내부 지불 수단으로 사용되거나 MicroMoney 서비스에 액세스하는 데 사용될 수 있습니다. 이 토큰 모델은 고객이 자주 사용하여 토큰에 대한 수요를 높일 수 있도록 만들어졌습니다.",
     "zh": "AMM是一种效用代币。该代币是MicroMoney生态系统的一个组成部分，并且它可用作内部付款方式或是用于获取MicroMoney的服务。该代币模型的构建使我们的客户想要频繁地使用它，从而为该代币创造出更高的需求。",
-    "pt": "",
+    "pt": "AMM é um ‘utility token’. O token é parte integrante do ecossistema MicroMoney e pode ser usado como pagamento interno ou para acessar os serviços da MicroMoney. O modelo de token foi feito de modo a que os nossos clientes desejem usá-lo com frequência, criando assim maior demanda pelo token.",
     "en": "AMM is a utility token. The token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services. The token model is built so that our clients will want to use it frequently, thereby creating higher demand for the token."
   },
   "mloc_05": {
@@ -2944,7 +2944,7 @@ locdata={
     "ja": "人",
     "ko": "명",
     "zh": "人",
-    "pt": "pessoas",
+    "pt": "de pessoas",
     "en": "people"
   },
   "New101": {
