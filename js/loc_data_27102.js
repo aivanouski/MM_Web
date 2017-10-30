@@ -9,8 +9,8 @@ locdata={
     "ko": "<span style=\"color: #ff6800;\">제1 블록체인 신용 조사 기관 및 소셜 소액 금융</span><br/>지금 군중 판매 합니다.",
     "zh": "<span style=\"color: #ff6800;\">第一家基于区块链的征信和社会小额信贷机构</span><br/>现在就进行众筹",
     "pt": "<span style=\"color: #ff6800;\">1ª Agência de Crédito Blockchain e Microfinanças Sociais</span><br/>Crowdsale em andamento",
-    "en": "<span style=\"color: #ff6800;\">1st Blockchain Credit Bureau &amp; Social Microfinance</span><br/>Crowdsale on now"
-	//"en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses.</span><br/>Since 2015 100.000+ users Join Now Token Offering !"
+    //"en": "<span style=\"color: #ff6800;\">1st Blockchain Credit Bureau &amp; Social Microfinance</span><br/>Crowdsale on now"
+	"en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses.</span><br/>Since 2015 100.000+ users Join Now Token Offering !"
   },
   "new73": {
     "ru": "Хотите внести более $10,000?<br/>Присоединйтесь к телеграм группе для получения дополнительных бонусов",
