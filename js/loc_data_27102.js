@@ -135,7 +135,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889048": {
     "ru": "Пресса",
-    "es": "Periódico",
+    "es": "Prensa",
     "it": "Rassegna stampa",
     "de": "Medien über uns",
     "fr": "Espace Média",
@@ -353,7 +353,7 @@ locdata={
   },
   "59d2f090a0624f4ad488905b": {
     "ru": "В 100 из 196 стран мира есть люди, у которых нет банковского счета и доступа к любым другим финансовым услугам: кредитам, ипотекам, кредитным картам и так далее. Всего их в мире - более 2 000 000 000. У них нет кредитных историй, и они вынуждены всю жизнь проводить все операции только с помощью наличных. При этом у 60% из них есть смартфон, а 80% зарегистрированы в Facebook.",
-    "es": "de los 196 países del mundo, 100 son el hogar de 2000000000 personas sin cuenta bancaria: uso de dinero en efectivo solamente, sin historial crediticio, sin acceso a servicios financieros, más del 60% tiene un teléfono inteligente, el 80% está registrado en Facebook.",
+    "es": "De los 196 países del mundo, 100 son el hogar de las 2 mil millones de personas que no tienen una cuenta bancaria, usan únicamente dinero en efectivo, no tienen historial crediticio y no cuentan con acceso a los servicios financieros. Teniendo en cuenta que la mayoría de las personas utiliza smartphones en el día a día, esto resulta en una enorme cantidad de nuevos datos y potenciales clientes. Las instituciones financieras no poseen información sobre estos posibles clientes y su calificación de solvencia crediticia.",
     "it": "100 dei 196 paesi al mondo ospitano 2.000.000.000 di persone che usano solo contanti e non hanno ne' un conto conto bancario, ne' una storia creditizia o accesso ad alcun servizio finanziario, E' importante notare che la maggior parte di queste persone usa abitualmente il proprio smartphone e i social network. Questo costituisce un' enorme quantità  di nuove informazioni e un cospicuo numero di nuovi potenziali clienti. Le istituzioni finanziarie non hanno nessun dato  su questi clienti e la loro solvibilità , quindi non vogliono accollarsi il rischio di servire queste persone. Tuttavia, queste persone hanno ancora bisogno di fondi e sicuramente le attivita' economiche hanno ancora bisogno di nuovi clienti per sopravvivere alla concorrenza!",
     "de": "100 von 196 Ländern weltweit sind Heimat für 2.000.000.000 Menschen ohne ein Bankkonto: Bargeldbesitzer und Menschen ohne Bargeld, Menschen ohne Zugang zu Finanzdienstleistungen. Über 60% von ihnen haben ein Smartphone, 80% sind bei Facebook angemeldet.",
     "fr": "100 des 196 pays du monde hébergent 2000000000 de personnes n'ayant pas de compte bancaire:  ces personnes n'utilisent que des espèces, n'ont aucun historique de crédit, aucun accès à des services financiers. Il est important de noter que la plupart de ces personnes possèdent un smartphone et utilisent régulièrement les réseaux sociaux. 2 000 000 000, c'est un nombre significatif  de nouvelles données et de clients potentiels. Les institutions financières n'ont aucune information sur ce genre de clients ni sur leur historique de crédit, de plus, elle ne souhaite même pas prendre le risque de travailler avec ce type de personnes. Alors que ces gens ont besoin de financements et que les entreprises ont définitivement besoin de nouveaux clients pour survivre à la concurrence.",
@@ -367,7 +367,7 @@ locdata={
     "ru": "Мы здесь, чтобы помочь этим 2 миллиардам людей получить все возможности мировой криптоиндустрии!",
     //"it": "Siamo qui per contribuire ad attirare 2 miliardi di persone non servite dalle banche nella nuova Globale cripto-economia",
     "it": "Noi siamo qui per aiutare questi 2 miliardi di persone che non hanno accesso si servizi bancari ad esplorare La Nuova Cripto Economia Globale!",
-    "es": "Nuestra misión aquí es ayudar a atraer 2 mil millones de personas no aseguradas por los bancos hacia la nueva cripto-economía Global",
+    "es": "Nuestra misión aquí es atraer a estas 2 mil millones de personas, hoy fuera del sistema financiero, a la cripto-economía Global.",
     "de": "Wir sind hier, um 2 Milliarden Menschen, die nicht von Banken bedient werden, zu helfen, Teil der neuen Globale Kryptowirtschaft zu werden.",
     "fr": "Nous sommes ici pour aider à inclure les 2 milliards de personnes n'ayant pas accès aux services bancaires dans la nouvelle crypto-économie",
     "ja": "当社は、銀行口座を持たないこれらの人々が新しいグローバル暗号経済を探索するのを手伝うためにあります。　",
@@ -380,7 +380,7 @@ locdata={
     "ru": "MicroMoney - это команда профессионалов, которые могут работать на развивающихся рынках, куда банки боятся даже заходить, потому что работа с такими рынками похожа на проход по минному полю.",
     //"it": "Micromoney è una squadra di professionisti che possono lavorare nei mercati emergenti, dove le banche pavide non entrano e anche se lo fanno, andranno su questo mercato come se fosse un campo minato.",
     "it": "Micromoney è una squadra di professionisti che sono in grado di lavorare nei mercati emergenti, dove le banche consolidate non sono in grado di operare oppure, quando lo fanno, non sono abbastanza innovative per sopravvivere in questo ambiente.",
-    "es": "Micromoney es un equipo de profesionales que puede trabajar en mercados emergentes, donde los bancos temerosos no penetran, e incluso, si entran, transitaran por este mercado como si fuera por un campo minado.",
+    "es": "MicroMoney es un equipo de profesionales capaces de trabajar en los mercados emergentes, donde los bancos convencionales no pueden operar, e incluso, de poder hacerlo, su falta de innovación les dificultaría inmensamente la supervivencia en aquel medio.",
     "de": "Micromoney ist ein Team aus Profis, die Experten in Entwicklungsländern sind, in welche sich gestandene Banken nicht trauen.",
     "fr": "Micromoney est une équipe de professionnels qui peuvent travailler sur les marchés émergents où les banques établies ne sont pas capables d'aller, et où, elle ne seraient de toute façon pas assez innovantes pour survivre dans un tel environnement.",
     "ja": "マイクロマネーは、全ての構築された銀行が運営できないような新興市場で働く能力を持つ、プロのチームです。彼らが実際に参加を決めたとしても、この環境で生き抜けるほどの革新性はありません。",
@@ -404,8 +404,8 @@ locdata={
   "59d2f090a0624f4ad488905f": {
     "ru": "MicroMoney - это открытое кредитное бюро и Big Data-платформа, которая помогает находить новых клиентов для банков, микрофинансовых и страховых компаний, онлайн-сервисов, розничных сетей и так далее. Для заполнения заявки на кредит клиент использует мобильное приложение MicroMoney. Разработанная нашей компанией система скоринга, основанная на алгоритмах искусственного интеллекта и нейронных сетях, всего за 15 минут определяет уровень платежеспособности заемщика, и дает ему возможность за считанные минуты получить свой самый первый кредит в жизни, используя только свой смартфон. Все полученные в ходе скоринга данные и кредитные истории хранятся в блокчейне. Тысячи компаний с помощью этих данных получат доступ к миллионам новых клиентов и привлекут их в мировую экономику.",
 //    "it": "Micromoney è un’azienda di microfinanziamenti e di big data che collega i suoi clienti precedentemente privi di un conto in banca con le imprese: banche, agenzie di microfinanziamenti, assicurazioni, e-commerce, vendite al dettaglio, ecc. La piattaforma di intelligenze artificiale Micromoney determina la solvibilità dei clienti e in soli 15 minuti il mutuatario può ottenere il primo prestito della sua vita utilizzando solamente uno smartphone. Tutti le informazioni, preautorizzate dal cliente e le loro esperienze creditizie vengono archiviati nel blockchain. Migliaia di imprese avranno cosi’ accesso a milioni di nuovi clienti e li attireranno nell'economia globale.",
-    "it":"Micromoney è un ufficio di finanziamento e di dati estesi che collega nuovi clienti a tutti i servizi finanziari esistenti. La Piattaforma MICROMONEY A.I. utilizza complessi algoritmi per determinare la solvibilità  di tutti i clienti e in circa 15 minuti un creditore può ottenere il suo primo credito usando solamente il proprio smartphone. Utilizzando spesso la nostra piattaforma tutti i clienti possono pagare meno interessi e godere di un indice di affidabilità creditizia  piu' alto. Tutti i dati estesi aggregati e le concessioni di credito vengono archiviati nella Blockchain. Centinaia di attività economiche esistenti avranno accesso a milioni di nuovi clienti che porteranno all' economia globale.",
-    "es": "Micromoney es una oficina pública de créditos y grandes volúmenes de datos que conecta a los nuevos clientes con las empresas:de micro-finanzas, de seguros, comercio electrónico, minoristas, bancos etc. La plataforma de inteligencia artificial de Micromoney determina la solvencia financiera de los clientes, y en sólo 15 minutos el prestatario puede tomar el primer préstamo en su vida con tan sólo usar su teléfono inteligente. Todos los grandes volúmenes de datos agregados y historiales crediticios se almacenan en el blockchain. Miles de empresas obtendrán acceso a millones de nuevos clientes que serán atraídos a la economía global.",
+    "it": "Micromoney è un ufficio di finanziamento e di dati estesi che collega nuovi clienti a tutti i servizi finanziari esistenti. La Piattaforma MICROMONEY A.I. utilizza complessi algoritmi per determinare la solvibilità  di tutti i clienti e in circa 15 minuti un creditore può ottenere il suo primo credito usando solamente il proprio smartphone. Utilizzando spesso la nostra piattaforma tutti i clienti possono pagare meno interessi e godere di un indice di affidabilità creditizia  piu' alto. Tutti i dati estesi aggregati e le concessioni di credito vengono archiviati nella Blockchain. Centinaia di attività economiche esistenti avranno accesso a milioni di nuovi clienti che porteranno all' economia globale.",
+	"es": "MicroMoney es una oficina de creditos y macrodatos de codigo abierto que conecta a los nuevos clientes con las empresas de micro-finanzas, seguros, comercio electrónico (E-commerce), minoristas, bancos, etc. Su plataforma de inteligencia artificial utiliza algoritmos complejos para determinar la solvencia financiera de sus clientes y en cosa de 15 minutos un prestatario puede tener acceso a su primer crédito con tan sólo utilizar su smartphone. Todo el historial crediticio y los macrodatos agregados serán almacenados en el Blockchain. De esta forma, miles de empresas y emprendimientos existentes tendrán acceso a millones de nuevos clientes que serán anexados a la economía global.",
     "de": "Unsere Lösung Micromoney ist ein öffentlich zugängliches Tool für Finanzierung und der Big Data, das neue Kunden mit Betrieben verbindet. Für Banken, Mikrofinanzierung, Versicherung, elektronischen Handel, Einzelhandel usw. stellt die Plattform der künstlichen Intelligenz von MicroMoney die Zahlungsfähigkeit fest der Einzelkunden fest, sodass der Kreditnehmer in nur 15 Minuten das erste Darlehen in seinem Leben aufnehmen kann. Der gesamte Ablauf findet über die Smartphone-App statt. Alle gesammelten Big Data und Kreditverläufe werden in einem Blockchain gespeichert. Tausende von Unternehmen werden auf diese Weise einen Zugang zu Millionen von neuen Kunden bekommen und sie in die Weltwirtschaft einbinden können.",
     "fr": "MicroMoney est un organisme de crédit Open Source et de Big Data qui met en relation de nouveaux clients avec tous les services financiers existants. La plateforme MicroMoney A. I. utilise des algorythmes complexes pour prévoir la solvabilité de chaque clients qui, en seulement 15 min, peut obtenir le premier prêt de sa vie à partir de son smartphone. Chaque clients a la possibilité de payer moins d'intérêt et d'avoir un meilleur classement dans son historique de crédit en utilisant notre plateforme plus régulièrement. Toutes les données agrégées et les historiques de crédit sont stockés sur la Blockchain. Des milliers d'entreprises auront désormais accès à de nouveaux clients que nous allons insérer dans l'économie mondiale.",
     "ja": "マイクロマネーは、オープンソースのクレジット&ビッグデータビュローであり、新規顧客を既存のすべての金融サービスに接続します。マイクロマネーのA.I. プラットフォームでは、複雑なアルゴリズムを使用して全顧客の信用性を予測し、わずか15分で借り手がスマートフォンから人生初の融資を受けられます。当社のプラットフォームをさらに頻繁に使用すれば、全ての顧客には、より低い利子を払い、より高い信用貸付格付けを得る能力が生じます。集積したビッグデータと信用履歴はすべて、ブロックチェーンに保存されます。何千もの既存のビジネスは、当社がグローバル経済にもたらす何百万人もの新規顧客にアクセスするようになります。",
@@ -428,7 +428,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889061": {
     "ru": "Многомиллионный бизнес с огромным потенциалом роста! Спрос на наши финансовые услуги огромен и продолжает расти. Мы можем привлечь более 7 триллионов долларов годового объема в мировую криптоэкономику.",
-    "es": "Somos capaces de atraer más de 7 billones de dólares anuales hacia la Cripto-economía global",
+    "es": "Un negocio de billones de dólares con un gran potencial de crecimiento. La demanda de nuestro tipo de inclusión financiera es alta y a la alza. Podemos atraer más de 7 billones de dólares al año hacia la Cripto-Economía Global.",
     "it": "Possiamo attirare annualmente più di 7 bilioni miliardi di dollari nella cripto-economia globale",
     "de": "Wir können über 7 Billionen USD in die Globale Kryptowirtschaft jährlich heranziehen",
     "fr": "Un business de plusieurs trillions de dollars avec un fort potentiel de croissance ! La demande pour notre type d'engagement financier est énorme et ce n'est que le début. Nous pouvons attirer plus de 7 trillions de dollars en volume annuel dans la crypto-économie Mondiale",
@@ -512,7 +512,7 @@ locdata={
   },
   "59d2f090a0624f4ad488906a": {
     "ru": "Достижения",
-    "es": "Resultados",
+    "es": "Logros",
     "it": "Successi",
     "de": "Das haben wir erreicht",
     "fr": "Nos réalisations",
@@ -572,7 +572,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889070": {
     "ru": "Мы будем через 3 месяца (в 4 квартале 2017 года)",
-    "es": "Nosotros iniciamos dentro de 3 meses / 4 trimestre de 2017",
+    "es": "Iniciaremos actividades dentro de 3 meses / 4to trimeste del 2017",
     "it": "Iniziamo in 3 mesi / il 4^ quadrimestre del 2017",
     "de": "In der Pipeline (wir starten im 4. Quartal 2017)",
     "fr": "Nous allons commencer dans 3 mois / au 4ème trimestre de 2017",
@@ -620,7 +620,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889074": {
     "ru": "Все готово к запуску в еще 6 странах",
-    "es": "Todo está listo para el lanzamiento en otros 6 países",
+    "es": "Todo está listo para el lanzamiento en 6 países adicionales",
     "it": "Tutto è pronto per l'avvio in altri 6 paesi",
     "de": "In 6 weiteren Ländern ist alles startbereit",
     "fr": "Tout est prêt pour un lancement dans ces 6 autres pays",
@@ -728,7 +728,7 @@ locdata={
   },
   "59d2f090a0624f4ad488907d": {
     "ru": "У MicroMoney - одна из немногих кампаний по дистрибьюций токенов, в которых есть рабочий продукт и действующая бизнес-модель: людям нужны деньги, а компаниям нужны клиенты.",
-    "es": "",
+    "es": "MicroMoney es una de las pocas compañías con Blockchain respaldada por un producto real",
     "it": "MicroMoney è uno delle poche compagnie  Blockchain che è supportata da un prodotto reale ",
     "de": "MicroMoney ist eines der wenigen Blockchain-Unternehmen, das von einem echten Produkt unterstützt wird.",
     "fr": "MicroMoney est l'une des rares entreprises Blockchain à s'appuyer sur un produit réel.",
@@ -740,7 +740,7 @@ locdata={
   },
   "59d2f090a0624f4ad488907e": {
     "ru": "Micromoney для людей",
-    "es": "Micromoney para las personas",
+    "es": "MicroMoney para las personas",
     "it": "MicroMoney per le persone:",
     "de": "MicroMoney für Menschen:",
     "fr": "Micromoney pour les personnes",
@@ -752,7 +752,7 @@ locdata={
   },
   "59d2f090a0624f4ad488907f": {
     "ru": "500,000+ лайков в Facebook",
-    "es": "",
+    "es": "500.000+ likes en Facebook",
     "it": "500,000+ likes su Facebook",
     "de": "",
     "fr": "500,000+ likes sur Facebook",
@@ -764,7 +764,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889080": {
     "ru": "95,000 зарегистрированных уникальных пользователей",
-    "es": "",
+    "es": "95.000 clientes únicos registrados",
     "it": "95,000 clienti registrati",
     "de": "95 000 registrierter Unique Users",
     "fr": "95,000 clients uniques inscrits",
@@ -776,7 +776,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889081": {
     "ru": "Большие данные для бизнеса",
-    "es": "Grandes volúmenes de datos para el negocio",
+    "es": "Macrodatos para el negocio",
     "it": "Big data per il business",
     "de": "Big Data fürs Geschäft",
     "fr": "Big Data pour les entreprises",
@@ -788,7 +788,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889082": {
     "ru": "Огромный спрос со стороны банков, ",
-    "es": "",
+    "es": "Gran demanda por parte de los bancos",
     "it": "ENORME RICHIESTA DALLE BANCHE",
     "de": "Große Nachfrage bei Banken",
     "fr": "Une grosse demande de la part des banques,",
@@ -800,7 +800,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889083": {
     "ru": "онлайн-сервисов",
-    "es": "",
+    "es": "Comercio electrónico (E-commerce)",
     "it": "",
     "de": "",
     "fr": "",
@@ -812,7 +812,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889084": {
     "ru": "телекоммуникационных компаний и розничных сетей.",
-    "es": "",
+    "es": "Telecomunicaciones y retail",
     "it": "",
     "de": "Telecom-Branche & Retail-Businesses",
     "fr": "du e-commerce, des secteurs télécom et du retail.",
@@ -836,7 +836,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889086": {
     "ru": "Возможность развития бизнеса по всему свету - более 100 новых стран с огромным спросом на наши услуги",
-    "es": "Extendernos por todo el mundo, hay más de 100 países con una gran demanda de nuestros servicios",
+    "es": "Extendernos por el mundo. Existen más de 100 países con alta demanda por nuestro servicios",
     "it": "Estensione in tutto il mondo - più di 100 nuovi paesi con un' enorme richiesta per i nostri servizi",
     "de": "Weltweite Expansion - über 100 Länder mit einer riesigen Nachfrage nach unseren Angeboten",
     "fr": "Un développement à travers le monde: plus de 100 nouveaux pays, avec importantes demandes de nos services",
@@ -848,7 +848,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889087": {
     "ru": "На базе Ethereum",
-    "es": "Sobre la base de Ethereum",
+    "es": "Impulsado mediante Etherum",
     "it": "ALIMENTATO DA Ethereum",
     "de": "Auf Etherium-Basis",
     "fr": "Un système basé sur d'Etherium ",
@@ -860,7 +860,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889088": {
     "ru": "Ваша кредитная история в распределенной базе данных - прозрачная, надежно защищенная средствами криптографии и верификации, с возможностью контролировать данные",
-    "es": "Su historial de crédito en la base distribuida es transparente y controlado por un código criptográficamente verificable",
+    "es": "Su historial crediticio en el Blockchain es transparente, controlado y administrado por un código criptográficamente verificable",
     //"it": "La vostra storia creditizia distribuita nella base  -  in modo trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
     "it": "La vostra storia creditizia su Blockhain trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
     "de": "Ihr Kreditverlauf in einer verteilten Datenbank -  transparent, kontrollierbar und kryptographisch mit einem verifizierten Code steuerbar",
@@ -873,7 +873,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889089": {
     "ru": "Финансовая интеграция",
-    "es": "Integración financiera",
+    "es": "Integración finaniera",
     "it": "Inclusione finanziaria",
     "de": "Finanzielle Integration",
     "fr": "Intégration financière",
@@ -885,7 +885,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908a": {
     "ru": "Привлечение 2 миллиардов людей в мировую криптоэкономику",
-    "es": "Captación de 2 billones de personas para la Cripto-economía global",
+    "es": "Incorporación de 2 mil millones de personas a la cripto-economía global",
     "it": "Coinvolgere 2 miliardi di persone nella cripto-economia globale",
     "de": "Integration von 2 Milliarden Menschen in die globale Kryptowirtschaft",
     "fr": "Attirer de 2 milliards de personnes dans la crypto-économie mondiale",
@@ -897,7 +897,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908b": {
     "ru": "Доступность",
-    "es": "Disponibilidad general",
+    "es": "El paso a un código abierto",
     "it": "Verso un' open source",
     "de": "Allgemeine Zugänglichkeit",
     "fr": "Accessibilité",
@@ -909,7 +909,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908c": {
     "ru": "Платформа MicroMoney основана на модели программного обеспечения с открытым исходным кодом и возможности бесплатного доступа",
-    "es": "Micromoney confía en el modelo de software gratuito con código abierto",
+    "es": "MicroMoney confía en mantener un software gratuito y de código abierto",
     "it": "Micromoney confida nel modello di software open source gratuito",
     "de": "Micromoney setzt auf ein kostenloses Modell der Open Source Software",
     "fr": "Micromoney croit au modèle de type open source et aux logiciels libres",
@@ -921,7 +921,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908d": {
     "ru": "Цифровая идентификация",
-    "es": "Identificación digital",
+    "es": "Identificación virtual",
     "it": "Identita' digitale",
     "de": "Digitale Identifizierung",
     "fr": "Identité numérique",
@@ -933,7 +933,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908e": {
     "ru": "Ваша цифровая идентификация, которая изменяется в зависимости от того, как растет ваша репутация и ваша доходность",
-    "es": "Creación de una identificación virtual que vaya en desarrollo con usted y sus fondos",
+    "es": "Creación de una identificación virtual que evolucione con Usted y sus fondos",
     "it": "La creazione dell'identificazione virtuale, che si sviluppa con voi ed i vostri fondi",
     "de": "Schaffung einer virtuellen Identifizierung, die sich mit Ihnen und ihren Mitteln entwickelt",
     "fr": "Création d'une identité numérique qui évolue avec vous et selon vos moyens",
@@ -945,7 +945,7 @@ locdata={
   },
   "59d2f090a0624f4ad488908f": {
     "ru": "Смарт-контракт",
-    "es": "Smart contrato",
+    "es": "Contrato inteligente",
     "it": "Contratto Smart ",
     "de": "Schlaue Verträge",
     "fr": "Le Smart contrat",
@@ -969,7 +969,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889091": {
     "ru": "Мы поддерживаем системы на основе блокчейна, и мы намерены стать частью экосистемы крипторынка",
-    "es": "Somos seguidores del sistema blockchain, y pretendemos introducirnos en el ecosistema",
+    "es": "Somos partidarios de la tecnología Blockchain y pretendemos introducirnos en su ecosistema",
     "it": "Siamo affidatari del sistema Blockchain, e abbiamo intenzione di entrare nell'ecosistema.",
     "de": "Wir sind Anhänger des Blockchainsystems, und wir haben vor, in das Ökosystem einzudringen",
     "fr": "Nous sommes partisans du système Blockchain, et avons l'intention d'intégrer cet écosystème",
@@ -1077,7 +1077,7 @@ locdata={
   },
   "59d2f090a0624f4ad488909c": {
     "ru": "(Рейтинг 4,7! Более 10000 скачиваний)",
-    "es": "Con más de 10000 descargas)",
+    "es": "(Con más de 10000 descargas)",
     "it": "Più di 10.000 download)",
     "de": "Über 10.000 Downloads",
     "fr": "(Noté 4,7 !Plus de 10 000 téléchargements)",
@@ -1089,7 +1089,7 @@ locdata={
   },
   "59d2f090a0624f4ad488909d": {
     "ru": "Скачайте приложение MicroMoney!",
-    "es": "¡Pruebe la aplicación de Micromoney APP para los prestatarios!",
+    "es": "¡PRUEBE LA APLICACIÓN DE MICROMONEY APP PARA LOS PRESTATARIOS!",
     "it": "Provate l'applicazione Micromoney APP per i mutuatari!",
     "de": "Testen Sie die neue Micromoney App für Kreditnehmer!",
     "fr": "Testez l'application Micromoney APP pour les emprunteurs!",
@@ -1113,7 +1113,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890ab": {
     "ru": "Наши документы",
-    "es": "Consulta nuestros documentos",
+    "es": "Revíse nuestros documentos",
     "it": "Controlla i nostri documenti",
     "de": "Prüfen Sie unsere Dokumente",
     "fr": "Consultez nos documents",
@@ -1137,7 +1137,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890b0": {
     "ru": "ПОЛИТИКА СОБЛЮДЕНИЯ КОНФИДЕНЦИАЛЬНОСТИ",
-    "es": "politica sulla riservatezza",
+    "es": "Política de privacidad",
     "it": "POLITICA DELLA PRIVACY",
     "de": "DATENSCHUTZ-RICHTLINIEN",
     "fr": "Politique de confidentialité",
@@ -1149,7 +1149,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890b2": {
     "ru": "Краткое содержание whitepaper",
-    "es": "",
+    "es": "Resumen del libro blanco",
     "it": "SOMMARIO DEL LIBRO BIANCO",
     "de": "KURZFASSUNG WHITEPAPER",
     "fr": "Résumé du Livre Blanc",
@@ -1161,7 +1161,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890b3": {
     "ru": "Бизнес-модель: краткое описание",
-    "es": "",
+    "es": "Compendio del modelo de negocios",
     "it": "BUSINESS MODEL in breve",
     "de": "KURZFASSUNG BUSINESS-MODELL",
     "fr": "LE BUSINESS PLAN EN BREF",
@@ -1173,7 +1173,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890b4": {
     "ru": "Бизнес-модель: развернутое описание",
-    "es": "",
+    "es": "Modelo de negocios (completo)",
     "it": "Business model al completo",
     "de": "DETAILFASSUNG BUSINESS-MODELL",
     "fr": "Le Business Plan en intégralité",
@@ -1197,7 +1197,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890b6": {
     "ru": "Наши контакты",
-    "es": "Contatto con noi",
+    "es": "Contáctese con nosotros",
     "it": "CONTATTACI",
     "de": "Kontaktieren Sie uns",
     "fr": "Nous contacter",
@@ -1353,7 +1353,7 @@ locdata={
   },
   "59d2f090a0624f4ad48890c3": {
     "ru": "Запуск открытого децентрализованного кредитного бюро на основе блокчейн и начало географической экспансии",
-    "es": "Lanzamiento de una oficina pública de crédito descentralizada sobre la base de blockchain y el inicio de la expansión mundial",
+    "es": "Lanzamiento de una oficina pública de crédito descentralizada sobre la base de blockchain y el inicio de la expansión mundial ",
     "it": "L'avvio dell'Ufficio decentralizzato disponibile per tutti sulla base Blockchain e l'inizio dell'ampliamento mondiale",
     "de": "Inbetriebnahme eines dezentralisierten, öffentlich zugänglichen Kreditbüros auf Blockchainbasis und Beginn der weltweiten Expansion",
     "fr": "Lancement du bureau de crédit Open Source sur la base de BLockchain et début d'un développement international",
@@ -1425,7 +1425,7 @@ locdata={
   },
   "59d2f090a0624f4ad4889067": {
     "ru": "Ближний Восток",
-    "es": "",
+    "es": "Oriente Medio",
     "it": "",
     "de": "Nahost-Region",
     "fr": "",
@@ -1618,8 +1618,8 @@ locdata={
   },
   "59d2f091a0624f4ad48890d5": {
     "ru": "Символ",
-    "es": "",
-    "it": "",
+    "es": "Símbolo",
+    "it": "Simbolo",
     "de": "",
     "fr": "Symbole",
     "ja": "シンボル",
@@ -1642,7 +1642,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890d7": {
     "ru": "Общее количество в ходе кампании",
-    "es": "Asignación total (Crowdsale-tokens)",
+    "es": "Asignación Total (Crowdsale de Tokens)",
     "it": "Vendita completa (Crowdsale)",
     "de": "Volle Lieferung (Tokens-Crowdsale)",
     "fr": "Emission totale (Nb de jetons émis)",
@@ -1666,7 +1666,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890d9": {
     "ru": "Ограничение",
-    "es": "",
+    "es": "Precio tope",
     "it": "",
     "de": "",
     "fr": "Objectif haut",
@@ -1690,7 +1690,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890db": {
     "ru": "Токены, которые не будут проданы во время кампании по дистрибьюции токенов, сгорают.",
-    "es": "Los tokens no vendidos durante el crowdsale-tokens, se “quemarán”.",
+    "es": "Los Tokens no vendidos durante el crowdsale se \"quemarán\".",
     "it": "Tutti i token non venduti durante Crowdsale AMM Token vengono eliminati.",
     "de": "Jegliche Tokens, die während des Token-Crowdsale nicht verkauft werden, erlöschen.",
     "fr": "Tous les jetons non vendus lors de la vente publique des jetons seront utilisés ",
@@ -1714,7 +1714,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890de": {
     "ru": "Могут ли токены быть проданы до того, как закончится кампания?",
-    "es": "Se pueden vender antes de que el crowdsale-tokens termine",
+    "es": "¿Se puede vender antes de que termine el crowdsale de Tokens?",
     "it": "Possono essere venduti prima che finisce Crowdsale AMM Token",
     "de": "Können Tokens verkauft werden, bevor das Crowdsale endet.",
     "fr": "Peuvent être vendus avant la fin de l'émission de jetons",
@@ -1726,7 +1726,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890df": {
     "ru": "Нет, все токены могут быть проданы только после того, как закончится кампания.",
-    "es": "No, todos los tokens pueden ser vendidos solo después de que el crowdsale-token termine.",
+    "es": "No, los Tokens sólo podrán ser vendidos una vez que el crowdsale acabe.",
     "it": "No, tutti i token possono essere venduti solo dopo che finisce Crowdsale AMM Token.",
     "de": "Nein, alle Tokens können erst verkauft werden, nachdem der Token-Crowdsale endet.",
     "fr": "Non, les tokens ne peuvent être vendus qu'après la fin de l'émission de tokens.",
@@ -1894,7 +1894,7 @@ locdata={
   },
   "59d2f091a0624f4ad48890ed": {
     "ru": "Кампания",
-    "es": "",
+    "es": "Campaña",
     "it": "Società",
     "de": "Kampagne",
     "fr": "Campagne",
@@ -2230,7 +2230,7 @@ locdata={
   },
   "new2610-1": {
     "ru": "Советники",
-    "es": "",
+    "es": "Asesores",
     "it": "Advisors",
     "de": "Unsere Berater",
     "fr": "Consultants",
@@ -2662,7 +2662,7 @@ locdata={
   },
   "59d2f091a0624f4ad4889156": {
     "ru": "У нас важная миссия: помочь двум миллиардам человек стать частью мировой финансовой экосистемы. ",
-    "es": "",
+    "es": "Tomamos como una gran misión el ayudar a 2 mil millones de personas a ser parte del ecosistema financiero global.",
     "it": "ABBIAMO INTRAPRESO UNA GRANDE MISSIONE PER AIUTARE DUE BILIONI DI PERSONE CHE NON HANNO UN CONTO BANCARIO A DIVENTARE PARTE DI UN ECO SISTEMA FINANZIARIO GLOBALE. ",
     "de": "",
     "fr": "Nous avons pour mission d'aider deux milliards de personnes n'ayant pas accès aux services bancaires à participer au système financier global.",
@@ -2674,7 +2674,7 @@ locdata={
   },
   "59d2f091a0624f4ad4889157": {
     "ru": "Интервью со-основателя MicroMoney Антона Дзятковского журналу Forbes.",
-    "es": "",
+    "es": "El CEO de MicroMoney, Anton Dzyatkovsky, habló con Forbes.",
     "it": "L' AMMINISTARTORE DELEGATO DI mICROmONEY aNTON dZYATKOVSKY PARLA A FORBES",
     "de": "",
     "fr": "Interview d'Anton Dzyatkovsky, Président de MicroMoney, à Forbes.",
@@ -2902,7 +2902,7 @@ locdata={
   },
   "mloc_01": {
     "ru": "НАША КОДОВАЯ БАЗА НА GITHUB",
-    "es": "",
+    "es": "VEA EL CÓDIGO EN GITHUB",
     "it": "",
     "de": "",
     "fr": "Voir le code sur Github",
@@ -2914,8 +2914,8 @@ locdata={
   },
   "mloc_02": {
     "ru": "Что такое токены АММ",
-    "es": "",
-    "it": "",
+    "es": "¿Qué representa un token AMM?",
+    "it": "Cosa rappresenta un TOKEN AMM",
     "de": "Was AMM tokens sind",
     "fr": "Que représente nos tokens ?",
     "ja": " AMM トークンが表すものは何か",
@@ -2926,8 +2926,8 @@ locdata={
   },
   "mloc_03": {
     "ru": "В-первую очередь, АММ токены – неотъемлемая часть эко-системы МикроМани. Они могут использоваться для оплаты внутри системы, а также для получения доступа к тем или иным сервисам МикроМани.  АММ токены являются своеобразным «топливом» системы, при необходимости наши клиенты смогут покупать их по рыночной стоимости. С ростом потребности в сервисах МикроМани, у клиента растет потребность в токенах АММ.",
-    "es": "",
-    "it": "",
+    "es": "AMM es un Token de utilidad y forma parte integral del ecosistema de MicroMoney, de forma que puede ser utilizado como medio de transacción interno o para garantizar acceso a los servicios de la compañía. El modelo de Token está diseñado para que sus usuarios tengan la motivación de utilizarlos de manera frecuente, aumentando así su demanda.",
+    "it": "AMM is a utility token. Il token è una parte integrante dell'e cosistema Micromoney e puo' essere usato come un mezzo di pagamento interno o per avere accesso ai servizi di MicroMoney. Il modello Token è stato ideato cosi' da aumentare la frequenza di utilizzo da parte dei nostri clienti e quindi favorire una maggiore domanda di token.",
     "de": "AMM ist ein Token-Dienstprogramm. Das Token ist ein integraler Bestandteil des MicroMoney Ökosystems und kann als internes Zahlungsmittel verwendet werden. Unser Token-Modell sehr verständlich und benutzerfreundlich aufgebaut, sodass unsere Kunden es gern benutzen werden. Wir rechnen mit einer wachsenden Nachfrage nach unseren Tokens.",
     "fr": "AMM est un jeton, ou token, utilitaire. Le  jeton AMM fait partie intégrante de l'écosystème de MicroMoney et peut être utilisé tant comme un moyen de paiement interne que comme pour avoir accès aux services de MicroMoney. Le modèle de jetons est élaboré afin que nos clients l'utilisent fréquemment, augmentant ainsi la demande.",
     "ja": "AMMはユーティリティトークンです。トークンはマイクロマネーのエコシステムにとって欠かせない一部であり、内部支払いの手段、あるいはマイクロマネーのサービスにアクセスする手段として使用することができます。トークンモデルは、顧客がそれを頻繁に使用したいと思うようにし、それによってトークンの需要を高めるために作成されています。",
@@ -2938,7 +2938,7 @@ locdata={
   },
   "mloc_05": {
     "ru": "людей",
-    "es": "personas",
+    "es": "de personas",
     "it": "persone",
     "de": "menschen",
     "fr": "personnes",
@@ -2974,7 +2974,7 @@ locdata={
   },
   "New103": {
     "ru": "",
-    "es": "",
+    "es": "Emitimos créditos sin documentos colaterales, de tal forma que incluso aquellos que no tienen calificación de solvencia crediticia aplican para nosotros.",
     "it": "",
     "de": "",
     "fr": "",
