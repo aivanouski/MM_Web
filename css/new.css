@@ -103,7 +103,6 @@ body {
 
 .progress {
   color: #fff;
-  min-width: 300px;
   max-width: 810px;
   margin: auto;
 }
@@ -263,13 +262,23 @@ body {
 }
 
 .founded-money-alt:before,
-.founded-money-amm:before {
+.founded-money-amm:before,
+.founded-money-fiat:before,
+.founded-money-total:before {
   content: 'Altcoins';
   font-size: 12px;
   vertical-align: middle;
+  text-transform: uppercase;
   margin-right: 7px;
 }
 
+.founded-money-fiat:before {
+  content: 'Fiat USD'
+}
+
+.founded-money-total:before {
+  content: 'Total raised'
+}
 .founded-money-amm:before {
   content: 'AMM'
 }
@@ -289,11 +298,24 @@ body {
     text-align: left;
   }
 
-  .progress-hard-target {
-    margin-left: 25px;
+  .progress-target:after {
+    left: 100%;
   }
 
-  .progress-hard-target span:first-child + span {
+  .progress-soft-target {
+    margin-left: 5%;
+  }
+  
+  .progress-soft-target:after {
+    left: 0;
+    margin-left: 0;
+  }
+
+  .progress-hard-target {
+    margin-left: 5%;
+  }
+
+  .progress-number-amount + .progress-number-amount {
     display: none;
   }
 }
@@ -333,7 +355,7 @@ body {
     margin: 35px 0 43px;
   }
 
-  .progress-hard-target span:first-child {
+  .progress-number-amount:first-child {
     display: none;
   }
 

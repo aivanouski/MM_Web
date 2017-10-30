@@ -71,11 +71,11 @@ $(document).ready(function() {
     var usd = parseInt(progress.payments.USD.amount).toLocaleString();
     var amm = (parseInt(progress.tokens) + parseInt(progress.bonus)).toLocaleString();
 
-    $('.progress-current span:first-child').text(current);
-    $('.founded-money-usd span').text(usd);
-    $('.founded-money-btc span').text(btc);
-    $('.founded-money-eth span').text(eth);
-    $('.founded-money-amm span').text(amm);
+    $('.js-progress-total').text(current);
+    $('.js-progress-fiat').text(usd);
+    $('.js-progress-btc').text(btc);
+    $('.js-progress-eth').text(eth);
+    $('.js-progress-amm').text(amm);
 
     if (progress.erc20) {
       var alt = parseInt(progress.erc20).toLocaleString();
