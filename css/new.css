@@ -370,7 +370,7 @@ body {
 }
 
 .video_slider .video_slider-thumbs .slick-arrow {
-  background: url('img/slider-arrow.svg') !important;
+  background: url('img/slider-arrow.svg?v=1') !important;
   width: 64px;
   height: 64px;
   top: 45px;
