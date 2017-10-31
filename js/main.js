@@ -79,7 +79,7 @@ $(document).ready(function() {
 
     if (progress.erc20) {
       var alt = parseInt(progress.erc20).toLocaleString();
-      $('.founded-money-alt span').text(alt).show();
+      $('.founded-money-alt').show().find('span').text(alt);
     }
   }
 

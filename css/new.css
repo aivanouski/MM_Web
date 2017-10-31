@@ -276,6 +276,11 @@ body {
   content: 'Fiat USD'
 }
 
+.founded-money-total img {
+  margin-left: -5px;
+  max-width: 6px;
+}
+
 .founded-money-total:before {
   content: 'Total raised'
 }
