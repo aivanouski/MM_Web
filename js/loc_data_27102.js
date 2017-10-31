@@ -3285,7 +3285,7 @@ locdata={
     "ko": "합계 설립",
     "zh": "總共創立",
     "pt": "Total fundado",
-    "en": "Total founded",
+    "en": "Total funded",
     "vi": ""
   },
   "New111": {
