@@ -9,9 +9,8 @@ locdata={
     "ko": "<span style=\"color: #ff6800;\">제1 블록체인 신용 조사 기관 및 소셜 소액 금융</span><br/>지금 군중 판매 합니다.",
     "zh": "<span style=\"color: #ff6800;\">第一家基于区块链的征信和社会小额信贷机构</span><br/>现在就进行众筹",
     "pt": "<span style=\"color: #ff6800;\">1ª Agência de Crédito Blockchain e Microfinanças Sociais</span><br/>Crowdsale em andamento",
-    //"en": "<span style=\"color: #ff6800;\">1st Blockchain Credit Bureau &amp; Social Microfinance</span><br/>Crowdsale on now"
-	//"en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses.</span><br/>Since 2015 100.000+ users Join Now Token Offering !"
-	"en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses</span><br/> Since 2015, 100.000+ users! Join Now Token Offering !"
+    "en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses</span><br/> Since 2015, 100.000+ users! Join Now Token Offering !",
+    "vi": ""
   },
   "new73": {
     "ru": "Хотите внести более $10,000?<br/>Присоединйтесь к телеграм группе для получения дополнительных бонусов",
@@ -23,7 +22,8 @@ locdata={
     "ko": "10000달러 또는 그 이상을 참여하시겠습니까? <br/>당사의 텔레그램에 가입하시면 여기서 보는 것보다 더 좋은 보너스를 받을 수 있습니다.",
     "zh": "出资10,000美元或是更多？ <br/>加入我们的Telegram，获取比您在这里所看到的还要好的奖励。",
     "pt": "Contribuindo com US$ 10.000 ou mais?<br/>Adira ao nosso Telegram para ganhar bônus ainda melhores do que os que você está vendo aqui",
-    "en": "Contributing $10,000 or more?<br/>Join our Telegram for even better bonuses than what you see here."
+    "en": "Contributing $10,000 or more?<br/>Join our Telegram for even better bonuses than what you see here.",
+    "vi": ""
   },
   "new74": {
     "ru": "Купите наши токены сейчас и оплатите в любых альткоинах из ТОП-30, включая Bitcoin Cash и Bitcoin Gold",
@@ -35,7 +35,8 @@ locdata={
     "ko": "당사의 토큰을 바로 구입하고 top-30코인, 비트코인 캐시 및 비트코인 골드 중 임의로 지불하십시오.",
     "zh": "现在就购买我们的代币，并使用前30种虚拟币中的任意一种以及比特币现金和比特币黄金来进行付款。",
     "pt": "Compre nossos tokens agora e pague em QUALQUER moeda Top-30 (você também pode pagar com Bitcoin Cash e Bitcoin Gold).",
-    "en": "Buy now our tokens and pay in ANY top-30 coin, also Bitcoin Cash and Bitcoin Gold."
+    "en": "Buy now our tokens and pay in ANY top-30 coin, also Bitcoin Cash and Bitcoin Gold.",
+    "vi": "Mua ngay Token của chúng tôi và thanh toán bằng bất kỳ loại coin nào trong top  30, kể cả Bitcoin Cash và Bitcoin Gold."
   },
   "new75": {
     "ru": "Пишите сейчас на ",
@@ -47,7 +48,8 @@ locdata={
     "ko": "에 연계하십시오 ",
     "zh": "现在就与 ",
     "pt": "entre em contato conosco AGORA via ",
-    "en": "contact NOW "
+    "en": "contact NOW ",
+    "vi": ""
   },
   "new76": {
     "ru": "Для вложений в ETH или BTC пожалуйста используйте виджет снизу",
@@ -59,7 +61,8 @@ locdata={
     "ko": "ETH 또는 BTC로 참여하려면 아래의 위젯을 사용하십시오.",
     "zh": "如果您要使用以太币或比特币来参与众筹，那么请使用下述组件。",
     "pt": "Para contribuir com ETH ou BTC, use o widget abaixo.",
-    "en": "To contribute using ETH or BTC please use the widget below."
+    "en": "To contribute using ETH or BTC please use the widget below.",
+    "vi": ""
   },
   "new77": {
     "ru": "Мы собрали:",
@@ -71,7 +74,8 @@ locdata={
     "ko": "모금된 자금은 다음과 같습니다:",
     "zh": "我们筹集了：",
     "pt": "Arrecadamos:",
-    "en": "We raised:"
+    "en": "We raised:",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889043": {
     "ru": "Документы",
@@ -83,7 +87,8 @@ locdata={
     "ko": "문서",
     "zh": "文件",
     "pt": "Documentos",
-    "en": "Documents"
+    "en": "Documents",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889044": {
     "ru": "Планы развития",
@@ -95,7 +100,8 @@ locdata={
     "ko": "로드맵",
     "zh": "发展蓝图",
     "pt": "Roadmap",
-    "en": "Roadmap"
+    "en": "Roadmap",
+    "vi": "Lộ trình"
   },
   "59d2f090a0624f4ad4889045": {
     "ru": "О токенах",
@@ -107,7 +113,8 @@ locdata={
     "ko": "토큰 상세 정보",
     "zh": "关于代币",
     "pt": "Sobre os tokens",
-    "en": "Token details"
+    "en": "Token details",
+    "vi": "Chi tiết Token"
   },
   "59d2f090a0624f4ad4889046": {
     "ru": "Команда",
@@ -119,7 +126,8 @@ locdata={
     "ko": "팀",
     "zh": "团队",
     "pt": "Equipe",
-    "en": "Team"
+    "en": "Team",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889047": {
     "ru": "Истории",
@@ -131,7 +139,8 @@ locdata={
     "ko": "고객 사례",
     "zh": "客戶故事",
     "pt": "Histórias",
-    "en": "Stories"
+    "en": "Stories",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889048": {
     "ru": "Пресса",
@@ -143,7 +152,8 @@ locdata={
     "ko": "보도자료",
     "zh": "新聞稿",
     "pt": "Imprensa",
-    "en": "Press"
+    "en": "Press",
+    "vi": "Ấn phẩm"
   },
   "59d2f090a0624f4ad4889049": {
     "ru": "Блог",
@@ -155,9 +165,10 @@ locdata={
     "ko": "블로그",
     "zh": "博客",
     "pt": "Blog",
-    "en": "Blog"
+    "en": "Blog",
+    "vi": ""
   },
-  "59d2f090a0624f4ad488904c": {  // contribute
+  "59d2f090a0624f4ad488904c": {
     "ru": "Купить токены",
     "es": "Contribuir",
     "it": "Contribuire",
@@ -167,7 +178,8 @@ locdata={
     "ko": "토큰 구입",
     "zh": "購買令牌",
     "pt": "Contribuir",
-    "en": "Contribute"
+    "en": "Contribute",
+    "vi": ""
   },
   "59d2f090a0624f4ad488904d": {
     "ru": "Привет! Присоединяйся сейчас! Вместе мы можем сделать этот мир лучше.",
@@ -179,7 +191,8 @@ locdata={
     "ko": "사람을 위한 MicroMoney 및 기업을 위한 대용량 데이터  ",
     "zh": "针对个人的MicroMoney 和针对企业的庞大数据",
     "pt": "MicroMoney para pessoas e dados grandes para negócios",
-    "en": "BLOCKCHAIN ELIMINATES POVERTY! FOREVER. </br>The token distribution started. </br>Join us now!"
+    "en": "BLOCKCHAIN ELIMINATES POVERTY! FOREVER. </br>The token distribution started. </br>Join us now!",
+    "vi": ""
   },
   "59d2f090a0624f4ad488904e": {
     "ru": "Мы знаем, как привлечь в новый мир криптоэкономики 2 миллиарда людей, у которых нет доступа к банковским услугам и которые вынуждены всю жизнь иметь дело только с наличными. Мы делаем это уже два года.",
@@ -191,8 +204,8 @@ locdata={
     "ko": "OR 은행의 서비스를 제공되지 않는 사람 20억 명을 새로운 글로벌 암호 경제 속으로  끌어내는 방법.",
     "zh": "或如何将20亿只使用现金的非银行用户乃入新的全球加密经济体系中。",
     "pt": "Ou como atrair 2 bilhões de pessoas desbancarizadas com seu dinheiro na Nova Crypto-Economia  Global.",
-    //"en": "Two billion people lack access to any banking services. 500 million moms and dads struggle financially to feed their kids.We are the 1st Blockchain Credit Bureau as well as a Transparent Social & Green Microfinance."
-    "en": "Two billion people lack access to any banking services. 500 million moms and dads struggle financially to feed their kids. We are the 1st Blockchain Credit Bureau & Social Microfinance. BLOCKCHAIN ELIMINATES POVERTY! FOREVER."
+    "en": "Two billion people lack access to any banking services. 500 million moms and dads struggle financially to feed their kids. We are the 1st Blockchain Credit Bureau & Social Microfinance. BLOCKCHAIN ELIMINATES POVERTY! FOREVER.",
+    "vi": ""
   },
   "59d2f090a0624f4ad488904f": {
     "ru": "Посетите Bitcointalk",
@@ -204,7 +217,8 @@ locdata={
     "ko": "Bitcointalk 방문",
     "zh": "访问 Bitcointalk",
     "pt": "Visite Bitcointalk",
-    "en": "Visit Bitcointalk"
+    "en": "Visit Bitcointalk",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889050": {
     "ru": "СКАЧАЙТЕ WHITEPAPER",
@@ -216,7 +230,8 @@ locdata={
     "ko": "Whitepaper 다운로드",
     "zh": "下载白皮书",
     "pt": "Baixe o White Paper",
-    "en": "Download Whitepaper"
+    "en": "Download Whitepaper",
+    "vi": ""
   },
   "wp100": {
     "ru": "",
@@ -228,7 +243,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Whitepaper"
+    "en": "Whitepaper",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889051": {
     "ru": "Присоединяйтесь к Telegram",
@@ -240,20 +256,9 @@ locdata={
     "ko": "텔레그램 가입",
     "zh": "加入Telegram",
     "pt": "Participe do Telegram",
-    "en": "Join Telegram"
-  },/*
-  "59d2f090a0624f4ad4889052": {
-    "ru": "Кампания по выпуску токенов начнется 18 октября 2017 года",
-    "es": "El crowdsale de tokens comienza el 18 de octubre del año 2017",
-    "it": "La crowdsale dei token inizierà il 18 ottobre 2017",
-    "de": "Crowdsale der Tokens wird am 18. Oktober 2017 beginnen",
-    "fr": "La vente publique des jetons débutera le 18 octobre 2017",
-    "ja": "トークンのクラウドセールは2017年10月18日からスタート",
-    "ko": "토큰의 공개판매는 2017년 10월 18일에 시작될 예정이다",
-    "zh": "代币公开销售于2017年10月18日开始",
-    "pt": "Crowdsdale de tokens começará em 18 de outubro de 2017",
-    "en": "Token distribution starts on 18th of October 2017"
-  },*/
+    "en": "Join Telegram",
+    "vi": ""
+  },
   "59d2f090a0624f4ad4889052": {
     "ru": "Время до окончания кампании",
     "es": "Tiempo restante hasta el final de la campaña",
@@ -264,9 +269,9 @@ locdata={
     "ko": "캠페인이 끝날 때까지 남은 시간",
     "zh": "剩餘時間直到活動結束",
     "pt": "Tempo restante até o final da campanha",
-    "en": "Time left until the campaign's finish:"
+    "en": "Time left until the campaign's finish:",
+    "vi": "Thời gian còn lại cho đến khi kết thúc chiến dịch:"
   },
-  //
   "59d2f090a0624f4ad4889053": {
     "ru": "Дней",
     "es": "días",
@@ -277,7 +282,8 @@ locdata={
     "ko": "일",
     "zh": "天",
     "pt": "dia",
-    "en": "days"
+    "en": "days",
+    "vi": "Ngày"
   },
   "59d2f090a0624f4ad4889054": {
     "ru": "часов",
@@ -289,7 +295,8 @@ locdata={
     "ko": "시간",
     "zh": "小时",
     "pt": "horas",
-    "en": "hours"
+    "en": "hours",
+    "vi": "Giờ"
   },
   "59d2f090a0624f4ad4889055": {
     "ru": "минут",
@@ -301,7 +308,8 @@ locdata={
     "ko": "분",
     "zh": "分钟",
     "pt": "minutos",
-    "en": "minutes"
+    "en": "minutes",
+    "vi": "Phút"
   },
   "59d2f090a0624f4ad4889056": {
     "ru": "секунд",
@@ -313,7 +321,8 @@ locdata={
     "ko": "초",
     "zh": "",
     "pt": "endereço de e-mail ",
-    "en": "seconds"
+    "en": "seconds",
+    "vi": "Giây"
   },
   "59d2f090a0624f4ad4889057": {
     "ru": "Введите правильный email",
@@ -325,7 +334,8 @@ locdata={
     "ko": "올바른 이메일 입력",
     "zh": "输入正确的email",
     "pt": "Digite o e-mail correto",
-    "en": "Type correct email"
+    "en": "Type correct email",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889059": {
     "ru": "Подпишитесь сейчас",
@@ -337,7 +347,8 @@ locdata={
     "ko": "특별 할인 정보 받기",
     "zh": "马上订阅",
     "pt": "Inscreva-se agora",
-    "en": "GET UNIQUE OFFER"
+    "en": "GET UNIQUE OFFER",
+    "vi": ""
   },
   "59d2f090a0624f4ad488905a": {
     "ru": "Глобальная проблема:",
@@ -349,7 +360,8 @@ locdata={
     "ko": "글로벌 문제:",
     "zh": "全球问题：",
     "pt": "O problema global:",
-    "en": "Global problem:"
+    "en": "Global problem:",
+    "vi": "Vấn đề toàn cầu:"
   },
   "59d2f090a0624f4ad488905b": {
     "ru": "В 100 из 196 стран мира есть люди, у которых нет банковского счета и доступа к любым другим финансовым услугам: кредитам, ипотекам, кредитным картам и так далее. Всего их в мире - более 2 000 000 000. У них нет кредитных историй, и они вынуждены всю жизнь проводить все операции только с помощью наличных. При этом у 60% из них есть смартфон, а 80% зарегистрированы в Facebook.",
@@ -361,11 +373,11 @@ locdata={
     "ko": "은행 시스템을 이용할 수 없는 20억의 인구가 전 세계 196개국 중 100개국에 존재합니다. 이들은 현금만 사용하며, 신용 기록도 없고 어떠한 금융 서비스도 이용하지 못합니다. 중요한 것은, 이들의 대부분이 정기적으로 스마트폰과 소셜 네트워크를 사용한다는 것입니다. 새로운 데이터의 양과 새로운 잠재 고객의 수가 상당함을 의미합니다. 금융기관은 이 고객들 및 이들의 신용도에 대한 정보를 보유하고 있지 않으므로, 위험을 무릅쓰고 이들과 거래하려 하지 않습니다. 그러나, 이 사람들은 여전히 자금이 필요합니다. 기업들은 경쟁에서 살아남기 위해 여전히 새로운 고객을 필요로 하고요!",
     "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，无法使用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
     "pt": "Em 100 dos 196 países do mundo vivem 2.000.000.000 de pessoas sem qualquer acesso a bancos, pessoas que utilizam apenas dinheiro vivo, não têm histórico de crédito nem acesso a nenhum serviço financeiro. É importante referir que, apesar disso, a maioria dessas pessoas tem smartphones e usa as redes sociais regularmente. Estamos perante uma imensa quantidade de novos dados e um número substancial de potenciais novos clientes. As instituições financeiras não têm nenhuma informação sobre esses clientes ou sua capacidade de solvência, por isso não querem assumir riscos com serviços direcionados para essas pessoas. No entanto, elas continuam precisando de dinheiro e as empresas, certamente, continuam precisando de novos clientes para sobreviver no nosso mundo competitivo!",
-    "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!"
+    "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!",
+    "vi": ""
   },
   "59d2f090a0624f4ad488905c": {
     "ru": "Мы здесь, чтобы помочь этим 2 миллиардам людей получить все возможности мировой криптоиндустрии!",
-    //"it": "Siamo qui per contribuire ad attirare 2 miliardi di persone non servite dalle banche nella nuova Globale cripto-economia",
     "it": "Noi siamo qui per aiutare questi 2 miliardi di persone che non hanno accesso si servizi bancari ad esplorare La Nuova Cripto Economia Globale!",
     "es": "Nuestra misión aquí es atraer a estas 2 mil millones de personas, hoy fuera del sistema financiero, a la cripto-economía Global.",
     "de": "Wir sind hier, um 2 Milliarden Menschen, die nicht von Banken bedient werden, zu helfen, Teil der neuen Globale Kryptowirtschaft zu werden.",
@@ -374,11 +386,11 @@ locdata={
     "ko": "당사의 목적은 새로운 글로벌 크립토 경제를 탐험할 수 있도록 이 20억의 금융 소외 인구를 지원하는 것입니다!",
     "zh": "我们就是要帮助20亿非银行用户进入新的全球性加密经济体中",
     "pt": "Estamos aqui para ajudar esses 2 bilhões de pessoas sem acesso ao sistema bancário a explorar a Nova Economia Global da Moeda Criptografada!",
-    "en": "We are here to help these 2 billion unbanked people  to explore The New Global Crypto Economy!"
+    "en": "We are here to help these 2 billion unbanked people  to explore The New Global Crypto Economy!",
+    "vi": "Chúng tôi đang ở đây để giúp đỡ 2 tỷ người chưasử dụng ngân hàng để khám phá nền kinh tế Crypto toàn cầu mới!"
   },
   "59d2f090a0624f4ad488905d": {
     "ru": "MicroMoney - это команда профессионалов, которые могут работать на развивающихся рынках, куда банки боятся даже заходить, потому что работа с такими рынками похожа на проход по минному полю.",
-    //"it": "Micromoney è una squadra di professionisti che possono lavorare nei mercati emergenti, dove le banche pavide non entrano e anche se lo fanno, andranno su questo mercato come se fosse un campo minato.",
     "it": "Micromoney è una squadra di professionisti che sono in grado di lavorare nei mercati emergenti, dove le banche consolidate non sono in grado di operare oppure, quando lo fanno, non sono abbastanza innovative per sopravvivere in questo ambiente.",
     "es": "MicroMoney es un equipo de profesionales capaces de trabajar en los mercados emergentes, donde los bancos convencionales no pueden operar, e incluso, de poder hacerlo, su falta de innovación les dificultaría inmensamente la supervivencia en aquel medio.",
     "de": "Micromoney ist ein Team aus Profis, die Experten in Entwicklungsländern sind, in welche sich gestandene Banken nicht trauen.",
@@ -387,7 +399,8 @@ locdata={
     "ko": "MicroMoney의 전문가팀은 모든 기존 은행의 영업에 적합하지 않은 신흥시장에서 사업을 운영할 수 있는 역량을 지니고 있습니다. 설사 진입하더라도, 기존 은행의 혁신력은 이 환경에서 생존하기에 역부족일 것입니다.",
     "zh": "Micromoney -这是一个专业的团队，我们活跃在各个新兴市场中，这是一片银行不敢踏入的领域，即使银行决定在这些市场开拓业务，但他们缺乏创新能力，无法在此立足。",
     "pt": "A Micromoney é formada por uma equipe de profissionais com capacidade para trabalhar nos mercados emergentes, onde os bancos oficiais não operaram e, mesmo que operem nesses locais, não são inovadores o suficiente para sobreviver nesse ambiente.",
-    "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment."
+    "en": "Micromoney is a team of professionals who have a capacity to work in the emerging markets where all established banks are not able to operate, and even if they do decide to be there, they are not innovative enough to survive in this environment.",
+    "vi": "MicroMoney là một nhóm các chuyên gia có khả năng làm việc tại các thị trường mới nổi mà tất cả các ngân hàng thành lập đều không thể hoạt động và ngay cả khi họ quyết định ở đó, họ không phải là người sáng tạo để tồn tại trong môi trường này."
   },
   "59d2f090a0624f4ad488905e": {
     "ru": "Наше решение",
@@ -399,20 +412,21 @@ locdata={
     "ko": "당사의 솔루션",
     "zh": "我们的方案",
     "pt": "Nossa solução",
-    "en": "Our Solution"
+    "en": "Our Solution",
+    "vi": "Giải pháp của chúng tôi"
   },
   "59d2f090a0624f4ad488905f": {
     "ru": "MicroMoney - это открытое кредитное бюро и Big Data-платформа, которая помогает находить новых клиентов для банков, микрофинансовых и страховых компаний, онлайн-сервисов, розничных сетей и так далее. Для заполнения заявки на кредит клиент использует мобильное приложение MicroMoney. Разработанная нашей компанией система скоринга, основанная на алгоритмах искусственного интеллекта и нейронных сетях, всего за 15 минут определяет уровень платежеспособности заемщика, и дает ему возможность за считанные минуты получить свой самый первый кредит в жизни, используя только свой смартфон. Все полученные в ходе скоринга данные и кредитные истории хранятся в блокчейне. Тысячи компаний с помощью этих данных получат доступ к миллионам новых клиентов и привлекут их в мировую экономику.",
-//    "it": "Micromoney è un’azienda di microfinanziamenti e di big data che collega i suoi clienti precedentemente privi di un conto in banca con le imprese: banche, agenzie di microfinanziamenti, assicurazioni, e-commerce, vendite al dettaglio, ecc. La piattaforma di intelligenze artificiale Micromoney determina la solvibilità dei clienti e in soli 15 minuti il mutuatario può ottenere il primo prestito della sua vita utilizzando solamente uno smartphone. Tutti le informazioni, preautorizzate dal cliente e le loro esperienze creditizie vengono archiviati nel blockchain. Migliaia di imprese avranno cosi’ accesso a milioni di nuovi clienti e li attireranno nell'economia globale.",
     "it": "Micromoney è un ufficio di finanziamento e di dati estesi che collega nuovi clienti a tutti i servizi finanziari esistenti. La Piattaforma MICROMONEY A.I. utilizza complessi algoritmi per determinare la solvibilità  di tutti i clienti e in circa 15 minuti un creditore può ottenere il suo primo credito usando solamente il proprio smartphone. Utilizzando spesso la nostra piattaforma tutti i clienti possono pagare meno interessi e godere di un indice di affidabilità creditizia  piu' alto. Tutti i dati estesi aggregati e le concessioni di credito vengono archiviati nella Blockchain. Centinaia di attività economiche esistenti avranno accesso a milioni di nuovi clienti che porteranno all' economia globale.",
-	"es": "MicroMoney es una oficina de creditos y macrodatos de codigo abierto que conecta a los nuevos clientes con las empresas de micro-finanzas, seguros, comercio electrónico (E-commerce), minoristas, bancos, etc. Su plataforma de inteligencia artificial utiliza algoritmos complejos para determinar la solvencia financiera de sus clientes y en cosa de 15 minutos un prestatario puede tener acceso a su primer crédito con tan sólo utilizar su smartphone. Todo el historial crediticio y los macrodatos agregados serán almacenados en el Blockchain. De esta forma, miles de empresas y emprendimientos existentes tendrán acceso a millones de nuevos clientes que serán anexados a la economía global.",
+    "es": "MicroMoney es una oficina de creditos y macrodatos de codigo abierto que conecta a los nuevos clientes con las empresas de micro-finanzas, seguros, comercio electrónico (E-commerce), minoristas, bancos, etc. Su plataforma de inteligencia artificial utiliza algoritmos complejos para determinar la solvencia financiera de sus clientes y en cosa de 15 minutos un prestatario puede tener acceso a su primer crédito con tan sólo utilizar su smartphone. Todo el historial crediticio y los macrodatos agregados serán almacenados en el Blockchain. De esta forma, miles de empresas y emprendimientos existentes tendrán acceso a millones de nuevos clientes que serán anexados a la economía global.",
     "de": "Unsere Lösung Micromoney ist ein öffentlich zugängliches Tool für Finanzierung und der Big Data, das neue Kunden mit Betrieben verbindet. Für Banken, Mikrofinanzierung, Versicherung, elektronischen Handel, Einzelhandel usw. stellt die Plattform der künstlichen Intelligenz von MicroMoney die Zahlungsfähigkeit fest der Einzelkunden fest, sodass der Kreditnehmer in nur 15 Minuten das erste Darlehen in seinem Leben aufnehmen kann. Der gesamte Ablauf findet über die Smartphone-App statt. Alle gesammelten Big Data und Kreditverläufe werden in einem Blockchain gespeichert. Tausende von Unternehmen werden auf diese Weise einen Zugang zu Millionen von neuen Kunden bekommen und sie in die Weltwirtschaft einbinden können.",
     "fr": "MicroMoney est un organisme de crédit Open Source et de Big Data qui met en relation de nouveaux clients avec tous les services financiers existants. La plateforme MicroMoney A. I. utilise des algorythmes complexes pour prévoir la solvabilité de chaque clients qui, en seulement 15 min, peut obtenir le premier prêt de sa vie à partir de son smartphone. Chaque clients a la possibilité de payer moins d'intérêt et d'avoir un meilleur classement dans son historique de crédit en utilisant notre plateforme plus régulièrement. Toutes les données agrégées et les historiques de crédit sont stockés sur la Blockchain. Des milliers d'entreprises auront désormais accès à de nouveaux clients que nous allons insérer dans l'économie mondiale.",
     "ja": "マイクロマネーは、オープンソースのクレジット&ビッグデータビュローであり、新規顧客を既存のすべての金融サービスに接続します。マイクロマネーのA.I. プラットフォームでは、複雑なアルゴリズムを使用して全顧客の信用性を予測し、わずか15分で借り手がスマートフォンから人生初の融資を受けられます。当社のプラットフォームをさらに頻繁に使用すれば、全ての顧客には、より低い利子を払い、より高い信用貸付格付けを得る能力が生じます。集積したビッグデータと信用履歴はすべて、ブロックチェーンに保存されます。何千もの既存のビジネスは、当社がグローバル経済にもたらす何百万人もの新規顧客にアクセスするようになります。",
     "ko": "MicroMoney는 신규 고객과 기존의 모든 금융 서비스를 이어 주는 오픈소스 신용조사 & 빅데이터 기관입니다. MicroMoney A.I. 플랫폼은 복잡한 알고리즘을 사용하여 모든 고객의 신용도를 예측하며, 고객은 스마트폰으로 생애 첫 대출을 단 15분 만에 받을 수 있습니다. 모든 고객이 당사의 플랫폼을 더 자주 사용함으로써 이자를 낮추고 신용등급을 높일 수 있습니다. 집계된 모든 빅데이터와 신용 기록은 블록체인에 저장됩니다. 당사가 세계 경제로 이끌어 낼 수백만 신규 고객에 수천 개의 기존 기업체가 접근할 수 있게 될 것입니다.",
     "zh": "Micromoney - 这是一个公共的信用与庞大数据局，它将新客户与现有金融业务连接起来 .Micromoney 人工智能平台使用复杂的算法预测 客户的信贷能力，使用智能手机，仅需15分钟贷款人就可以获得平生的第一笔贷款。 如果客户经常使用我们的平台，那么他们都有能力支付小额利息并具有较高的信用等级。所有收集到的庞大数据和信用记录都被保存在区块链中，上千家企业可以接触到数百万个新客户并吸引他们进入世界经济体中。",
     "pt": "A MicroMoney é o que se chama um “Open Source Credit & Big Data Bureau” que faz a conexão entre novos clientes e todos os serviços financeiros já existentes. A plataforma de Inteligência Artificial da MicroMoney recorre a complexos algoritmos para calcular a capacidade de solvência de todos os clientes e, em apenas 15 minutos, alguém pedindo crédito poderá estar obter o seu primeiro empréstimo na vida utilizando apenas o smartphone. Todos os clientes têm a possibilidade de pagar menos juros e ter um rating mais alto de crédito se usarem a nossa plataforma com mais frequência. Todo o Big Data agregado e histórico de crédito ficam armazenados no Blockchain. Com isso, milhares de empresas terão acesso a milhões de novos clientes a quem nós abrimos as portas da economia global.",
-    "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy."
+    "en": "MicroMoney is an Open Source Credit & Big Data Bureau that connects new customers to all existing financial services. MicroMoney A.I. platform uses complex algorithms to predict creditworthiness of all customers and in just 15 minutes a borrower can get their very first loan in his/her life just from their smartphone. All customers have an ability to pay less interest and have a higher credit rating, if they use our platform more often . All aggregated Big Data and Credit Histories are stored on the Blockchain. Thousands of existing businesses will get access to millions of new customers which we will bring to the global economy.",
+    "vi": "MicroMoney là một Tín dụng Nguồn mở và Cục Dữ liệu Lớn kết nối khách hàng mới với tất cả các dịch vụ tài chính hiện có. MicroMoney A.I. nền tảng sử dụng các thuật toán phức tạp để dự đoán độ tin cậy của tất cả các khách hàng và chỉ trong 15 phút một người vay có thể nhận được khoản vay đầu tiên của họ trong cuộc sống của mình chỉ từ điện thoại thông minh của họ. Tất cả khách hàng có khả năng trả lãi ít hơn và có xếp hạng tín dụng cao hơn, nếu họ sử dụng nền tảng của chúng tôi thường xuyên hơn. Tất cả dữ liệu Tổng hợp dữ liệu lớn và tín dụng được lưu trữ trên Blockchain. Hàng ngàn doanh nghiệp hiện tại sẽ được tiếp cận với hàng triệu khách hàng mới mà chúng tôi sẽ mang lại cho nền kinh tế toàn cầu."
   },
   "59d2f090a0624f4ad4889060": {
     "ru": "Мы растем",
@@ -424,7 +438,8 @@ locdata={
     "ko": "우리는 성장하고 있습니다",
     "zh": "我们在不断成长",
     "pt": "Estamos crescendo",
-    "en": "We are growing"
+    "en": "We are growing",
+    "vi": "Chúng tôi đang phát triển"
   },
   "59d2f090a0624f4ad4889061": {
     "ru": "Многомиллионный бизнес с огромным потенциалом роста! Спрос на наши финансовые услуги огромен и продолжает расти. Мы можем привлечь более 7 триллионов долларов годового объема в мировую криптоэкономику.",
@@ -436,7 +451,8 @@ locdata={
     "ko": "거대한 성장 잠재력을 가진 수조 달러 규모의 비즈니스! 당사와 같은 유형의 금융 포용성에 대한 수요가 거대하며 증가하는 추세입니다. 당사는 글로벌 크립토 경제에 연간 7조 달러 이상을 추가할 수 있습니다.",
     "zh": "我们每年能为全球加密经济吸引超过7万亿美元",
     "pt": "Um negócio que envolve vários trilhões de dólares com enorme potencial de crescimento! A demanda por nosso tipo de inclusão financeira é enorme e continua aumentando. Podemos adicionar mais de 7 trilhões de dólares em volume anual da Economia Global da Moeda Criptografada",
-    "en": "A multi trillion dollar business with huge growth potencial! The demand for our type of financial inclusion is huge and on the rise. We can add over 7 trillion dollars in annual volume of Global Crypto Economy"
+    "en": "A multi trillion dollar business with huge growth potencial! The demand for our type of financial inclusion is huge and on the rise. We can add over 7 trillion dollars in annual volume of Global Crypto Economy",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889062": {
     "ru": "Камбоджа",
@@ -448,7 +464,8 @@ locdata={
     "ko": "캄보디아",
     "zh": "柬埔寨市场",
     "pt": "Camboja",
-    "en": "Cambodia"
+    "en": "Cambodia",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889063": {
     "ru": "Мьянма",
@@ -460,7 +477,8 @@ locdata={
     "ko": "미얀마",
     "zh": "缅甸",
     "pt": "Myanmar",
-    "en": "Myanmar"
+    "en": "Myanmar",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889064": {
     "ru": "Азия, Китай",
@@ -472,7 +490,8 @@ locdata={
     "ko": "아시아, 중국",
     "zh": "亚洲，中国",
     "pt": "Ásia, China",
-    "en": "Asia, China"
+    "en": "Asia, China",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889065": {
     "ru": "Индия",
@@ -484,7 +503,8 @@ locdata={
     "ko": "인도",
     "zh": "印度",
     "pt": "Índia",
-    "en": "India"
+    "en": "India",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889066": {
     "ru": "Латинская Америка",
@@ -496,7 +516,8 @@ locdata={
     "ko": "라틴 아메리카",
     "zh": "拉丁美洲",
     "pt": "América Latina",
-    "en": "Latin America"
+    "en": "Latin America",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c28": {
     "ru": "Ближний Восток, Европа, США",
@@ -508,7 +529,8 @@ locdata={
     "ko": "중동, 유럽, 미국",
     "zh": "中东、欧洲、美国啊",
     "pt": "Médio Oriente, Europa, EUA",
-    "en": "Middle East <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> Europe <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> USA <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>"
+    "en": "Middle East <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> Europe <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> USA <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>",
+    "vi": ""
   },
   "59d2f090a0624f4ad488906a": {
     "ru": "Достижения",
@@ -520,7 +542,8 @@ locdata={
     "ko": "업적",
     "zh": "成果",
     "pt": "Trabalho já feito",
-    "en": "Achievements"
+    "en": "Achievements",
+    "vi": "Thành tựu"
   },
   "59d2f090a0624f4ad488906b": {
     "ru": "Мы успешно работаем",
@@ -532,9 +555,10 @@ locdata={
     "ko": "성과를 올리고 있습니다.",
     "zh": "我们成功进入",
     "pt": "Estamos trabalhando com sucesso",
-    "en": "We are successfully working"
+    "en": "We are successfully working",
+    "vi": "Chúng tôi đang làm việc thành công"
   },
-  "59d2f090a0624f4ad488906c": {     // error under ban
+  "59d2f090a0624f4ad488906c": {
     "ru": "15 миллионов людей",
     "es": "15 millones de personas",
     "it": "15 milioni di persone",
@@ -544,7 +568,8 @@ locdata={
     "ko": "1.5천만 명",
     "zh": "1500万人",
     "pt": "15 milhões de pessoas",
-    "en": "15 mln people"
+    "en": "15 mln people",
+    "vi": ""
   },
   "59d2f090a0624f4ad488906d": {
     "ru": "Бизнес-модель:",
@@ -556,7 +581,8 @@ locdata={
     "ko": "비즈니스 모델:",
     "zh": "经营模式：",
     "pt": "Modelo de Negócio:",
-    "en": "Business Model:"
+    "en": "Business Model:",
+    "vi": ""
   },
   "59d2f090a0624f4ad488906f": {
     "ru": "Таиланд",
@@ -568,7 +594,8 @@ locdata={
     "ko": "태국",
     "zh": "泰国",
     "pt": "Tailândia",
-    "en": "Thailand"
+    "en": "Thailand",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889070": {
     "ru": "Мы будем через 3 месяца (в 4 квартале 2017 года)",
@@ -580,7 +607,8 @@ locdata={
     "ko": "3개월 후/ 2017년 4분기에 출시될 예정입니다.",
     "zh": "经过3个月2017 年第4季度我们将进入",
     "pt": "Começaremos a trabalhar dentro de 3 meses / No 4º trimestre de 2017",
-    "en": "We are starting in 3 months / Q4 2017"
+    "en": "We are starting in 3 months / Q4 2017",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889071": {
     "ru": "Индонезия",
@@ -592,7 +620,8 @@ locdata={
     "ko": "인도네시아",
     "zh": "印度尼西亚",
     "pt": "Indonésia",
-    "en": "Indonesia"
+    "en": "Indonesia",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889072": {
     "ru": "Шри-Ланка",
@@ -604,7 +633,8 @@ locdata={
     "ko": "스리랑카",
     "zh": "斯里兰卡",
     "pt": "Sri - Lanka",
-    "en": "Sri Lanka"
+    "en": "Sri Lanka",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889073": {
     "ru": "Филиппины",
@@ -616,7 +646,8 @@ locdata={
     "ko": "필리핀",
     "zh": "菲律宾",
     "pt": "Filipinas",
-    "en": "Philippines"
+    "en": "Philippines",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889074": {
     "ru": "Все готово к запуску в еще 6 странах",
@@ -628,7 +659,8 @@ locdata={
     "ko": "추가로 6개 이상 국가에서 출시될 준비를 마쳤습니다.",
     "zh": "还将准备进入超过6个国家",
     "pt": "Tudo está pronto para ser lançado em mais 6 países",
-    "en": "Everything is ready to launch in 6 more countries"
+    "en": "Everything is ready to launch in 6 more countries",
+    "vi": "Mọi thứ đã sẵn sàng để khởi chạy ở 6 quốc gia"
   },
   "59d2f090a0624f4ad4889075": {
     "ru": "Гонконг",
@@ -640,7 +672,8 @@ locdata={
     "ko": "홍콩",
     "zh": "香港",
     "pt": "Hong Kong",
-    "en": "Hong Kong"
+    "en": "Hong Kong",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889076": {
     "ru": "Вьетнам",
@@ -652,7 +685,8 @@ locdata={
     "ko": "베트남",
     "zh": "越南",
     "pt": "Vietnã",
-    "en": "Vietnam"
+    "en": "Vietnam",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889077": {
     "ru": "Китай",
@@ -664,7 +698,8 @@ locdata={
     "ko": "중국",
     "zh": "中国大陆",
     "pt": "China",
-    "en": "China"
+    "en": "China",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889078": {
     "ru": "1,380 миллиарда людей",
@@ -676,7 +711,8 @@ locdata={
     "ko": "1.38억 명",
     "zh": "1,380亿人",
     "pt": "1.380 bilhões de pessoas",
-    "en": "1,380 bln people"
+    "en": "1,380 bln people",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889079": {
     "ru": "Малайзия",
@@ -688,7 +724,8 @@ locdata={
     "ko": "말레이시아",
     "zh": "马来西亚",
     "pt": "Malásia",
-    "en": "Malaysia"
+    "en": "Malaysia",
+    "vi": ""
   },
   "59d2f090a0624f4ad488907a": {
     "ru": "Сингапур",
@@ -700,7 +737,8 @@ locdata={
     "ko": "싱가포르",
     "zh": "新加坡",
     "pt": "Singapura",
-    "en": "Singapore"
+    "en": "Singapore",
+    "vi": ""
   },
   "59d2f090a0624f4ad488907b": {
     "ru": "Нигерия",
@@ -712,7 +750,8 @@ locdata={
     "ko": "나이지리아",
     "zh": "尼日利亚",
     "pt": "Nigéria",
-    "en": "Nigeria"
+    "en": "Nigeria",
+    "vi": ""
   },
   "59d2f090a0624f4ad488907c": {
     "ru": "Бизнес-модель: в разработке",
@@ -724,7 +763,8 @@ locdata={
     "ko": "비즈니스 모델: 곧 나올 예정",
     "zh": "很快",
     "pt": "Estará em breve disponível ",
-    "en": "Business Model: Will be soon"
+    "en": "Business Model: Will be soon",
+    "vi": ""
   },
   "59d2f090a0624f4ad488907d": {
     "ru": "У MicroMoney - одна из немногих кампаний по дистрибьюций токенов, в которых есть рабочий продукт и действующая бизнес-модель: людям нужны деньги, а компаниям нужны клиенты.",
@@ -736,7 +776,8 @@ locdata={
     "ko": "MicroMoney는 실물 상품으로 뒷받침되는 몇 안 되는 블록체인 회사 중 하나입니다",
     "zh": "MicroMoney是少数拥有真实产品的区块链公司之一",
     "pt": "A MicroMoney é uma das poucas empresas Blockchain apoiadas por produto real",
-    "en": "MicroMoney is one of few Blockchain companies that is backed by a real product"
+    "en": "MicroMoney is one of few Blockchain companies that is backed by a real product",
+    "vi": "MicroMoney là một trong số ít các công ty Blockchain được hậu thuẫn bởi một sản phẩm thực sự"
   },
   "59d2f090a0624f4ad488907e": {
     "ru": "Micromoney для людей",
@@ -748,7 +789,8 @@ locdata={
     "ko": "고객을 위한 소액 금융",
     "zh": "针对个人的Micromoney ",
     "pt": "Micromoney para pessoas",
-    "en": "Micromoney for people"
+    "en": "Micromoney for people",
+    "vi": "Micromoney cho mọi người"
   },
   "59d2f090a0624f4ad488907f": {
     "ru": "500,000+ лайков в Facebook",
@@ -760,7 +802,8 @@ locdata={
     "ko": "500,000+ Facebook 좋아요",
     "zh": "在Facebook上获得了50多万个赞",
     "pt": "Mais de 500,000 likes no Facebook",
-    "en": "500,000+ likes on Facebook"
+    "en": "500,000+ likes on Facebook",
+    "vi": "500.000 lượt thích trên Facebook"
   },
   "59d2f090a0624f4ad4889080": {
     "ru": "95,000 зарегистрированных уникальных пользователей",
@@ -772,7 +815,8 @@ locdata={
     "ko": "95,000 순 등록 고객",
     "zh": "95,000名独特的注册客户",
     "pt": "95.000 clientes registrados",
-    "en": "95,000 unique registered customers"
+    "en": "95,000 unique registered customers",
+    "vi": "95.000 khách hàng đăng ký duy nhất"
   },
   "59d2f090a0624f4ad4889081": {
     "ru": "Большие данные для бизнеса",
@@ -784,7 +828,8 @@ locdata={
     "ko": "기업을 위한 빅데이터",
     "zh": "针对企业的海量数据",
     "pt": "Big data para empresas",
-    "en": "Big data for business"
+    "en": "Big data for business",
+    "vi": "Dữ liệu lớn cho doanh nghiệp"
   },
   "59d2f090a0624f4ad4889082": {
     "ru": "Огромный спрос со стороны банков, ",
@@ -796,7 +841,8 @@ locdata={
     "ko": "은행의 거대 수요",
     "zh": "银行电子商务的需求巨大",
     "pt": "Enorme demanda dos bancos",
-    "en": "huge demand from Banks"
+    "en": "huge demand from Banks",
+    "vi": "nhu cầu lớn từ các ngân hàng"
   },
   "59d2f090a0624f4ad4889083": {
     "ru": "онлайн-сервисов",
@@ -808,7 +854,8 @@ locdata={
     "ko": "전자상거래",
     "zh": "电信&零售企业",
     "pt": "E-commerce",
-    "en": "E-commerce"
+    "en": "E-commerce",
+    "vi": "Thương mại điện tử"
   },
   "59d2f090a0624f4ad4889084": {
     "ru": "телекоммуникационных компаний и розничных сетей.",
@@ -820,7 +867,8 @@ locdata={
     "ko": "통신 & 리테일 비즈니스",
     "zh": "  ",
     "pt": "Telecom e Empresas de varejo",
-    "en": "Telecom &amp; Retail businesses"
+    "en": "Telecom &amp; Retail businesses",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889085": {
     "ru": "Перспектива роста",
@@ -832,7 +880,8 @@ locdata={
     "ko": "미래 성장",
     "zh": "发展前景",
     "pt": "Perspectiva de crescimento",
-    "en": "Future Growth"
+    "en": "Future Growth",
+    "vi": "Tăng trưởng trong tương lai"
   },
   "59d2f090a0624f4ad4889086": {
     "ru": "Возможность развития бизнеса по всему свету - более 100 новых стран с огромным спросом на наши услуги",
@@ -844,7 +893,8 @@ locdata={
     "ko": "전 세계로의 확장 - 100개 이상의 국가에서 당사 서비스에 대한 수요가 상당히 높습니다.",
     "zh": "向全世界的扩展-全球有100多个国家对我们的服务拥有巨大需求",
     "pt": "Expansão à escala mundial - mais de 100 novos países com grande demanda por nossos serviços",
-    "en": "Expansion worldwide – more than 100+ countries in the world with a huge demand for our services"
+    "en": "Expansion worldwide – more than 100+ countries in the world with a huge demand for our services",
+    "vi": "Mở rộng trên toàn thế giới - hơn 100 quốc gia trên thế giới với nhu cầu rất lớn về dịch vụ của chúng tôi"
   },
   "59d2f090a0624f4ad4889087": {
     "ru": "На базе Ethereum",
@@ -856,12 +906,12 @@ locdata={
     "ko": "이더리움 기반",
     "zh": "以以太坊为基础",
     "pt": "Fornecido pelo Etherium",
-    "en": "Powered by Ethereum"
+    "en": "Powered by Ethereum",
+    "vi": "Được cung cấp bởi Ethereum"
   },
   "59d2f090a0624f4ad4889088": {
     "ru": "Ваша кредитная история в распределенной базе данных - прозрачная, надежно защищенная средствами криптографии и верификации, с возможностью контролировать данные",
     "es": "Su historial crediticio en el Blockchain es transparente, controlado y administrado por un código criptográficamente verificable",
-    //"it": "La vostra storia creditizia distribuita nella base  -  in modo trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
     "it": "La vostra storia creditizia su Blockhain trasparente, sotto controllo, gestibile tramite un codice criptograficamente verificabile",
     "de": "Ihr Kreditverlauf in einer verteilten Datenbank -  transparent, kontrollierbar und kryptographisch mit einem verifizierten Code steuerbar",
     "fr": "Votre historique de crédit sur la Blockchain est transparent, vérifiable et géré par un code cryptografié vérifiable",
@@ -869,7 +919,8 @@ locdata={
     "ko": "블록체인에 저장되는 신용 기록 - 투명하고, 감사가 가능하며, 암호화 기법으로 검증 가능한 코드로 관리됩니다.",
     "zh": "客户在区块链中的信用记录-透明、分配数据库、受到密码与验证码的管理",
     "pt": "O seu histórico de crédito no blockchain é transparente, pode ser verificado e é administrado por um código criptografado",
-    "en": "Your credit history on blockchain - Transparent, Auditable, Administered by cryptographically verifiable code"
+    "en": "Your credit history on blockchain - Transparent, Auditable, Administered by cryptographically verifiable code",
+    "vi": "Lịch sử tín dụng của bạn trên blockchain - Transparent, Auditable, Được quản lý bởi mã cryptographically verifiable"
   },
   "59d2f090a0624f4ad4889089": {
     "ru": "Финансовая интеграция",
@@ -881,7 +932,8 @@ locdata={
     "ko": "금융 포용성",
     "zh": "金融一体化",
     "pt": "Inclusão financeira",
-    "en": "Financial inclusion"
+    "en": "Financial inclusion",
+    "vi": "Bao gồm tài chính"
   },
   "59d2f090a0624f4ad488908a": {
     "ru": "Привлечение 2 миллиардов людей в мировую криптоэкономику",
@@ -893,7 +945,8 @@ locdata={
     "ko": "글로벌 크립토 경제에 20억 인구가 추가됩니다.",
     "zh": "将20亿人带入全球加密经济中",
     "pt": "Traz 2 bilhões de pessoas para a economia global da moeda criptografada",
-    "en": "Add 2 bln people in world global crypto economy"
+    "en": "Add 2 bln people in world global crypto economy",
+    "vi": "Thêm 2 tỷ người vào nền kinh tế toàn cầu crypto thế giới"
   },
   "59d2f090a0624f4ad488908b": {
     "ru": "Доступность",
@@ -905,7 +958,8 @@ locdata={
     "ko": "통속함",
     "zh": "公开",
     "pt": "Disponibilidade geral",
-    "en": "Moving to Open Source"
+    "en": "Moving to Open Source",
+    "vi": ""
   },
   "59d2f090a0624f4ad488908c": {
     "ru": "Платформа MicroMoney основана на модели программного обеспечения с открытым исходным кодом и возможности бесплатного доступа",
@@ -917,7 +971,8 @@ locdata={
     "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式",
     "pt": "A Micromoney confia em um modelo de software livre e de código aberto",
-    "en": "Micromoney believes in maintaining a free and open source software model"
+    "en": "Micromoney believes in maintaining a free and open source software model",
+    "vi": "Micromoney tin tưởng vào việc duy trì mô hình phần mềm nguồn mở và miễn phí"
   },
   "59d2f090a0624f4ad488908d": {
     "ru": "Цифровая идентификация",
@@ -929,7 +984,8 @@ locdata={
     "ko": "디지털 ID",
     "zh": "数字身份",
     "pt": "Identidade digital",
-    "en": "Digital Identity"
+    "en": "Digital Identity",
+    "vi": "Nhận dạng kỹ thuật số"
   },
   "59d2f090a0624f4ad488908e": {
     "ru": "Ваша цифровая идентификация, которая изменяется в зависимости от того, как растет ваша репутация и ваша доходность",
@@ -941,7 +997,8 @@ locdata={
     "ko": "고객 및 고객의 자금과 함께 발전하는 가상 ID를 만들 수 있습니다.",
     "zh": "建立虚拟身份，它将同客户和客户的资金共同发展",
     "pt": "Cria uma identidade virtual que evolui com você e seu dinheiro",
-    "en": "Create a virtual identity that evolves with you and your funds"
+    "en": "Create a virtual identity that evolves with you and your funds",
+    "vi": "Tạo một nhận dạng ảo phát triển cùng với bạn và quỹ của bạn"
   },
   "59d2f090a0624f4ad488908f": {
     "ru": "Смарт-контракт",
@@ -953,7 +1010,8 @@ locdata={
     "ko": "스마트 계약",
     "zh": "智能合同",
     "pt": "Contrato inteligente",
-    "en": "Smart contract"
+    "en": "Smart contract",
+    "vi": "Hợp đồng thông minh"
   },
   "59d2f090a0624f4ad4889090": {
     "ru": "Быстрый, без посредников, надежный",
@@ -965,7 +1023,8 @@ locdata={
     "ko": "빠르고, 중개인이 없으며, 신뢰할 수 있습니다.",
     "zh": "快速、无中介、可靠",
     "pt": "Rápido, sem intermediários, confiável",
-    "en": "Fast, no mediators, reliable"
+    "en": "Fast, no mediators, reliable",
+    "vi": "Nhanh nhẹn, không có trung gian, đáng tin cậy"
   },
   "59d2f090a0624f4ad4889091": {
     "ru": "Мы поддерживаем системы на основе блокчейна, и мы намерены стать частью экосистемы крипторынка",
@@ -977,7 +1036,8 @@ locdata={
     "ko": "당사는 블록체인 전문가로 구성되어 있으며, 이 생태계와의 통합을 계획하고 있습니다.",
     "zh": "我们是区块链系统的拥护者，我们打算将这一技术应用在生态体系中",
     "pt": "Somos adeptos do sistema Blockchain e planejamos integrar-nos no ecossistema",
-    "en": "We are blockchain adepts and we plan to be integrated into the ecosystem"
+    "en": "We are blockchain adepts and we plan to be integrated into the ecosystem",
+    "vi": "Chúng tôi đang ngăn chặn các nhà tư vấn và chúng tôi dự định sẽ được tích hợp vào hệ sinh thái"
   },
   "59d2f090a0624f4ad4889092": {
     "ru": "Civic, чтобы усовершенствовать идентификацию и верификацию заемщика",
@@ -989,7 +1049,8 @@ locdata={
     "ko": "Civic, 대출자의 신원 확인 & 검증 개선",
     "zh": "Civic可完善对贷款人的识别与验证",
     "pt": "Civic, sirve para melhorar a identificação e verificação do mutuário",
-    "en": "Civic, To improve borrower’s identification & verification"
+    "en": "Civic, To improve borrower’s identification & verification",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889093": {
     "ru": "Hive, чтобы обеспечить финансирование наших предприятий малого и среднего бизнеса",
@@ -1001,7 +1062,8 @@ locdata={
     "ko": "Hive, 중소기업 고객에게 자금 지원",
     "zh": "Hive确保中小企业的融资",
     "pt": "Hive, fornecendo financiamento para nossos clientes de PMEs",
-    "en": "Hive, providing funding for our SME customers"
+    "en": "Hive, providing funding for our SME customers",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889094": {
     "ru": "GOLEM, децентрализованный суперкомпьютер.",
@@ -1013,7 +1075,8 @@ locdata={
     "ko": "GOLEM, 분산 슈퍼컴퓨터. 평가 및 위험 분석 솔루션을 위해 AI 사용",
     "zh": "GOLEM分散超级计算机。",
     "pt": "GOLEM, um supercomputador descentralizado.",
-    "en": "GOLEM, Decentralized supercomputer. Deploying AI for our scoring and risk analytics solutions"
+    "en": "GOLEM, Decentralized supercomputer. Deploying AI for our scoring and risk analytics solutions",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889095": {
     "ru": "Tether, альтернативная платежная система",
@@ -1025,7 +1088,8 @@ locdata={
     "ko": "Tether, 대체 지불 시스템",
     "zh": "Tether非传统的支付系统",
     "pt": "Tether, um sistema de pagamento alternativo",
-    "en": "Tether, Alternative Payment system"
+    "en": "Tether, Alternative Payment system",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889096": {
     "ru": "Uport, глобальная, единая, независимая система идентификации клиентов",
@@ -1037,7 +1101,8 @@ locdata={
     "ko": "Uport, 독립적인 글로벌 고객 ID 통합 시스템",
     "zh": "Uport-全球化、统一、独立的客户识别系统",
     "pt": "Uport, um sistema de identificação de clientes global, unificado e independente",
-    "en": "Uport, Global, unified, sovereign customer’s identity system"
+    "en": "Uport, Global, unified, sovereign customer’s identity system",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889097": {
     "ru": "COSMOS, сеть и основа для совместимости распределенных баз",
@@ -1049,7 +1114,8 @@ locdata={
     "ko": "COSMOS, 블록체인 간 상호 운용성을 위한 네트워크 및 프레임워크",
     "zh": "COSMOS针对分配数据库相容性的网络和基础",
     "pt": "COSMOS, rede e base para a interoperabilidade entre os bancos na materia de blockchains de dados distribuídos",
-    "en": "COSMOS, Network and a framework for interoperability between blockchains"
+    "en": "COSMOS, Network and a framework for interoperability between blockchains",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889098": {
     "ru": "Everex, трансграничная платежная система.",
@@ -1061,7 +1127,8 @@ locdata={
     "ko": "Everex, 국경 간 지급 시스템. 대출자에 암호화 현금(crypto-cash) 지급.",
     "zh": "Everex，汇款系统。",
     "pt": "Everex, sistema de pagamento transfronteiriço.",
-    "en": "Everex, Cross-border payment system. Getting crypto-cash for our borrowers."
+    "en": "Everex, Cross-border payment system. Getting crypto-cash for our borrowers.",
+    "vi": ""
   },
   "59d2f090a0624f4ad488909b": {
     "ru": "Мобильное приложение для заемщиков (для Android)",
@@ -1073,7 +1140,8 @@ locdata={
     "ko": "대출자용 Android 앱",
     "zh": "为借款人设计的Android软件",
     "pt": "Aplicativo Android para tomadores de empréstimo",
-    "en": "Android App for Borrowers"
+    "en": "Android App for Borrowers",
+    "vi": ""
   },
   "59d2f090a0624f4ad488909c": {
     "ru": "(Рейтинг 4,7! Более 10000 скачиваний)",
@@ -1085,7 +1153,8 @@ locdata={
     "ko": "(평점 4.7! 다운로드 횟수 10,000건 이상)",
     "zh": "(4.7等级！超过10000次下载）",
     "pt": "(4,7 Rating! Mais de 10.000  downloads)",
-    "en": "(4,7 Rating! More 10.000 downloads)"
+    "en": "(4,7 Rating! More 10.000 downloads)",
+    "vi": ""
   },
   "59d2f090a0624f4ad488909d": {
     "ru": "Скачайте приложение MicroMoney!",
@@ -1097,7 +1166,8 @@ locdata={
     "ko": "대출자용 MICROMONEY 앱을 사용해 보세요!",
     "zh": "试用为借款人设计的 Micromoney APP 软件！",
     "pt": "EXPERIMENTE A APP DA MICROMONEY PARA TOMADORES DE EMPRÉSTIMO!",
-    "en": "TRY MICROMONEY APP for borrowers!"
+    "en": "TRY MICROMONEY APP for borrowers!",
+    "vi": "DÙNG THỬ ỨNG DỤNG MICROMONEY CHO NGƯỜI ĐI VAY!"
   },
   "59d2f090a0624f4ad48890a9": {
     "ru": "Платформа MicroMoney основана на модели программного обеспечения с открытым исходным кодом и возможности бесплатного доступа",
@@ -1109,7 +1179,8 @@ locdata={
     "ko": "MicroMoney는 무료 오픈소스 소프트웨어 모델을 신뢰합니다.",
     "zh": "Micromoney 依靠带有开放码的免费软件模式。",
     "pt": "A Micromoney confia em um modelo de software livre e de código aberto.",
-    "en": "Micromoney believes in maintaining a free and open source software model."
+    "en": "Micromoney believes in maintaining a free and open source software model.",
+    "vi": "Micromoney tin tưởng vào việc duy trì mô hình phần mềm nguồn mở và miễn phí"
   },
   "59d2f090a0624f4ad48890ab": {
     "ru": "Наши документы",
@@ -1121,7 +1192,8 @@ locdata={
     "ko": "당사의 문서를 확인해 보세요.",
     "zh": "檢查我們的文件",
     "pt": "Confira os nossos documentos",
-    "en": "Check our documents"
+    "en": "Check our documents",
+    "vi": "Kiểm tra tài liệu của chúng tôi"
   },
   "59d2f090a0624f4ad48890ac": {
     "ru": "WHITEPAPER",
@@ -1133,7 +1205,8 @@ locdata={
     "ko": "화이트페이퍼 ",
     "zh": "白皮书",
     "pt": "WHITE PAPER",
-    "en": "whitepaper"
+    "en": "whitepaper",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b0": {
     "ru": "ПОЛИТИКА СОБЛЮДЕНИЯ КОНФИДЕНЦИАЛЬНОСТИ",
@@ -1145,7 +1218,8 @@ locdata={
     "ko": "개인정보 정책 ",
     "zh": "隱私政策",
     "pt": "política de privacidade",
-    "en": "privacy policy"
+    "en": "privacy policy",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b2": {
     "ru": "Краткое содержание whitepaper",
@@ -1157,7 +1231,8 @@ locdata={
     "ko": "백서 요약",
     "zh": "白皮书摘要",
     "pt": "RESUMO DO “ WHITE PAPER “",
-    "en": "Summary of the whitepaper"
+    "en": "Summary of the whitepaper",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b3": {
     "ru": "Бизнес-модель: краткое описание",
@@ -1169,7 +1244,8 @@ locdata={
     "ko": "비즈니스 모델 (요약)",
     "zh": "简略版商业模式",
     "pt": "APRESENTAÇÃO RESUMIDA DO MODELO DO NEGÓCIO",
-    "en": "Business model briefly"
+    "en": "Business model briefly",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b4": {
     "ru": "Бизнес-модель: развернутое описание",
@@ -1181,7 +1257,8 @@ locdata={
     "ko": "비즈니스 모델 (전문)",
     "zh": "详细版商业模式",
     "pt": "APRESENTAÇÃO COMPLETA DO MODELO DO NEGÓCIO",
-    "en": "Business model fully"
+    "en": "Business model fully",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b5": {
     "ru": "Краткая презентация о компании",
@@ -1193,7 +1270,8 @@ locdata={
     "ko": "엘리베이터 피치",
     "zh": "电梯游说",
     "pt": "DISCURSO DE ELEVADOR (“ELEVATOR PITCH”)",
-    "en": "Elevator Pitch"
+    "en": "Elevator Pitch",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890b6": {
     "ru": "Наши контакты",
@@ -1205,7 +1283,8 @@ locdata={
     "ko": "연락처",
     "zh": "與我們聯繫",
     "pt": "Entre em contato conosco",
-    "en": "Contact with us"
+    "en": "Contact with us",
+    "vi": "Liên hệ với chúng tôi"
   },
   "59d2f090a0624f4ad48890b7": {
     "ru": "В декабре 2015 года мы начали свою деятельность с:",
@@ -1217,7 +1296,8 @@ locdata={
     "ko": "2015년 12월 사업 시작: ",
     "zh": "2015年12月我们凭借以下资源开展业务：",
     "pt": "Em dezembro de 2015 iniciamos nossa negócio com:",
-    "en": "In December 2015, we started our business with:"
+    "en": "In December 2015, we started our business with:",
+    "vi": "Vào tháng 12 năm 2015, chúng tôi bắt đầu kinh doanh với:"
   },
   "59d2f090a0624f4ad48890b8": {
     "ru": "30000 долларов США начального капитала",
@@ -1229,7 +1309,8 @@ locdata={
     "ko": "초기 자본금 $30,000",
     "zh": "使用30000美元的启动资金",
     "pt": "US $ 30.000 do capital inicial",
-    "en": "$30,000 of initial capital"
+    "en": "$30,000 of initial capital",
+    "vi": "30.000 $ vốn ban đầu"
   },
   "59d2f090a0624f4ad48890b9": {
     "ru": "3 работниками в команде",
@@ -1241,7 +1322,8 @@ locdata={
     "ko": "팀원 3명",
     "zh": "3名工作人员组成的团队",
     "pt": "Equipe com 3 funcionários",
-    "en": "3 employees in a team"
+    "en": "3 employees in a team",
+    "vi": "3 nhân viên trong một nhóm"
   },
   "59d2f090a0624f4ad48890ba": {
     "ru": "первыми 20 клиентами, а информация обрабатывалась в Excel и Google Docs",
@@ -1253,7 +1335,8 @@ locdata={
     "ko": "첫 고객 20명, Excel 및 Google 문서로 모든 프로세스 처리",
     "zh": "首批20名客户，在 Excel和Google Docs进行信息加工",
     "pt": "primeiros 20 clientes, as informações foram processadas no Excel e no Google Docs 2016",
-    "en": "first 20 customers, and all the processes in Excel and Google docs"
+    "en": "first 20 customers, and all the processes in Excel and Google docs",
+    "vi": "20 khách hàng đầu tiên và tất cả các quy trình trong Excel và tài liệu của Google"
   },
   "59d2f090a0624f4ad48890bb": {
     "ru": "Начали разработку децентрализованного кредитного бюро:",
@@ -1265,7 +1348,8 @@ locdata={
     "ko": "분산형 크레딧 뷰로의 개발 시작:",
     "zh": "开始筹建分散信用局：",
     "pt": "Equipe de 35 pessoas",
-    "en": "Started to develop the Decentalized Credit bureau:"
+    "en": "Started to develop the Decentalized Credit bureau:",
+    "vi": "Bắt đầu xây dựng Văn phòng tín dụng phi tập trung:"
   },
   "59d2f090a0624f4ad48890bc": {
     "ru": "Команда в 35 человек",
@@ -1277,7 +1361,8 @@ locdata={
     "ko": "35명의 팀원",
     "zh": "35人组成的团队",
     "pt": "23.000 usuários registradoss",
-    "en": "35 people team"
+    "en": "35 people team",
+    "vi": "35 người trong đội"
   },
   "59d2f090a0624f4ad48890bd": {
     "ru": "23000 зарегистрированных уникальных пользователей",
@@ -1289,7 +1374,8 @@ locdata={
     "ko": "23,000명의 순 등록 사용자",
     "zh": "23000个独立注册用户",
     "pt": "Agora",
-    "en": "23.000 unique registered users"
+    "en": "23.000 unique registered users",
+    "vi": "23.000 người dùng đã đăng ký duy nhất"
   },
   "59d2f090a0624f4ad48890be": {
     "ru": "Сейчас",
@@ -1301,7 +1387,8 @@ locdata={
     "ko": "현재",
     "zh": "目前",
     "pt": "Agora",
-    "en": "Now"
+    "en": "Now",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890bf": {
     "ru": "В 2017 году текущая стоимость компании составляет 1,85 миллиона долларов США",
@@ -1313,7 +1400,8 @@ locdata={
     "ko": "2017년, 회사의 현재 가치는 185만 달러입니다.",
     "zh": "2017年公司的当前价值为185万美元",
     "pt": "Equipe de 85 pessoas",
-    "en": "In 2017, the current value of the company is $1.85 mln"
+    "en": "In 2017, the current value of the company is $1.85 mln",
+    "vi": "Năm 2017, giá trị hiện tại của công ty là 1,85 triệu $"
   },
   "59d2f090a0624f4ad48890c0": {
     "ru": "Команда в 85 человек",
@@ -1325,7 +1413,8 @@ locdata={
     "ko": "팀원 85명",
     "zh": "由85人组成的团队",
     "pt": "Mais de 95.000 clientes únicos registrados",
-    "en": "85 people in the team"
+    "en": "85 people in the team",
+    "vi": "85 người trong nhóm"
   },
   "59d2f090a0624f4ad48890c1": {
     "ru": "Более 95000 зарегистрированных уникальных клиентов",
@@ -1337,7 +1426,8 @@ locdata={
     "ko": "순 등록 사용자 95,000+",
     "zh": "超过95000位独立用户注册",
     "pt": "Mais de 500 mil pessoas gostam no Facebook",
-    "en": "95,000+ unique registered users"
+    "en": "95,000+ unique registered users",
+    "vi": "95.000+ người dùng đăng ký duy nhất"
   },
   "59d2f090a0624f4ad48890c2": {
     "ru": "Более 500000 лайков в Facebook",
@@ -1349,7 +1439,8 @@ locdata={
     "ko": "Facebook 페이지의 좋아요 수 500,000+",
     "zh": "Facebook中超过500000 次点赞",
     "pt": "Mais de 500.000 likes na página do  Facebook  ",
-    "en": "500,000+ Facebook page likes"
+    "en": "500,000+ Facebook page likes",
+    "vi": "500.000 + thích trang Facebook "
   },
   "59d2f090a0624f4ad48890c3": {
     "ru": "Запуск открытого децентрализованного кредитного бюро на основе блокчейн и начало географической экспансии",
@@ -1361,7 +1452,8 @@ locdata={
     "ko": "블록체인 기반의 분산형 오픈소스 크레딧 뷰로 출시 및 글로벌 확장 시",
     "zh": "以区块链技术为基础的分散式公开信用局投放，开始全世界规模的扩展",
     "pt": "Abertura de um bureau de crédito descentralizado de código aberto com base no Blockchain e início da expansão global",
-    "en": "Launch of the Decentalized Open Source Credit bureau based on Blockchain and start of global expanding"
+    "en": "Launch of the Decentalized Open Source Credit bureau based on Blockchain and start of global expanding",
+    "vi": "Khởi động của Cục Tín dụng Nguồn Mở Được Định hướng dựa trên Blockchain và bắt đầu mở rộng toàn cầu"
   },
   "59d2f090a0624f4ad48890c4": {
     "ru": "Более",
@@ -1373,7 +1465,8 @@ locdata={
     "ko": "이상",
     "zh": "更多",
     "pt": "Mais de",
-    "en": "More than"
+    "en": "More than",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c4_2": {
     "ru": "уникальных клиентов",
@@ -1385,7 +1478,8 @@ locdata={
     "ko": "독특한 고객",
     "zh": "獨特的客戶",
     "pt": "clientes",
-    "en": "unique customers"
+    "en": "unique customers",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c5": {
     "ru": "Тайвань",
@@ -1397,7 +1491,8 @@ locdata={
     "ko": "대만",
     "zh": "台湾",
     "pt": "",
-    "en": "Taiwan"
+    "en": "Taiwan",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c6": {
     "ru": "Южная Корея",
@@ -1409,7 +1504,8 @@ locdata={
     "ko": "대한민국",
     "zh": "韩国",
     "pt": "Coreia do Sul",
-    "en": "South Korea"
+    "en": "South Korea",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c7": {
     "ru": "Африка",
@@ -1421,7 +1517,8 @@ locdata={
     "ko": "아프리카",
     "zh": "非洲",
     "pt": "",
-    "en": "Africa"
+    "en": "Africa",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889067": {
     "ru": "Ближний Восток",
@@ -1433,7 +1530,8 @@ locdata={
     "ko": "중동",
     "zh": "",
     "pt": "",
-    "en": "Middle East"
+    "en": "Middle East",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889068": {
     "ru": "Европа",
@@ -1445,7 +1543,8 @@ locdata={
     "ko": "유럽",
     "zh": "欧洲",
     "pt": "",
-    "en": "Europe"
+    "en": "Europe",
+    "vi": ""
   },
   "59d2f090a0624f4ad4889069": {
     "ru": "США",
@@ -1457,7 +1556,8 @@ locdata={
     "ko": "미국",
     "zh": "美国",
     "pt": "",
-    "en": "USA"
+    "en": "USA",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c8": {
     "ru": "До 4-го квартала 2020 года",
@@ -1469,7 +1569,8 @@ locdata={
     "ko": "2020년 4분기까지",
     "zh": "至2020年第4季度",
     "pt": "Antes do 4º trimestre de 2020",
-    "en": "Up to Q4 2020"
+    "en": "Up to Q4 2020",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890c9": {
     "ru": "Мы сделаем все возможное, чтобы достичь к 2020 году рыночной стоимости MicroMoney в размере 1 млрд долларов",
@@ -1481,8 +1582,8 @@ locdata={
     "ko": "2020년까지 MicroMoney의 시장 가치 1조 달러 달성을 위해 최선을 다할 것입니다.",
     "zh": "到2020年，我們將盡全力實現MicroMoney的10億美元市值",
     "pt": "",
-    "en": "We do our best to make sure MicroMoney's market cap will achieve $1 billion mark by 2020"
-    //"en": "We will do the best we can to achieve a MicroMoney's market value of $1 billion by 2020"
+    "en": "We do our best to make sure MicroMoney's market cap will achieve $1 billion mark by 2020",
+    "vi": ""
   },
   "59d2f090a0624f4ad48890ca": {
     "ru": "Ключевые компоненты",
@@ -1494,7 +1595,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Key component"
+    "en": "Key component",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890cb": {
     "ru": "",
@@ -1506,7 +1608,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "AMM tokens are a key component of MicroMoney’s partnership model. Tokens represent the right to use the MicroMoney platform and access specific services and functions based on the number of tokens that are held in a partner’s wallet. Tokenholders contribute to the development of the MicroMoney platform by way of donation during the initial token distribution because it is the only way to access and use the platform’s various services. Customers who want to use MicroMoney’s features should buy the token on exchanges at market prices."
+    "en": "AMM tokens are a key component of MicroMoney’s partnership model. Tokens represent the right to use the MicroMoney platform and access specific services and functions based on the number of tokens that are held in a partner’s wallet. Tokenholders contribute to the development of the MicroMoney platform by way of donation during the initial token distribution because it is the only way to access and use the platform’s various services. Customers who want to use MicroMoney’s features should buy the token on exchanges at market prices.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890cc": {
     "ru": "",
@@ -1518,7 +1621,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "AMM token mechanism"
+    "en": "AMM token mechanism",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890cd": {
     "ru": "",
@@ -1530,7 +1634,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Franchise partnership - AMM ownership can allow tokenholders to become MicroMoney’s partner in a specific country/region on an exclusive basis."
+    "en": "Franchise partnership - AMM ownership can allow tokenholders to become MicroMoney’s partner in a specific country/region on an exclusive basis.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890ce": {
     "ru": "",
@@ -1542,7 +1647,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Access to the Decentralised A.I. Neural Network Scoring System - Banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates can access our Decentralised A.I. Neural Network Scoring system."
+    "en": "Access to the Decentralised A.I. Neural Network Scoring System - Banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates can access our Decentralised A.I. Neural Network Scoring system.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890cf": {
     "ru": "",
@@ -1554,7 +1660,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Access to customers’ Big Data  - Customers of our Big Data Bureau (banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates) can get access to customer data which can be mined."
+    "en": "Access to customers’ Big Data  - Customers of our Big Data Bureau (banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates) can get access to customer data which can be mined.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d0": {
     "ru": "",
@@ -1566,7 +1673,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Access to customers’ Credit Histories Bureau - Banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates can get access to our Credit Histories Bureau."
+    "en": "Access to customers’ Credit Histories Bureau - Banks, financial and insurance companies, e-commerce websites, retail outlets, telecommunication companies, and other corporates can get access to our Credit Histories Bureau.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d1": {
     "ru": "",
@@ -1578,7 +1686,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Legal"
+    "en": "Legal",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d2": {
     "ru": "",
@@ -1590,7 +1699,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Purchasing and holding AMM tokens today is a sound and legal notion. After a thorough analysis, our American legal firm, Gagnier Margossian LLP, has provided us with an opinion that the distribution of AMM tokens cannot be interpreted as a securities offering by financial regulators in the United States, Singapore, and Canada. This means that AMM tokens, unlike many other tokens available in the crypto economy today, can be legally sold in the United States, one of the largest markets for cryptocurrencies."
+    "en": "Purchasing and holding AMM tokens today is a sound and legal notion. After a thorough analysis, our American legal firm, Gagnier Margossian LLP, has provided us with an opinion that the distribution of AMM tokens cannot be interpreted as a securities offering by financial regulators in the United States, Singapore, and Canada. This means that AMM tokens, unlike many other tokens available in the crypto economy today, can be legally sold in the United States, one of the largest markets for cryptocurrencies.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d3": {
     "ru": "",
@@ -1602,7 +1712,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "AMM token opportunity"
+    "en": "AMM token opportunity",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d4": {
     "ru": "",
@@ -1614,7 +1725,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "MicroMoney is operating in three countries today and has already signed agreements to expand to three new countries by the end of 2017 (Sri Lanka, Indonesia, and the Philippines). With 47 countries left to expand to by 2022, and after having already identified another 50 countries where MicroMoney can expand to in the next 10 years, it is clear to see there will be no shortage of demand for AMM tokens in the market for at least the next decade. People who participate in the initial token distribution will see an incredible rise in value of their tokens as MicroMoney continues its expansion efforts."
+    "en": "MicroMoney is operating in three countries today and has already signed agreements to expand to three new countries by the end of 2017 (Sri Lanka, Indonesia, and the Philippines). With 47 countries left to expand to by 2022, and after having already identified another 50 countries where MicroMoney can expand to in the next 10 years, it is clear to see there will be no shortage of demand for AMM tokens in the market for at least the next decade. People who participate in the initial token distribution will see an incredible rise in value of their tokens as MicroMoney continues its expansion efforts.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d5": {
     "ru": "Символ",
@@ -1626,7 +1738,8 @@ locdata={
     "ko": "기호",
     "zh": "符号",
     "pt": "Símbolo",
-    "en": "Symbol"
+    "en": "Symbol",
+    "vi": "Ký hiệu"
   },
   "59d2f091a0624f4ad48890d6": {
     "ru": "",
@@ -1638,7 +1751,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "AMM"
+    "en": "AMM",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890d7": {
     "ru": "Общее количество в ходе кампании",
@@ -1650,7 +1764,8 @@ locdata={
     "ko": "토큰의 공개판매",
     "zh": "全部销售（代币的公开销售）",
     "pt": "Entrega Total  (Distribuição de Tokens)",
-    "en": "Total supply (Token distribution)"
+    "en": "Total supply (Token distribution)",
+    "vi": "Tổng lượng cung (phân phối Token)"
   },
   "59d2f091a0624f4ad48890d8": {
     "ru": "План",
@@ -1662,7 +1777,8 @@ locdata={
     "ko": "모집 계획",
     "zh": "计划筹集",
     "pt": "Plano de angariação",
-    "en": "Plan to raise"
+    "en": "Plan to raise",
+    "vi": "Kế hoạch tăng"
   },
   "59d2f091a0624f4ad48890d9": {
     "ru": "Ограничение",
@@ -1674,7 +1790,8 @@ locdata={
     "ko": "최대 모금액",
     "zh": "硬上限",
     "pt": "Teto limite",
-    "en": "Hard cap"
+    "en": "Hard cap",
+    "vi": "Hard cap"
   },
   "59d2f091a0624f4ad48890da": {
     "ru": "Регулирование",
@@ -1686,7 +1803,8 @@ locdata={
     "ko": "조절 가능",
     "zh": "调控可能性",
     "pt": "Ajustável",
-    "en": "Adjustable"
+    "en": "Adjustable",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890db": {
     "ru": "Токены, которые не будут проданы во время кампании по дистрибьюции токенов, сгорают.",
@@ -1698,7 +1816,8 @@ locdata={
     "ko": "100% 선 채굴. 토큰 공개 판매 때 미판매된 모든 토큰은 소각됩니다.",
     "zh": "在代币公开销售期间所有未销售的代币将被销毁。",
     "pt": "100% pré-minado. Todos os tokens que não forem vendidos durante a distribuição serão queimados.",
-    "en": "100% pre-mined. Any unsold tokens during the Token distribution will be burned."
+    "en": "100% pre-mined. Any unsold tokens during the Token distribution will be burned.",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890dc": {
     "ru": "Тип токенов",
@@ -1710,7 +1829,8 @@ locdata={
     "ko": "토큰 유형",
     "zh": "代币类型",
     "pt": "Tipo de token",
-    "en": "Token type"
+    "en": "Token type",
+    "vi": "Loại Token"
   },
   "59d2f091a0624f4ad48890de": {
     "ru": "Могут ли токены быть проданы до того, как закончится кампания?",
@@ -1722,7 +1842,8 @@ locdata={
     "ko": "토큰 분배의 완료 전에 토큰을 판매할 수 있습니까",
     "zh": "可能在代币公开销售结束前销售",
     "pt": "Podem ser vendidos antes de a distribuição de tokens terminar",
-    "en": "Can be sold before Token distribution finished"
+    "en": "Can be sold before Token distribution finished",
+    "vi": "Có thể được bán trước khi phân phối Token"
   },
   "59d2f091a0624f4ad48890df": {
     "ru": "Нет, все токены могут быть проданы только после того, как закончится кампания.",
@@ -1734,7 +1855,8 @@ locdata={
     "ko": "아니요, 모든 토큰은 토큰 분배가 완료된 후에만 판매할 수 있습니다.",
     "zh": "不，所有的代币只在代币公开销售结束后销售。",
     "pt": "Não, qualquer token só pode ser vendido depois de a distribuição terminar.",
-    "en": "No, all tokens can be sold only after Token distribution finished."
+    "en": "No, all tokens can be sold only after Token distribution finished.",
+    "vi": "Không, tất cả các mã thông báo chỉ có thể được bán sau khi phân phối Token kết thúc."
   },
   "59d2f091a0624f4ad48890e0": {
     "ru": "Начальная цена",
@@ -1746,7 +1868,8 @@ locdata={
     "ko": "초기 가격",
     "zh": "初始价格",
     "pt": "Preço inicial",
-    "en": "Initial price"
+    "en": "Initial price",
+    "vi": "Giá ban đầu"
   },
   "59d2f091a0624f4ad48890e2": {
     "ru": "Структура дистибьюции токена",
@@ -1758,7 +1881,8 @@ locdata={
     "ko": "토큰 분배 구조",
     "zh": "代币公开销售结构",
     "pt": "Estrutura da distribuição de tokens",
-    "en": "Token distribution Structure"
+    "en": "Token distribution Structure",
+    "vi": "Cơ cấu phân phối Token"
   },
   "59d2f091a0624f4ad48890e3": {
     "ru": "Дистрибьюция",
@@ -1770,7 +1894,8 @@ locdata={
     "ko": "분배",
     "zh": "分配",
     "pt": "Distribuição",
-    "en": "Distribution"
+    "en": "Distribution",
+    "vi": "Phân phối"
   },
   "59d2f091a0624f4ad48890e4": {
     "ru": "Покупатели токенов",
@@ -1782,7 +1907,8 @@ locdata={
     "ko": "토큰 구매자",
     "zh": "代币购买者",
     "pt": "Compradores de tokens",
-    "en": "Token buyers"
+    "en": "Token buyers",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890e5": {
     "ru": "Команда (замораживается на 1 год)",
@@ -1794,7 +1920,8 @@ locdata={
     "ko": "팀 (1년간 동결)",
     "zh": "团队（1年内保持不变）",
     "pt": "Equipe (bloqueado por 1 ano)",
-    "en": "Team (freezing for 1 year)"
+    "en": "Team (freezing for 1 year)",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890e6": {
     "ru": "Консультанты / кураторы",
@@ -1806,7 +1933,8 @@ locdata={
     "ko": "어드바이저/멘토",
     "zh": "顾问",
     "pt": "Consultores/mentores",
-    "en": "Advisors / mentors"
+    "en": "Advisors / mentors",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890e7": {
     "ru": "Премии",
@@ -1818,7 +1946,8 @@ locdata={
     "ko": "바운티",
     "zh": "奖金",
     "pt": "Prêmios",
-    "en": "Bounties"
+    "en": "Bounties",
+    "vi": "Tặng thưởng"
   },
   "59d2f091a0624f4ad48890e8": {
     "ru": "Бонусы",
@@ -1830,7 +1959,8 @@ locdata={
     "ko": "보너스",
     "zh": "红利",
     "pt": "Pré-venda privada",
-    "en": "Bonuses"
+    "en": "Bonuses",
+    "vi": "Tiền thưởng"
   },
   "59d2f091a0624f4ad48890e9": {
     "ru": "Частная предпродажа",
@@ -1842,7 +1972,8 @@ locdata={
     "ko": "비공개 사전 분배",
     "zh": "私人预分配",
     "pt": "Pré-venda privada",
-    "en": "Private Predistribution"
+    "en": "Private Predistribution",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890ea": {
     "ru": "День 1",
@@ -1854,7 +1985,8 @@ locdata={
     "ko": "첫날",
     "zh": "第1天",
     "pt": "Dia 1",
-    "en": "Day 1"
+    "en": "Day 1",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890eb": {
     "ru": "Дни 2-7",
@@ -1866,7 +1998,8 @@ locdata={
     "ko": "2-7째 날",
     "zh": "第2-7天",
     "pt": "Dias 2-7",
-    "en": "Day 2-7"
+    "en": "Day 2-7",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890eb-2": {
     "ru": "Дни 8-14",
@@ -1878,7 +2011,8 @@ locdata={
     "ko": "8-14째 날",
     "zh": "第8-14天",
     "pt": "Dias 8-14",
-    "en": "Day 8-14"
+    "en": "Day 8-14",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890eb-3": {
     "ru": "Дни 15-21",
@@ -1890,7 +2024,8 @@ locdata={
     "ko": "15-21째 날",
     "zh": "第15-21天",
     "pt": "Dias 15-21",
-    "en": "Day 15-21"
+    "en": "Day 15-21",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890ed": {
     "ru": "Кампания",
@@ -1902,7 +2037,8 @@ locdata={
     "ko": "캠페인",
     "zh": "活动",
     "pt": "Campanha",
-    "en": "Campaign"
+    "en": "Campaign",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890ef": {
     "ru": "Кампания по подписке в Bitcointalk",
@@ -1914,7 +2050,8 @@ locdata={
     "ko": "Bitcointalk 서명 캠페인",
     "zh": "Bitcointalk签售活动",
     "pt": "Camapanha de assinaturas do Bitcointalk ",
-    "en": "Bitcointalk Signatures Campaign"
+    "en": "Bitcointalk Signatures Campaign",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890f0": {
     "ru": "Кампания по поддержке в Bitcointalk",
@@ -1926,7 +2063,8 @@ locdata={
     "ko": "Bitcointalk 지원 캠페인",
     "zh": "Bitcointalk支持活动",
     "pt": "Campanha de apoio ao Bitcointalk",
-    "en": "Bitcointalk Support Campaign"
+    "en": "Bitcointalk Support Campaign",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890f1": {
     "ru": "Кампания по публикации",
@@ -1938,7 +2076,8 @@ locdata={
     "ko": "게시",
     "zh": "出版",
     "pt": "Publicação de",
-    "en": "Publishing"
+    "en": "Publishing",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890f2": {
     "ru": "Творческая поддержка проекта",
@@ -1950,7 +2089,8 @@ locdata={
     "ko": "프로젝트 크리에이티브 지원",
     "zh": "项目创意支持",
     "pt": "Suporte criativo do projeto",
-    "en": "Project Creative Support"
+    "en": "Project Creative Support",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890f3": {
     "ru": "Партнеры",
@@ -1962,7 +2102,8 @@ locdata={
     "ko": "파트너",
     "zh": "合伙人",
     "pt": "Parceiros",
-    "en": "Partners"
+    "en": "Partners",
+    "vi": "Đối tác"
   },
   "59d2f091a0624f4ad48890f4": {
     "ru": "Наши спонсоры",
@@ -1974,7 +2115,8 @@ locdata={
     "ko": "후원사",
     "zh": "我们的赞助商",
     "pt": "Nossos patrocinadores",
-    "en": "Our backers"
+    "en": "Our backers",
+    "vi": "Người ủng hộ của chúng tôi"
   },
   "59d2f091a0624f4ad48890f5": {
     "ru": "Технические партнеры",
@@ -1986,7 +2128,8 @@ locdata={
     "ko": "기술 파트너",
     "zh": "技术伙伴",
     "pt": "Parceiros técnicos",
-    "en": "Technical partners"
+    "en": "Technical partners",
+    "vi": "Đối tác kỹ thuật"
   },
   "59d2f091a0624f4ad48890f6": {
     "ru": "Любезно согласились предоставить свою платформу",
@@ -1998,7 +2141,8 @@ locdata={
     "ko": "에서 플랫폼 제공에 흔쾌히 동의해 주셨습니다.",
     "zh": "欣然同意提供他们的平台",
     "pt": "",
-    "en": "kindly agreed to provide their platform"
+    "en": "kindly agreed to provide their platform",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890f7": {
     "ru": "Чьи идеи мы поддерживаем и с кем сотрудничаем",
@@ -2010,7 +2154,8 @@ locdata={
     "ko": "지지 또는 협력하고 있는 단체의 아이디어",
     "zh": "我们使用谁的创意或与谁合作",
     "pt": "Os autores das ideias que apoiamos (ou juntamente com quem apoiamos) são:",
-    "en": "Collaborative partners"
+    "en": "Collaborative partners",
+    "vi": "Đối tác hợp tác"
   },
   "59d2f091a0624f4ad48890f8": {
     "ru": "Исполнительная команда",
@@ -2022,7 +2167,8 @@ locdata={
     "ko": "경영진",
     "zh": "执行团队",
     "pt": "Equipe executiva",
-    "en": "Executive team"
+    "en": "Executive team",
+    "vi": "Ban điều hành"
   },
   "59d2f091a0624f4ad48890fa": {
     "ru": "Соучредитель, главный операционный директор",
@@ -2034,7 +2180,8 @@ locdata={
     "ko": "공동 설립자, COO",
     "zh": "联合创始人，首席运营官",
     "pt": "Co-fundador, Diretor operacional",
-    "en": "Co-founder, COO"
+    "en": "Co-founder, COO",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890fc": {
     "ru": "Соучредитель, главный инвестиционный директор.",
@@ -2046,20 +2193,9 @@ locdata={
     "ko": "공동 창업자, 주 투자 책임자",
     "zh": "联合创始人，总投资经理",
     "pt": "Co-fundador, Diretor Geral de Investimento",
-    "en": "Co-founder, CIO. Emerging Markets Specialist"
-  },/*
-   "59d2f091a0624f4ad48890fc-1": {
-    "ru": "Соучредитель, главный инвестиционный директор, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "es": "Co-fundador, director principal de inversiones, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "it": "Co-fondatore, Il Direttore principale di investimenti, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "de": "Mitbegründer, Vorstand für die Investmenttätigkeit, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "fr": "Co-fondateur, Directeur des investissements, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "ja": "共同創設者、最高投資責任者, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "ko": "공동 창업자, 주 투자 책임자, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "zh": "联合创始人，总投资经理, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "pt": "Co-fundador, Diretor Geral de Investimento, Participated in ICO of Everex as Risc consultant & Lending Director",
-    "en": "Co-founder, CIO, Participated in ICO of Everex as Risc consultant & Lending Director"
-  },*/
+    "en": "Co-founder, CIO. Emerging Markets Specialist",
+    "vi": ""
+  },
   "59d2f091a0624f4ad48890fc-1": {
     "ru": "Соучредитель, главный инвестиционный директор",
     "es": "Co-fundador, director principal de inversiones",
@@ -2070,7 +2206,8 @@ locdata={
     "ko": "공동 창업자, 주 투자 책임자",
     "zh": "联合创始人，总投资经理",
     "pt": "Co-fundador, Diretor Geral de Investimento",
-    "en": "Co-founder, CIO. Emerging Markets Specialist"
+    "en": "Co-founder, CIO. Emerging Markets Specialist",
+    "vi": ""
   },
   "59d2f091a0624f4ad48890fe": {
     "ru": "Группа SONATRA, Камбоджа",
@@ -2082,7 +2219,8 @@ locdata={
     "ko": "SONATRA 그룹 캄보디아. 캄보디아 총리의 재정 고문. 주주",
     "zh": "柬埔寨，SONATRA集团",
     "pt": "Grupo SONATRA, Camboja",
-    "en": "Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder."
+    "en": "Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder.",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889100": {
     "ru": "Группа SONATRA, East Wing Capital. Япония, 11 лет в Bloomberg. 29 лет в Finance, акционер",
@@ -2094,7 +2232,8 @@ locdata={
     "ko": "SONATRA Group, East Wing Capital. Bloomberg에서 11년 재직. 금융 부문 경력 29년, 주주",
     "zh": "SONATRA集团，East Wing Capital，日本，在 Bloomberg任职11年，在Finance任职29年，股东",
     "pt": "Japão, 11 anos em Bloomberg. 29 anos em Finanças, acionista",
-    "en": "SONATRA Group, East Wing Capital. 11 years in Bloomberg. 29 years in Finance. Shareholder"
+    "en": "SONATRA Group, East Wing Capital. 11 years in Bloomberg. 29 years in Finance. Shareholder",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889102": {
     "ru": "Grand Corporation Osaka. Япония, директор Grand Corporation Osaka, акционер",
@@ -2106,7 +2245,8 @@ locdata={
     "ko": "일본 Grand Corporation Osaka, Grand Corporation Osaka 디렉터, 주주",
     "zh": "日本， Grand Corporation Osaka经理，股东",
     "pt": "Japão, diretor de Grand Corporação Osaka, acionista",
-    "en": "Grand Corporation Osaka. Japan, Director of Grand Corporation Osaka, Shareholder"
+    "en": "Grand Corporation Osaka. Japan, Director of Grand Corporation Osaka, Shareholder",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889105": {
     "ru": "",
@@ -2118,7 +2258,8 @@ locdata={
     "ko": "스리랑카 Micromoney 디렉터, 스리랑카 Prosperous Capital & Credit Limited. 디렉터",
     "zh": " Prosperous Capital & Credit Limited， Micromoney Sri Lanka经理。",
     "pt": "Diretor da Micromoney em Sri Lanka, Capital Próspera & Credit Limited.",
-    "en": "Director for Micromoney Sri Lanka, Prosperous Capital &amp; Credit Limited. Sri Lanka"
+    "en": "Director for Micromoney Sri Lanka, Prosperous Capital &amp; Credit Limited. Sri Lanka",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889107": {
     "ru": "",
@@ -2130,7 +2271,8 @@ locdata={
     "ko": "Micromoney 인도네시아 사장, 인도네시아 소액 금융 협회 (IMA), 인도네시아",
     "zh": "印度尼西亚，印度尼西亚小额融资协会，Micromoney Indonesia经理",
     "pt": "Diretor da Micromoney em Indonésia, Associação de Microfinanças de Indonésia (IMA), Indonésia",
-    "en": "Director for Micromoney Indonesia, Indonesia Microfinance Association (IMA), Indonesia"
+    "en": "Director for Micromoney Indonesia, Indonesia Microfinance Association (IMA), Indonesia",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889109": {
     "ru": "",
@@ -2142,7 +2284,8 @@ locdata={
     "ko": "나이지리아 Micromoney 디렉터, 나이지리아 Afrofinancial, consensys.net",
     "zh": "尼日利亚，Afrofinancial， Micromoney Nigeria经理",
     "pt": "Diretor da Micromoney em Nigéria, Afrofinancial, Nigéria",
-    "en": "Director for Micromoney Nigeria, Afrofinancial, Nigeria"
+    "en": "Director for Micromoney Nigeria, Afrofinancial, Nigeria",
+    "vi": ""
   },
   "59d2f091a0624f4ad488910b": {
     "ru": "",
@@ -2154,7 +2297,8 @@ locdata={
     "ko": "미얀마 MicroMoney, COO",
     "zh": "MicroMoney Myanmar，首席运营官",
     "pt": "MicroMoney em Myanmar, Diretor de Operações, Bannathorn Sangsuk",
-    "en": "MicroMoney Myanmar, COO"
+    "en": "MicroMoney Myanmar, COO",
+    "vi": ""
   },
   "59d2f091a0624f4ad488910d": {
     "ru": "",
@@ -2166,7 +2310,8 @@ locdata={
     "ko": "태국 MicroMoney, GM",
     "zh": "MicroMoney Thailand，总经理",
     "pt": "Tin Htut Aung",
-    "en": "MicroMoney Thailand, GM"
+    "en": "MicroMoney Thailand, GM",
+    "vi": ""
   },
   "59d2f091a0624f4ad488910f": {
     "ru": "",
@@ -2178,7 +2323,8 @@ locdata={
     "ko": "미얀마 MicroMoney, IT",
     "zh": "MicroMoney Myanmar，信息技术专家",
     "pt": "Malsha Thilakarathne",
-    "en": "MicroMoney Myanmar, IT"
+    "en": "MicroMoney Myanmar, IT",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889111": {
     "ru": "",
@@ -2190,7 +2336,8 @@ locdata={
     "ko": "스리랑카 MicroMoney, 오퍼레이션 매니저",
     "zh": "MicroMoney Sri Lanka，业务经理",
     "pt": "Vivian Sukamto",
-    "en": "MicroMoney Sri Lanka, Operations Manager"
+    "en": "MicroMoney Sri Lanka, Operations Manager",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889113": {
     "ru": "",
@@ -2202,7 +2349,8 @@ locdata={
     "ko": "인도네시아 MicroMoney, 오퍼레이션 매니저",
     "zh": "MicroMoney Indonesia，业务经理",
     "pt": "Gerente de Operações",
-    "en": "MicroMoney Indonesia, Operations Manager"
+    "en": "MicroMoney Indonesia, Operations Manager",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889115": {
     "ru": "",
@@ -2214,7 +2362,8 @@ locdata={
     "ko": "인도네시아 MicroMoney, 지역 담당자",
     "zh": "MicroMoney Indonesia, 国家代表",
     "pt": "MicroMoney em Indonesia, Experto do Pais",
-    "en": "MicroMoney Indonesia, Country Representative"
+    "en": "MicroMoney Indonesia, Country Representative",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889117": {
     "ru": "",
@@ -2226,7 +2375,8 @@ locdata={
     "ko": "필리핀 Micromoney, 지역 담당자",
     "zh": "Micromoney Philippines，国家代表",
     "pt": "MicroMoney em Filipinas, Experto do Pais",
-    "en": "Micromoney Philippines, Country Representative"
+    "en": "Micromoney Philippines, Country Representative",
+    "vi": ""
   },
   "new2610-1": {
     "ru": "Советники",
@@ -2238,7 +2388,8 @@ locdata={
     "ko": "자문",
     "zh": "顾问",
     "pt": "",
-    "en": "Advisors"
+    "en": "Advisors",
+    "vi": "Cố vấn"
   },
   "59d2f091a0624f4ad4889119": {
     "ru": "",
@@ -2250,7 +2401,8 @@ locdata={
     "ko": "미얀마 MicroMoney, HR",
     "zh": "MicroMoney Myanmar，人事专家",
     "pt": "MicroMoney em Myanmar, Especialista em Recursos Humanos",
-    "en": "MicroMoney Myanmar, HR"
+    "en": "MicroMoney Myanmar, HR",
+    "vi": ""
   },
   "59d2f091a0624f4ad488911b": {
     "ru": "",
@@ -2262,7 +2414,8 @@ locdata={
     "ko": "A.I. 인공 신경망 & CRM 개발자",
     "zh": "人工智能神经网络和CRM开发人员",
     "pt": "Desenvolvedor da rede neural de AI e CRM",
-    "en": "A.I. Neural Network &amp; CRM developer"
+    "en": "A.I. Neural Network &amp; CRM developer",
+    "vi": ""
   },
   "59d2f091a0624f4ad488911e": {
     "ru": "",
@@ -2274,7 +2427,8 @@ locdata={
     "ko": "Qoin, Visa. Netherlands",
     "zh": "Qoin， Visa。",
     "pt": "Qoin, Visa.",
-    "en": "Qoin, Visa. Netherlands"
+    "en": "Qoin, Visa. Netherlands",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889120": {
     "ru": "",
@@ -2286,7 +2440,8 @@ locdata={
     "ko": "UN 국제연합, 태국",
     "zh": "联合国，泰国",
     "pt": "Organização das Nações Unidas, Tailândia",
-    "en": "UN United Nations, Thailand"
+    "en": "UN United Nations, Thailand",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889122": {
     "ru": "",
@@ -2298,7 +2453,8 @@ locdata={
     "ko": "유엔 디지털 경제,  Lendit, GreenPeace, Judge-China Big Data FinTech Award",
     "zh": "联合国数字经济，朗迪，绿色和平组织，法官-中国大数据金融科技奖",
     "pt": "Economia Digital da ONU, Lendit, Greenpeace, juiz-China Prêmio de FinTech Big Data",
-    "en": "UN Digital Economy, Lendit, GreenPeace, Judge-China Big Data FinTech Award"
+    "en": "UN Digital Economy, Lendit, GreenPeace, Judge-China Big Data FinTech Award",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889124": {
     "ru": "",
@@ -2310,7 +2466,8 @@ locdata={
     "ko": "Advocate 싱가포르",
     "zh": "律师，新加坡。",
     "pt": "Advogado .",
-    "en": " advocate. Singapore"
+    "en": " advocate. Singapore",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889126": {
     "ru": "",
@@ -2322,7 +2479,8 @@ locdata={
     "ko": "일본 Agrello (1,000만 달러 모집)",
     "zh": "Agrello （获得1000万美元收入），日本",
     "pt": "Agrello (receita recebida de 10 milhões de dólares), Japão",
-    "en": "Agrello (raised $10mln), Japan"
+    "en": "Agrello (raised $10mln), Japan",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889128": {
     "ru": "",
@@ -2334,7 +2492,8 @@ locdata={
     "ko": "라틴 아메리카 지역 파트너",
     "zh": "拉丁美洲合伙人",
     "pt": "Parceiro na América Latina",
-    "en": "Partner in Latin America"
+    "en": "Partner in Latin America",
+    "vi": ""
   },
   "59d2f091a0624f4ad488912a": {
     "ru": "",
@@ -2346,7 +2505,8 @@ locdata={
     "ko": "Facebook, 영국 런던 / A.I. 인공 신경망 프로그래머",
     "zh": "Facebook，英国伦敦/，ianhewangguo人工智能神经网络程序员",
     "pt": "Londres, Reino Unido/Programador da rede Neural da AI ",
-    "en": "Facebook. London, UK / A.I. Neural Network programmer"
+    "en": "Facebook. London, UK / A.I. Neural Network programmer",
+    "vi": ""
   },
   "59d2f091a0624f4ad488912c": {
     "ru": "",
@@ -2358,7 +2518,8 @@ locdata={
     "ko": "Agrello, Qtum. 에스토니아",
     "zh": "Agrello, Qtum. 爱沙尼亚 / 区块链科学家",
     "pt": "",
-    "en": "Agrello, Qtum. Estonia / Blockchain scientist"
+    "en": "Agrello, Qtum. Estonia / Blockchain scientist",
+    "vi": ""
   },
   "59d2f091a0624f4ad488912e": {
     "ru": "",
@@ -2370,7 +2531,8 @@ locdata={
     "ko": "BankEx, Blockchain consortiums. 미국 뉴욕",
     "zh": "BankEx, 美国纽约，区块链联盟",
     "pt": "",
-    "en": "BankEx, Blockchain consortiums. NY, USA. Ethereum early investor."
+    "en": "BankEx, Blockchain consortiums. NY, USA. Ethereum early investor.",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889130": {
     "ru": "Chronobank, Австралия. One of the first ICO of 2017",
@@ -2382,7 +2544,8 @@ locdata={
     "ko": "Chronobank, 호주",
     "zh": "Chronobank，澳大利亚 . One of the first ICO of 2017",
     "pt": "Chronobank, Austrália. One of the first ICO of 2017",
-    "en": "Chronobank, Australia. One of the first ICO of 2017"
+    "en": "Chronobank, Australia. One of the first ICO of 2017",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889132": {
     "ru": "",
@@ -2394,7 +2557,8 @@ locdata={
     "ko": "일본 Starbase, 스마트 계약. 블록체인 엔지니어",
     "zh": "Starbase， 智能合约 / 日本，区块链工程师",
     "pt": "Starbase, contrato inteligente, Japão /consultor, engenheiro de Blockchain  y de bancos de dados distribuídos",
-    "en": "Starbase, Smart Contract, Japan / Blockchain engineer"
+    "en": "Starbase, Smart Contract, Japan / Blockchain engineer",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889134": {
     "ru": "",
@@ -2406,7 +2570,8 @@ locdata={
     "ko": "Laudox.com, 라틴 아메리카, 페루",
     "zh": "Laudox.com，拉丁美洲，秘鲁",
     "pt": "Laudox.com, América Latina, Peru",
-    "en": "Laudox.com, Latin America, Peru"
+    "en": "Laudox.com, Latin America, Peru",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889136": {
     "ru": "",
@@ -2418,7 +2583,8 @@ locdata={
     "ko": "일본 Starbase COO",
     "zh": "Starbase首席运营官，日本",
     "pt": "",
-    "en": "COO of Starbase, Japan"
+    "en": "COO of Starbase, Japan",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889138": {
     "ru": "",
@@ -2430,7 +2596,8 @@ locdata={
     "ko": "JYC Holdings 회장 및 CEO",
     "zh": "JYC Holdings 董事长兼首席执行官",
     "pt": "Presidente e CEO da JYC Holdings",
-    "en": "Chairman and CEO JYC Holdings"
+    "en": "Chairman and CEO JYC Holdings",
+    "vi": ""
   },
   "59d2f091a0624f4ad488913a": {
     "ru": "",
@@ -2442,7 +2609,8 @@ locdata={
     "ko": "Nordea, BP, Morgan Stenley",
     "zh": "Nordea, BP, Morgan Stenley",
     "pt": "Nordea, BP, Morgan Stenley",
-    "en": "Nordea, BP, Morgan Stenley"
+    "en": "Nordea, BP, Morgan Stenley",
+    "vi": ""
   },
   "59d2f091a0624f4ad488913c": {
     "ru": "",
@@ -2454,7 +2622,8 @@ locdata={
     "ko": "BMO - Bank of Montreal, 캐나다 우주관광 학회",
     "zh": "BMO - 蒙特利尔银行,，加拿大太空游协会",
     "pt": "BMO - Banco de Montreal, Sociedade Canadense de Turismo Espacial",
-    "en": "BMO - Bank of Montreal, Space Tourism Society Canada"
+    "en": "BMO - Bank of Montreal, Space Tourism Society Canada",
+    "vi": ""
   },
   "59d2f091a0624f4ad488913e": {
     "ru": "",
@@ -2466,7 +2635,8 @@ locdata={
     "ko": "홍콩 및 상하이 뱅킹회사 (HSBC)",
     "zh": "香港上海汇丰银行有限公司",
     "pt": "Hong Kong e Shanghai Banking Corporation (HSBC)",
-    "en": "Hong Kong and Shanghai Banking Corporation (HSBC)"
+    "en": "Hong Kong and Shanghai Banking Corporation (HSBC)",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889140": {
     "ru": "",
@@ -2478,7 +2648,8 @@ locdata={
     "ko": "기업가, ICO 비즈니스 애널리스트, 자문 – ICObox, GMPay 설립자",
     "zh": "个体经营者，ICO商业-分析员，顾问-ICObox， GMPay创始人",
     "pt": "Empreendedor Privado, Analista de Negócios ICO, Consultor - ICObox, Fundador GMPay",
-    "en": "Entrepreneur, ICO Business Analyst, Adviser – ICObox, Founder of GMPay"
+    "en": "Entrepreneur, ICO Business Analyst, Adviser – ICObox, Founder of GMPay",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889142": {
     "ru": "",
@@ -2490,7 +2661,8 @@ locdata={
     "ko": "ICO 전략가 및 비즈니스 모델 애널리스트. Group 5 자문 ",
     "zh": "",
     "pt": "",
-    "en": "ICO Strategist and Business Model Analyst. Group 5 Advisory"
+    "en": "ICO Strategist and Business Model Analyst. Group 5 Advisory",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889144": {
     "ru": "",
@@ -2502,7 +2674,8 @@ locdata={
     "ko": "ICO 자문 및 and 재무 모델 애널리스트. Group 5 컨설팅",
     "zh": "",
     "pt": "",
-    "en": "ICO Advisory and Financial Model Analyst. Group 5 Consultancy"
+    "en": "ICO Advisory and Financial Model Analyst. Group 5 Consultancy",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889146": {
     "ru": "",
@@ -2514,7 +2687,8 @@ locdata={
     "ko": "Bitindia 공동 설립자 – 블록체인 익스체인지 & 지갑",
     "zh": "Bitindia的联合创始人 - 区块链 交易所和钱包",
     "pt": "",
-    "en": "Co-founder of Bitindia - Blockchain Exchange &amp; Wallet"
+    "en": "Co-founder of Bitindia - Blockchain Exchange &amp; Wallet",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889148": {
     "ru": "",
@@ -2526,7 +2700,8 @@ locdata={
     "ko": "CEO: CFS. ReLife fund. 자선 사업가",
     "zh": "首席执行官：CFS. ReLife基金。 慈善企业家",
     "pt": "",
-    "en": "CEO: CFS. ReLife fund. Charity&amp;Philanthropy Entrepreneur"
+    "en": "CEO: CFS. ReLife fund. Charity&amp;Philanthropy Entrepreneur",
+    "vi": ""
   },
   "59d2f091a0624f4ad488914a": {
     "ru": "",
@@ -2538,7 +2713,8 @@ locdata={
     "ko": "FinTech, 금융 기술, 디지털 혁신, 결제, 은행 업무",
     "zh": "金融科技，金融技术， 数字创新，付款， 银行业",
     "pt": "",
-    "en": "FinTech, Financial Technology, Digital Innovation, Payments, Banking"
+    "en": "FinTech, Financial Technology, Digital Innovation, Payments, Banking",
+    "vi": ""
   },
   "59d2f091a0624f4ad488914c": {
     "ru": "",
@@ -2550,7 +2726,8 @@ locdata={
     "ko": "Telindus Luxembourg, 디지털 금융 솔루션",
     "zh": "Telindus的数字金融解决方案",
     "pt": "",
-    "en": "Digital Finance Solutions at Telindus"
+    "en": "Digital Finance Solutions at Telindus",
+    "vi": ""
   },
   "59d2f091a0624f4ad488914e": {
     "ru": "",
@@ -2562,7 +2739,8 @@ locdata={
     "ko": "재무/컴플라이언스/블록체인 전문가. 호주 정부.",
     "zh": "财务/合规性/区块链 专家。澳大利亚政府。",
     "pt": "",
-    "en": "Financial/Compliance/Blockchain Specialist. Australian Government."
+    "en": "Financial/Compliance/Blockchain Specialist. Australian Government.",
+    "vi": ""
   },
   "new61": {
     "ru": "",
@@ -2574,7 +2752,8 @@ locdata={
     "ko": "VOISE의 CEO 및 공동 설립자",
     "zh": "财务/合规性/区块链 专家。澳大利亚政府。",
     "pt": "",
-    "en": "CEO and Co-founder of VOISE"
+    "en": "CEO and Co-founder of VOISE",
+    "vi": ""
   },
   "new62": {
     "ru": "",
@@ -2586,7 +2765,8 @@ locdata={
     "ko": "설립자 & CEO. Celsius Network - The Credit Coin ICO 자문 및 투자자.",
     "zh": "Celsius网络的创始人兼首席执行官 - Credit Coin的ICO顾问及 投资人",
     "pt": "",
-    "en": "Founder & CEO Celsius Network - The Credit Coin ICO advisor and Investor. Governing Dynamix. Founded 2 on NY's TOP 10 Biggest Venture-Backed since 2000"
+    "en": "Founder & CEO Celsius Network - The Credit Coin ICO advisor and Investor. Governing Dynamix. Founded 2 on NY's TOP 10 Biggest Venture-Backed since 2000",
+    "vi": ""
   },
   "new63": {
     "ru": "",
@@ -2598,7 +2778,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "MICROMONEY INTERNATIONAL PTE. LTD., Office 18 Sin Ming Lane, #08-06, Midview City, Singapore"
+    "en": "MICROMONEY INTERNATIONAL PTE. LTD., Office 18 Sin Ming Lane, #08-06, Midview City, Singapore",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889154": {
     "ru": "",
@@ -2610,7 +2791,8 @@ locdata={
     "ko": "파트너",
     "zh": "合伙人",
     "pt": "Afiliado",
-    "en": "partner"
+    "en": "partner",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889155": {
     "ru": "\"Кто владеет доступом к необслуживаемым банками и непривлеченным свежим клиентам и их личным данным, владеет новым криптоэкономическим миром\"",
@@ -2622,7 +2804,8 @@ locdata={
     "ko": "“새로운 크립토 경제는 손길이 닿지 않은 새로운 금융 소외 고객층과 이들의 개인 데이터에 접근하는 자의 것이 될 것입이다”",
     "zh": "谁能够访问非银行用户和未开发客户的个人信息，谁就将掌控新的加密经济世界”",
     "pt": "Quem possui acesso a bancos desatendidos e novos clientes não privilegiados e seus dados pessoais, possui um novo mundo criptoeconômico",
-    "en": "\"Who owns access to unbanked and untouched fresh customers and their personal data - owns a new crypto economy world\""
+    "en": "\"Who owns access to unbanked and untouched fresh customers and their personal data - owns a new crypto economy world\"",
+    "vi": ""
   },
   "59d2f091a0624f4ad488914f": {
     "ru": "Директор Micromoney Indonesia",
@@ -2634,7 +2817,8 @@ locdata={
     "ko": "인도네시아 Micromoney 사장",
     "zh": "Micromoney Indonesia经理",
     "pt": "Diretor da MicroMoney em Indonesia",
-    "en": "Director for Micromoney Indonesia"
+    "en": "Director for Micromoney Indonesia",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889150": {
     "ru": "\"Uber в финансовой помощи: McDonalds в растущем мире бизнеса\"",
@@ -2646,7 +2830,8 @@ locdata={
     "ko": "“금융 지원 부문의 Uber: McDonalds와 같은 글로벌 비즈니스 확장”",
     "zh": "McDonalds 在企业的发展世界中”",
     "pt": "McDonalds no crescente mundo dos negócios ",
-    "en": "\"Uber in Financial Assistance: McDonalds in WorldWide business expanding\""
+    "en": "\"Uber in Financial Assistance: McDonalds in WorldWide business expanding\"",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889152": {
     "ru": "\"Поначалу кредитная история не была нашей целью. Но она стала очень ценным побочным продуктом кредитного конвейера Micromoney\"",
@@ -2658,7 +2843,8 @@ locdata={
     "ko": "“신용 기록이 처음부터 우리의 목표는 아니었습니다. Micromoney Credit Conveyor의 가치가 매우 큰 부산물이었죠.”",
     "zh": "",
     "pt": "“No início o histórico de crédito não foi nosso objetivo, mas se tornou um subproduto muito valioso da linha de crédito da MicroMoney.",
-    "en": "\"In the beginning - Credit History was not our goal; but it became a very valuable by-product of Micromoney Credit Conveyor.\""
+    "en": "\"In the beginning - Credit History was not our goal; but it became a very valuable by-product of Micromoney Credit Conveyor.\"",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889156": {
     "ru": "У нас важная миссия: помочь двум миллиардам человек стать частью мировой финансовой экосистемы. ",
@@ -2670,7 +2856,8 @@ locdata={
     "ko": "저희는 글로벌 금융 생태계의 일원이 될 수 있도록 20억의 금융 소외 인구를 지원하는 중대한 임무에 착수했습니다.",
     "zh": "我们从事了一项伟大的事业，那就是帮助20亿无银行账户的人成为全球金融生态系统的一部分。",
     "pt": "Assumimos a grande missão de ajudar 2 bilhões de pessoas sem acesso a bancos a se tornarem parte de um ecossistema financeiro global.",
-    "en": "We took on a great mission to help two bln unbanked people become part of a global financial ecosystem."
+    "en": "We took on a great mission to help two bln unbanked people become part of a global financial ecosystem.",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889157": {
     "ru": "Интервью со-основателя MicroMoney Антона Дзятковского журналу Forbes.",
@@ -2682,7 +2869,8 @@ locdata={
     "ko": "MicroMoney의 CEO Anton Dzyatkovsky, Forbes와의 인터뷰",
     "zh": "MicroMoney的首席执行官Anton Dzyatkovsky向福布斯杂志如是说。",
     "pt": "O CEO do MicroMoney's, Anton Dzyatkovsky, fala na Forbes",
-    "en": "MicroMoney's CEO Anton Dzyatkovsky speaks to Forbes"
+    "en": "MicroMoney's CEO Anton Dzyatkovsky speaks to Forbes",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889158": {
     "ru": "Только мы выдаем кредиты без залога и бумажных документов, поэтому к нам обращаются даже те, у кого нет кредитного рейтинга.",
@@ -2694,7 +2882,8 @@ locdata={
     "ko": "저희는 담보 및 서류 없이 대출을 해주는 유일한 기관입니다. 그러므로 신용점수가 없는 사람들도 저희에게 대출을 신청할 수 있습니다.",
     "zh": "只有我们才发放没有抵押品和纸质文件的贷款，所以，即使是没有信用等级的人也适用于我们。",
     "pt": "Somos os únicos a aprovar créditos sem garantias nem documentos em papel, por isso, mesmo as pessoas sem taxa de crédito recorrem a nós.",
-    "en": "Only we issue loans without collateral and paper documents, so even people who don’t have credit rate apply to us."
+    "en": "Only we issue loans without collateral and paper documents, so even people who don’t have credit rate apply to us.",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889159": {
     "ru": "Юридические лица",
@@ -2706,8 +2895,9 @@ locdata={
     "ko": "법인",
     "zh": "法人",
     "pt": "Entidades jurídicas",
-    "en": "Legal companies"
-  },// Documents d'enregistrement de la société
+    "en": "Legal companies",
+    "vi": "Công ty pháp lý"
+  },
   "59d2f091a0624f4ad488915a": {
     "ru": "Название компании:",
     "es": "Nombre de la compañía:",
@@ -2718,7 +2908,8 @@ locdata={
     "ko": "회사명:",
     "zh": "公司名称：",
     "pt": "Nome da empresa:",
-    "en": "Company Name:"
+    "en": "Company Name:",
+    "vi": ""
   },
   "new2610-2": {
     "ru": "Юридические документы компании",
@@ -2730,7 +2921,8 @@ locdata={
     "ko": "기업 문서",
     "zh": "公司注册文件",
     "pt": "",
-    "en": "Company incorporation documents"
+    "en": "Company incorporation documents",
+    "vi": "Tài liệu hợp nhất công ty"
   },
   "new2710": {
     "ru": "",
@@ -2742,7 +2934,8 @@ locdata={
     "ko": "201706086N, 싱가포르 공화국에 설립",
     "zh": "201706086N, 在新加坡共和国注册成立",
     "pt": "",
-    "en": "201706086N, incorporated in Republic of Singapore"
+    "en": "201706086N, incorporated in Republic of Singapore",
+    "vi": ""
   },
   "new27102": {
     "ru": "",
@@ -2754,7 +2947,8 @@ locdata={
     "ko": "778(FC)/2016-2017(YGN), 미얀마 연방공화국에 설립",
     "zh": "778(FC)/2016-2017(YGN),在缅甸联邦共和国注册成立",
     "pt": "",
-    "en": "778(FC)/2016-2017(YGN), Incorporated in the Republic of the Union of Myanmar"
+    "en": "778(FC)/2016-2017(YGN), Incorporated in the Republic of the Union of Myanmar",
+    "vi": ""
   },
   "new27103": {
     "ru": "",
@@ -2766,7 +2960,8 @@ locdata={
     "ko": "PV 125990, 스리랑카 민주사회주의 공화국에 설립",
     "zh": "",
     "pt": "",
-    "en": "PV 125990, incorporated in the Democratic Socialist Republic of Sri Lanka"
+    "en": "PV 125990, incorporated in the Democratic Socialist Republic of Sri Lanka",
+    "vi": ""
   },
   "59d2f091a0624f4ad488915c": {
     "ru": "Регистрационный номер компании:",
@@ -2778,7 +2973,8 @@ locdata={
     "ko": "회사 등록번호:",
     "zh": "公司注册号：",
     "pt": "Número de registro da companhia:",
-    "en": "Company Registration Number:"
+    "en": "Company Registration Number:",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889163": {
     "ru": "Юридический адрес:",
@@ -2790,7 +2986,8 @@ locdata={
     "ko": "사무소:",
     "zh": "法定地址：",
     "pt": "Endereço legal:",
-    "en": "Office:"
+    "en": "Office:",
+    "vi": ""
   },
   "59d2f091a0624f4ad488915f": {
     "ru": "Телефон:",
@@ -2802,7 +2999,8 @@ locdata={
     "ko": "전화번호:",
     "zh": "电话",
     "pt": "Telefone:",
-    "en": "Telephone:"
+    "en": "Telephone:",
+    "vi": "Điện thoại:"
   },
   "59d2f091a0624f4ad4889166": {
     "ru": "Налоговый номер",
@@ -2814,7 +3012,8 @@ locdata={
     "ko": "세무 번호:",
     "zh": "税号",
     "pt": "Número de identificação fiscal ",
-    "en": "Tax no."
+    "en": "Tax no.",
+    "vi": ""
   },
   "59d2f091a0624f4ad4889168": {
     "ru": "Краудсейл токенов начнется 18 октября 2017 года",
@@ -2826,7 +3025,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Token Crowdsale starts on 18th of October 2017"
+    "en": "Token Crowdsale starts on 18th of October 2017",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c2b": {
     "ru": "Юрисдикция регистрации",
@@ -2838,7 +3038,8 @@ locdata={
     "ko": "법인 설립의 관할권",
     "zh": "注册权限",
     "pt": "Jurisdição de incorporação ",
-    "en": "Jurisdiction of incorporation"
+    "en": "Jurisdiction of incorporation",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c2c": {
     "ru": "Имеет более чем 15-летний опыт работы в азиатской микрофинансовой/финансовой индустрии (генеральный директор INFINTO Pte Ltd, генеральный менеджер Fullerton Financial Holdings, заместитель генерального менеджера Глобального фонда микрофинансирования Pact и пр.). Руководил командами в более чем 550 сотрудников и имеет кредитный портфель в размере 40 миллионов долларов США с лучшим портфелем по показателю риска.",
@@ -2850,7 +3051,8 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "Has more than 15 years of experience in Asian micro-finance/financial industry (CEO in INFINTO Pte Ltd, General Manager in Fullerton Financial Holdings, Deputy General Manager in Pact Global Microfinance Fund, etc.) He managed teams with more than 550 employees and $40 million loan portfolio with the best portfolio at risk rate."
+    "en": "Has more than 15 years of experience in Asian micro-finance/financial industry (CEO in INFINTO Pte Ltd, General Manager in Fullerton Financial Holdings, Deputy General Manager in Pact Global Microfinance Fund, etc.) He managed teams with more than 550 employees and $40 million loan portfolio with the best portfolio at risk rate.",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c2d": {
     "ru": "Успешный предприниматель, дипломатический переговорщик, бескомпромиссный продавец и креативный эксперт в области маркетинга. Страстный и трудолюбивый бизнес-лидер с более чем 16-летним опытом работы в FinTech, Retail, E-Commerce, SMM, CRM, Bitcoin и BlockChain. Его обязанность - открывать новые рынки с нуля.",
@@ -2862,7 +3064,8 @@ locdata={
     "ko": "이의 직책은 맨처음부터 새로운 시장을 만드는 것이다.",
     "zh": "他的责任-从零开启新市场。",
     "pt": "Sua obrigação é abrir novos mercados a partir do zero.",
-    "en": "The successful entrepreneur, diplomatic negotiator, extreme seller and creative expert in marketing. Passionate and hardworking business leader with more than 16 years of experience within FinTech, Retail, E-Commerce, SMM, CRM, Bitcoin, and BlockChain. His responsibility is to open new markets from scratch."
+    "en": "The successful entrepreneur, diplomatic negotiator, extreme seller and creative expert in marketing. Passionate and hardworking business leader with more than 16 years of experience within FinTech, Retail, E-Commerce, SMM, CRM, Bitcoin, and BlockChain. His responsibility is to open new markets from scratch.",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c2e": {
     "ru": "Группа SONATRA, Камбоджа, Консультант камбоджийского финансового сектора премьер-министра Камбоджи, акционер",
@@ -2874,7 +3077,8 @@ locdata={
     "ko": "소나트라 그룹, 캄보디아, 캄보디아 훈센 총리의 재정고문, 주주",
     "zh": "SONATRA集团，柬埔寨，柬埔寨总领洪森的金融问题顾问，股东",
     "pt": "Grupo SONATRA, Camboja, consultor do setor financeiro cambojano do primeiro ministro do Camboja, acionista",
-    "en": "Oknha Sorn Sokna Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder. Oknha Sorn Sokna is the Founder of Sonatra Group, operating a variety of services such as Banking, Securities, Investment, Construction, Auditing, Accounting and Education. He is also one of the Founders of Sokimex Group, a large conglomerate company focus on oil industry and Hotel resort. Oknha Sorn Sokna has experiences in Finance and Development for more than 25 years. He has the highest social rank among Cambodia Citizens."
+    "en": "Oknha Sorn Sokna Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder. Oknha Sorn Sokna is the Founder of Sonatra Group, operating a variety of services such as Banking, Securities, Investment, Construction, Auditing, Accounting and Education. He is also one of the Founders of Sokimex Group, a large conglomerate company focus on oil industry and Hotel resort. Oknha Sorn Sokna has experiences in Finance and Development for more than 25 years. He has the highest social rank among Cambodia Citizens.",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c2f": {
     "ru": "Подписка успешна",
@@ -2886,7 +3090,8 @@ locdata={
     "ko": "팔라우 승인",
     "zh": "成功订阅",
     "pt": "A assinatura é bem sucedida",
-    "en": "Subscribed successfully"
+    "en": "Subscribed successfully",
+    "vi": ""
   },
   "59d2f0b9f8edb31768a67c30": {
     "ru": "Выбрать язык",
@@ -2898,7 +3103,8 @@ locdata={
     "ko": "언어 선택",
     "zh": "选择语言",
     "pt": "Selecione o idioma",
-    "en": "Select language"
+    "en": "Select language",
+    "vi": ""
   },
   "mloc_01": {
     "ru": "НАША КОДОВАЯ БАЗА НА GITHUB",
@@ -2910,7 +3116,8 @@ locdata={
     "ko": "GITHUB에서 코드 보기",
     "zh": "在GITHUB上查看代码",
     "pt": "VIEW  CODE  ON GITHUB",
-    "en": "view CODE on GITHUB"
+    "en": "view CODE on GITHUB",
+    "vi": "XEM CODE TRÊN GITHUB"
   },
   "mloc_02": {
     "ru": "Что такое токены АММ",
@@ -2922,7 +3129,8 @@ locdata={
     "ko": "AMM 토큰이 무엇입니까",
     "zh": "AMM代币的含义是什么",
     "pt": "O que representam o token AMM ",
-    "en": "What does AMM token represent"
+    "en": "What does AMM token represent",
+    "vi": "Biểu tượng AMM đại diện là gì"
   },
   "mloc_03": {
     "ru": "В-первую очередь, АММ токены – неотъемлемая часть эко-системы МикроМани. Они могут использоваться для оплаты внутри системы, а также для получения доступа к тем или иным сервисам МикроМани.  АММ токены являются своеобразным «топливом» системы, при необходимости наши клиенты смогут покупать их по рыночной стоимости. С ростом потребности в сервисах МикроМани, у клиента растет потребность в токенах АММ.",
@@ -2934,7 +3142,8 @@ locdata={
     "ko": "AMM은 유틸리티 토큰입니다. 토큰은 MicroMoney 생태계의 필수 요소이며 내부 지불 수단으로 사용되거나 MicroMoney 서비스에 액세스하는 데 사용될 수 있습니다. 이 토큰 모델은 고객이 자주 사용하여 토큰에 대한 수요를 높일 수 있도록 만들어졌습니다.",
     "zh": "AMM是一种效用代币。该代币是MicroMoney生态系统的一个组成部分，并且它可用作内部付款方式或是用于获取MicroMoney的服务。该代币模型的构建使我们的客户想要频繁地使用它，从而为该代币创造出更高的需求。",
     "pt": "AMM é um ‘utility token’. O token é parte integrante do ecossistema MicroMoney e pode ser usado como pagamento interno ou para acessar os serviços da MicroMoney. O modelo de token foi feito de modo a que os nossos clientes desejem usá-lo com frequência, criando assim maior demanda pelo token.",
-    "en": "AMM is a utility token. The token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services. The token model is built so that our clients will want to use it frequently, thereby creating higher demand for the token."
+    "en": "AMM is a utility token. The token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services. The token model is built so that our clients will want to use it frequently, thereby creating higher demand for the token.",
+    "vi": "AMM là một tiện ích Token. Token là một phần không tách rời của hệ sinh thái MicroMoney và có thể được sử dụng làm phương tiện thanh toán nội bộ hoặc truy cập vào các dịch vụ của MicroMoney. Mô hình mã thông báo được xây dựng để khách hàng của chúng tôi muốn sử dụng nó thường xuyên, do đó tạo ra nhu cầu cao hơn cho mã thông báo."
   },
   "mloc_05": {
     "ru": "людей",
@@ -2946,7 +3155,8 @@ locdata={
     "ko": "명",
     "zh": "人",
     "pt": "de pessoas",
-    "en": "people"
+    "en": "people",
+    "vi": ""
   },
   "New101": {
     "ru": "",
@@ -2958,7 +3168,8 @@ locdata={
     "ko": "고객이 MicroMoney 모바일 앱을 통해 온라인 신청서를 작성하면, 혁신적이고 정교한 평가 시스템이 대출자의 휴대전화에서 수집한 모든 데이터를 토대로 작동합니다.",
     "zh": "",
     "pt": "",
-    "en": "The innovative and sophisticated scoring system works with all the data from a borrower’s mobile phone gathered after a customer completes the online application form within the MicroMoney’s mobile app."
+    "en": "The innovative and sophisticated scoring system works with all the data from a borrower’s mobile phone gathered after a customer completes the online application form within the MicroMoney’s mobile app.",
+    "vi": ""
   },
   "New102": {
     "ru": "",
@@ -2970,7 +3181,8 @@ locdata={
     "ko": "MicroMoney, $30M 토큰 배포 캠페인으로 12시간 만에 1백만 달러 달성",
     "zh": "",
     "pt": "",
-    "en": "MicroMoney $30M Token Distribution Campaign Generates $1M in 12 Hours"
+    "en": "MicroMoney $30M Token Distribution Campaign Generates $1M in 12 Hours",
+    "vi": ""
   },
   "New103": {
     "ru": "",
@@ -2982,7 +3194,8 @@ locdata={
     "ko": "전 세계의 금융 소외 인구를 글로벌 금융 시스템의 일원으로 편입하려는 MicroMoney의 비전은 더 나은 21세기 비즈니스 목표 중 하나일 수 있습니다",
     "zh": "",
     "pt": "",
-    "en": "MicroMoney’s vision to convert the world’s unbanked into members of global financial system could be one of better business objectives of the entire 21st century"
+    "en": "MicroMoney’s vision to convert the world’s unbanked into members of global financial system could be one of better business objectives of the entire 21st century",
+    "vi": ""
   },
   "New104": {
     "ru": "",
@@ -2994,7 +3207,8 @@ locdata={
     "ko": "MicroMoney는 온라인 대출업계의 마이크로 파이낸싱에 중점을 두고 있습니다. 아시아 전역의 소비자 금융 수요에 \"최고의 전문적인\" 솔루션을 제공하는 것을 목표로 하고 있으며 현재 아시아 5개국에서 사용할 수 있습니다.",
     "zh": "",
     "pt": "",
-    "en": "MicroMoney is focused on micro-financing in the online money lending industry and states that it aims to provide the “best professional” solutions to consumers’ financial needs across Asia and is now available in five Asian countries."
+    "en": "MicroMoney is focused on micro-financing in the online money lending industry and states that it aims to provide the “best professional” solutions to consumers’ financial needs across Asia and is now available in five Asian countries.",
+    "vi": ""
   },
   "New105": {
     "ru": "",
@@ -3006,7 +3220,8 @@ locdata={
     "ko": "서류 없이 신속하게 저렴한 금리로 대출 서비스를 이용할 수 있다는 점에서 MicroMoney는 재정적으로 어려운 시기에 이상적인 솔루션입니다.",
     "zh": "",
     "pt": "",
-    "en": "Access to the loan services, fast, paperless, with an affordable interest rate is what making MicroMoney the solution for financial Catch-22."
+    "en": "Access to the loan services, fast, paperless, with an affordable interest rate is what making MicroMoney the solution for financial Catch-22.",
+    "vi": ""
   },
   "New106": {
     "ru": "Условия дистрибьюции токена",
@@ -3018,7 +3233,8 @@ locdata={
     "ko": "토큰 배포 조건",
     "zh": "令牌分配條款",
     "pt": "Termos de distribuição de token",
-    "en": "Terms of token distribution"
+    "en": "Terms of token distribution",
+    "vi": ""
   },
   "New107": {
     "ru": "Инструкция",
@@ -3030,7 +3246,8 @@ locdata={
     "ko": "설명서",
     "zh": "指令",
     "pt": "Instrução",
-    "en": "Instruction"
+    "en": "Instruction",
+    "vi": ""
   },
   "New108": {
     "ru": "Обзор экспертов",
@@ -3042,7 +3259,8 @@ locdata={
     "ko": "전문가 심의",
     "zh": "專家評審",
     "pt": "Revisão de especialistas",
-    "en": "Expert review"
+    "en": "Expert review",
+    "vi": "Đánh giá chuyên gia"
   },
   "New109": {
     "ru": "Вэбинар",
@@ -3054,7 +3272,8 @@ locdata={
     "ko": "웹 세미나",
     "zh": "",
     "pt": "",
-    "en": "Webinars"
+    "en": "Webinars",
+    "vi": "Hội thảo"
   },
   "New110": {
     "ru": "Всего собрано",
@@ -3066,7 +3285,8 @@ locdata={
     "ko": "합계 설립",
     "zh": "總共創立",
     "pt": "Total fundado",
-    "en": "Total founded"
+    "en": "Total founded",
+    "vi": ""
   },
   "New111": {
     "ru": "Старт продаж",
@@ -3078,7 +3298,8 @@ locdata={
     "ko": "배포 시작",
     "zh": "分發開始",
     "pt": "Início da distribuição",
-    "en": "Distribution Start"
+    "en": "Distribution Start",
+    "vi": ""
   },
   "New112": {
     "ru": "Участников",
@@ -3090,7 +3311,8 @@ locdata={
     "ko": "참가자",
     "zh": "參與者",
     "pt": "participantes",
-    "en": "participants"
+    "en": "participants",
+    "vi": ""
   },
   "New113": {
     "ru": "Токен бонус",
@@ -3102,7 +3324,8 @@ locdata={
     "ko": "토큰 판매 보너스",
     "zh": "東京銷售獎金",
     "pt": "TOKEN VALE BONUS",
-    "en": "Time left until the end of campaign"
+    "en": "Time left until the end of campaign",
+    "vi": ""
   },
   "New114": {
     "ru": "Заканчивается через",
@@ -3114,13 +3337,11 @@ locdata={
     "ko": "끝내기",
     "zh": "結束了",
     "pt": "TERMINA EM",
-    "en": "ENDS IN"
+    "en": "ENDS IN",
+    "vi": ""
   }
-};/* // Вывод под excel
-for (var key in locdata) {
-    var en=locdata[key]["en"],ko=locdata[key]["ko"];
-    console.log(key+'\t'+en+'\t'+ko);
-}*/
+};
+
 locall={
     'en':'English',                 // Английский
     'ru':'Русский',                 // Русский
