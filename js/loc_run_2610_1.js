@@ -189,6 +189,7 @@ function getHash(){
 		var locel=document.getElementById(loc);
 		if (locel) {	// Если такое элемент есть
 			var target_top= $('#'+loc).offset().top;
+			//if (loc.substring(0, 4)=='news') target_top-=200; 
 			$('html, body').animate({scrollTop:target_top}, 'slow');
 		}
 	}

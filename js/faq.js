@@ -1,6 +1,7 @@
 var mobileNavToggled = false;
 
 $(document).ready(function() {
+	
     $('.faq__nav a').click(function(e) {
         e.preventDefault();
         
@@ -21,4 +22,19 @@ $(document).ready(function() {
     $('.faq__item h5').click(function() {
         $(this).parents('.faq__item').toggleClass('opened');
     })
-});
+	
+}); 
+
+setTimeout(function () {
+	getHashTo(window.location.hash);
+}, 10);
+
+function getHashTo(hash){
+	var loc = hash.replace('#','');
+	if (loc!='' && loc!='close') {
+		if (document.getElementById(loc)) {	// Если такой элемент есть
+			var target_top= $('#'+loc).offset().top;
+			$('html, body').animate({scrollTop: $(document).scrollTop()-100}, 'linear');
+		}
+	}
+}
