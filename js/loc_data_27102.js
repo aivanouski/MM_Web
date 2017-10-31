@@ -2266,15 +2266,15 @@ locdata={
   },
   "59d2f091a0624f4ad488911e": {
     "ru": "",
-    "es": "Bancor (Recibió ingresos de 150 millones de dólares), Goin, Visa.",
-    "it": "Bancor (reddito incrementato di 150 millioni di dollari USA), Qoin, Visa",
-    "de": "Bancor (Einkommen von 150 Millionen USD), Qoin, Visa.",
-    "fr": "Bancor (plus de 150 Mln USD lévés), Qoin, Visa.",
-    "ja": "Bancor ($150mln上昇), Qoin, Visa.オランダ",
-    "ko": "Bancor (1억5천만 달러 모집), Qoin, Visa. Netherlands",
-    "zh": "Bancor （获得1.5亿美元收入），Qoin， Visa。",
-    "pt": "Bancor (receita recebida de 150 milhões de dólares), Qoin, Visa.",
-    "en": "Bancor (rised $150mln), Qoin, Visa. Netherlands"
+    "es": "Goin, Visa.",
+    "it": "Qoin, Visa",
+    "de": "Qoin, Visa.",
+    "fr": "Qoin, Visa.",
+    "ja": "Qoin, Visa.オランダ",
+    "ko": "Qoin, Visa. Netherlands",
+    "zh": "Qoin， Visa。",
+    "pt": "Qoin, Visa.",
+    "en": "Qoin, Visa. Netherlands"
   },
   "59d2f091a0624f4ad4889120": {
     "ru": "",
