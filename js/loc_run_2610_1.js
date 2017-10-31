@@ -7,18 +7,19 @@ if (lssr.indexOf('elng=')!=-1) {
 	if (typeof(locall[elng])!= "undefined") localizer_set=elng;
 }
 
-if (typeof(localizer_set)== "undefined") {
-	// У нас нет языка по умолчанию
-	var userLang = navigator.language || navigator.userLanguage;
-	console.log('set lang to ['+userLang+']');
-	if (typeof(locall[userLang])!= "undefined") {
-		setCookie("localizer_set", userLang, {expires: 3600*24*30});
-		chlang(userLang);
+if (typeof(locdata)!= "undefined") {
+	if (typeof(localizer_set)== "undefined") {
+		// У нас нет языка по умолчанию
+		var userLang = navigator.language || navigator.userLanguage;
+		console.log('set lang to ['+userLang+']');
+		if (typeof(locall[userLang])!= "undefined") {
+			setCookie("localizer_set", userLang, {expires: 3600*24*30});
+			chlang(userLang);
+		}
+	} else {
+		chlang(localizer_set);
 	}
-} else {
-	chlang(localizer_set);
 }
-
 // Попап логика
 if (typeof(popd)!= "undefined") {
 
