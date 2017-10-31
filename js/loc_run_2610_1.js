@@ -185,8 +185,8 @@ function setCookie(name, value, options) {
 function getHash(){
 	var loc = window.location.hash.replace('#','');
 	if (loc!='' && loc!='close') {
-		var locel=document.getElementById('popt');
-		if (s) {	// Если такое элемент есть
+		var locel=document.getElementById(loc);
+		if (locel) {	// Если такое элемент есть
 			var target_top= $('#'+loc).offset().top;
 			$('html, body').animate({scrollTop:target_top}, 'slow');
 		}
