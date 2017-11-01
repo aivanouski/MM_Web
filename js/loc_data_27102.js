@@ -10,7 +10,7 @@ locdata={
     "zh": "<span style=\"color: #ff6800;\">第一家基于区块链的征信和社会小额信贷机构</span><br/>现在就进行众筹",
     "pt": "<span style=\"color: #ff6800;\">1ª Agência de Crédito Blockchain e Microfinanças Sociais</span><br/>Crowdsale em andamento",
     "en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses</span><br/> Since 2015, 100.000+ users! Join Now Token Offering !",
-    "vi": ""
+    "vi": "<span style=\"color: #ff6800;\">MicroMoney dành cho người & BigData cho doanh nghiệp</span><br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !",
   },
   "new73": {
     "ru": "Хотите внести более $10,000?<br/>Присоединйтесь к телеграм группе для получения дополнительных бонусов",
@@ -23,7 +23,7 @@ locdata={
     "zh": "出资10,000美元或是更多？ <br/>加入我们的Telegram，获取比您在这里所看到的还要好的奖励。",
     "pt": "Contribuindo com US$ 10.000 ou mais?<br/>Adira ao nosso Telegram para ganhar bônus ainda melhores do que os que você está vendo aqui",
     "en": "Contributing $10,000 or more?<br/>Join our Telegram for even better bonuses than what you see here.",
-    "vi": ""
+    "vi": "Gói 10.000 $ trở lên?<br/>Tham gia Telegram của chúng tôi để nhận được những khoản thưởng tốt hơn những gì bạn thấy ở đây."
   },
   "new74": {
     "ru": "Купите наши токены сейчас и оплатите в любых альткоинах из ТОП-30, включая Bitcoin Cash и Bitcoin Gold",
@@ -39,7 +39,7 @@ locdata={
     "vi": "Mua ngay Token của chúng tôi và thanh toán bằng bất kỳ loại coin nào trong top  30, kể cả Bitcoin Cash và Bitcoin Gold."
   },
   "new75": {
-    "ru": "Пишите сейчас на ",
+    "ru": "Пишите нам сейчас ",
     "es": "¡Contáctenos AHORA por ",
     "it": "Contatta ORA ",
     "de": "Kontaktieren Sie uns über ",
@@ -49,7 +49,7 @@ locdata={
     "zh": "现在就与 ",
     "pt": "entre em contato conosco AGORA via ",
     "en": "contact NOW ",
-    "vi": ""
+    "vi": "Liên hệ ngay"
   },
   "new76": {
     "ru": "Для вложений в ETH или BTC пожалуйста используйте виджет снизу",
@@ -62,7 +62,7 @@ locdata={
     "zh": "如果您要使用以太币或比特币来参与众筹，那么请使用下述组件。",
     "pt": "Para contribuir com ETH ou BTC, use o widget abaixo.",
     "en": "To contribute using ETH or BTC please use the widget below.",
-    "vi": ""
+    "vi": "Để đóng góp bằng cách sử dụng ETH hoặc BTC, hãy sử dụng tiện ích bên dưới."
   },
   "new77": {
     "ru": "Мы собрали:",
@@ -75,7 +75,7 @@ locdata={
     "zh": "我们筹集了：",
     "pt": "Arrecadamos:",
     "en": "We raised:",
-    "vi": ""
+    "vi": "Chúng tôi đã góp được: "
   },
   "59d2f090a0624f4ad4889043": {
     "ru": "Документы",
@@ -88,7 +88,7 @@ locdata={
     "zh": "文件",
     "pt": "Documentos",
     "en": "Documents",
-    "vi": ""
+    "vi": "Các tài liệu"
   },
   "59d2f090a0624f4ad4889044": {
     "ru": "Планы развития",
@@ -127,7 +127,7 @@ locdata={
     "zh": "团队",
     "pt": "Equipe",
     "en": "Team",
-    "vi": ""
+    "vi": "Đội"
   },
   "59d2f090a0624f4ad4889047": {
     "ru": "Истории",
@@ -140,7 +140,7 @@ locdata={
     "zh": "客戶故事",
     "pt": "Histórias",
     "en": "Stories",
-    "vi": ""
+    "vi": "Những câu chuyện"
   },
   "59d2f090a0624f4ad4889048": {
     "ru": "Пресса",
@@ -166,7 +166,7 @@ locdata={
     "zh": "博客",
     "pt": "Blog",
     "en": "Blog",
-    "vi": ""
+    "vi": "Blog"
   },
   "59d2f090a0624f4ad488904c": {
     "ru": "Купить токены",
@@ -179,20 +179,7 @@ locdata={
     "zh": "購買令牌",
     "pt": "Contribuir",
     "en": "Contribute",
-    "vi": ""
-  },
-  "59d2f090a0624f4ad488904d": {
-    "ru": "Привет! Присоединяйся сейчас! Вместе мы можем сделать этот мир лучше.",
-    "es": "MicroMoney para la comunidad y grandes volúmenes de datos para el negocio",
-    "it": "BLOCKCHAIN ELIMINA LA POVERTA'!   PER SEMPRE. Unisciti a noi adesso!",
-    "de": "MicroMoney für die Menschen und Big Data fürs Geschäft",
-    "fr": "MicroMoney pour les personnes et de larges données pour les entreprises",
-    "ja": "ブロックチェーンは永遠に貧困を排除します! 今すぐご参加ください!",
-    "ko": "사람을 위한 MicroMoney 및 기업을 위한 대용량 데이터  ",
-    "zh": "针对个人的MicroMoney 和针对企业的庞大数据",
-    "pt": "MicroMoney para pessoas e dados grandes para negócios",
-    "en": "BLOCKCHAIN ELIMINATES POVERTY! FOREVER. </br>The token distribution started. </br>Join us now!",
-    "vi": ""
+    "vi": "Góp phần"
   },
   "59d2f090a0624f4ad488904e": {
     "ru": "Мы знаем, как привлечь в новый мир криптоэкономики 2 миллиарда людей, у которых нет доступа к банковским услугам и которые вынуждены всю жизнь иметь дело только с наличными. Мы делаем это уже два года.",
@@ -257,7 +244,7 @@ locdata={
     "zh": "加入Telegram",
     "pt": "Participe do Telegram",
     "en": "Join Telegram",
-    "vi": ""
+    "vi": "Tham gia Telegram"
   },
   "59d2f090a0624f4ad4889052": {
     "ru": "Время до окончания кампании",
@@ -374,7 +361,7 @@ locdata={
     "zh": "在全世界196个国家中的100个国家生活着2000000000非银行用户： 他们只使用现金，没有任何信用记录，无法使用任何金融服务，其中超过60%的人拥有智能手机，80%的 人在 Facebook进行了注册。",
     "pt": "Em 100 dos 196 países do mundo vivem 2.000.000.000 de pessoas sem qualquer acesso a bancos, pessoas que utilizam apenas dinheiro vivo, não têm histórico de crédito nem acesso a nenhum serviço financeiro. É importante referir que, apesar disso, a maioria dessas pessoas tem smartphones e usa as redes sociais regularmente. Estamos perante uma imensa quantidade de novos dados e um número substancial de potenciais novos clientes. As instituições financeiras não têm nenhuma informação sobre esses clientes ou sua capacidade de solvência, por isso não querem assumir riscos com serviços direcionados para essas pessoas. No entanto, elas continuam precisando de dinheiro e as empresas, certamente, continuam precisando de novos clientes para sobreviver no nosso mundo competitivo!",
     "en": "100 out of 196 countries in the world serve as a home for 2,000,000,000 unbanked people, who use cash only, do not have any credit history and do not have access to any financial services. It is essential to note that most of these people use their smartphones and social networks on a regular basis . This is a tremendous amount of a new data and a substantial number of new potential clients. Financial institutions do not have any information about these clients and their creditworthiness, thus they do not want to take a risk to serve these people. However, these people still need funds and surely businesses still need new customers to survive a competition!",
-    "vi": ""
+    "vi": "100 trong số 196 quốc gia trên thế giới phục vụ như là một ngôi nhà cho 2.000.000.000 người không có ngân hàng, chỉ sử dụng tiền mặt, không có lịch sử tín dụng và không có bất kỳ dịch vụ tài chính nào. Cần lưu ý rằng hầu hết những người này sử dụng điện thoại thông minh và mạng xã hội của họ thường xuyên. Đây là một lượng lớn dữ liệu mới và một số lượng đáng kể các khách hàng tiềm năng mới. Các tổ chức tài chính không có bất kỳ thông tin nào về các khách hàng này và mức độ tin cậy của họ, do đó họ không muốn có một nguy cơ để phục vụ những người này. Tuy nhiên, những người này vẫn cần tiền và chắc chắn các doanh nghiệp vẫn cần khách hàng mới để tồn tại một cuộc thi!"
   },
   "59d2f090a0624f4ad488905c": {
     "ru": "Мы здесь, чтобы помочь этим 2 миллиардам людей получить все возможности мировой криптоиндустрии!",
@@ -452,7 +439,7 @@ locdata={
     "zh": "我们每年能为全球加密经济吸引超过7万亿美元",
     "pt": "Um negócio que envolve vários trilhões de dólares com enorme potencial de crescimento! A demanda por nosso tipo de inclusão financeira é enorme e continua aumentando. Podemos adicionar mais de 7 trilhões de dólares em volume anual da Economia Global da Moeda Criptografada",
     "en": "A multi trillion dollar business with huge growth potencial! The demand for our type of financial inclusion is huge and on the rise. We can add over 7 trillion dollars in annual volume of Global Crypto Economy",
-    "vi": ""
+    "vi": "Một doanh nghiệp trị giá nhiều nghìn tỷ $ với tiềm năng phát triển rất lớn! Nhu cầu về loại hình bao gồm tài chính của chúng tôi là rất lớn và đang gia tăng. Chúng ta có thể bổ sung hơn 7 nghìn tỷ USD khối lượng hàng năm của nền kinh tế Crypto Toàn cầu"
   },
   "59d2f090a0624f4ad4889062": {
     "ru": "Камбоджа",
@@ -465,7 +452,7 @@ locdata={
     "zh": "柬埔寨市场",
     "pt": "Camboja",
     "en": "Cambodia",
-    "vi": ""
+    "vi": "Campuchia"
   },
   "59d2f090a0624f4ad4889063": {
     "ru": "Мьянма",
@@ -478,7 +465,7 @@ locdata={
     "zh": "缅甸",
     "pt": "Myanmar",
     "en": "Myanmar",
-    "vi": ""
+    "vi": "Myanmar"
   },
   "59d2f090a0624f4ad4889064": {
     "ru": "Азия, Китай",
@@ -491,7 +478,7 @@ locdata={
     "zh": "亚洲，中国",
     "pt": "Ásia, China",
     "en": "Asia, China",
-    "vi": ""
+    "vi": "Châu Á, Trung Quốc"
   },
   "59d2f090a0624f4ad4889065": {
     "ru": "Индия",
@@ -504,7 +491,7 @@ locdata={
     "zh": "印度",
     "pt": "Índia",
     "en": "India",
-    "vi": ""
+    "vi": "Ấn Độ"
   },
   "59d2f090a0624f4ad4889066": {
     "ru": "Латинская Америка",
@@ -517,7 +504,7 @@ locdata={
     "zh": "拉丁美洲",
     "pt": "América Latina",
     "en": "Latin America",
-    "vi": ""
+    "vi": "Mỹ La-tinh"
   },
   "59d2f0b9f8edb31768a67c28": {
     "ru": "Ближний Восток, Европа, США",
@@ -530,7 +517,7 @@ locdata={
     "zh": "中东、欧洲、美国啊",
     "pt": "Médio Oriente, Europa, EUA",
     "en": "Middle East <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> Europe <i>&nbsp;&nbsp;&nbsp;&nbsp;</i> USA <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>",
-    "vi": ""
+    "vi": "Trung Đông, Châu Âu, Hoa Kỳ"
   },
   "59d2f090a0624f4ad488906a": {
     "ru": "Достижения",
@@ -569,7 +556,7 @@ locdata={
     "zh": "1500万人",
     "pt": "15 milhões de pessoas",
     "en": "15 mln people",
-    "vi": ""
+    "vi": "15 triệu người"
   },
   "59d2f090a0624f4ad488906d": {
     "ru": "Бизнес-модель:",
@@ -582,7 +569,7 @@ locdata={
     "zh": "经营模式：",
     "pt": "Modelo de Negócio:",
     "en": "Business Model:",
-    "vi": ""
+    "vi": "Mô hình kinh doanh:"
   },
   "59d2f090a0624f4ad488906f": {
     "ru": "Таиланд",
@@ -595,7 +582,7 @@ locdata={
     "zh": "泰国",
     "pt": "Tailândia",
     "en": "Thailand",
-    "vi": ""
+    "vi": "nước Thái Lan"
   },
   "59d2f090a0624f4ad4889070": {
     "ru": "Мы будем через 3 месяца (в 4 квартале 2017 года)",
@@ -608,7 +595,7 @@ locdata={
     "zh": "经过3个月2017 年第4季度我们将进入",
     "pt": "Começaremos a trabalhar dentro de 3 meses / No 4º trimestre de 2017",
     "en": "We are starting in 3 months / Q4 2017",
-    "vi": ""
+    "vi": "Chúng tôi bắt đầu trong 3 tháng / quý 4 năm 2017"
   },
   "59d2f090a0624f4ad4889071": {
     "ru": "Индонезия",
@@ -621,7 +608,7 @@ locdata={
     "zh": "印度尼西亚",
     "pt": "Indonésia",
     "en": "Indonesia",
-    "vi": ""
+    "vi": "nước Nam dương"
   },
   "59d2f090a0624f4ad4889072": {
     "ru": "Шри-Ланка",
@@ -647,7 +634,7 @@ locdata={
     "zh": "菲律宾",
     "pt": "Filipinas",
     "en": "Philippines",
-    "vi": ""
+    "vi": "nước Phi luật tân"
   },
   "59d2f090a0624f4ad4889074": {
     "ru": "Все готово к запуску в еще 6 странах",
@@ -673,7 +660,7 @@ locdata={
     "zh": "香港",
     "pt": "Hong Kong",
     "en": "Hong Kong",
-    "vi": ""
+    "vi": "Hồng Kông"
   },
   "59d2f090a0624f4ad4889076": {
     "ru": "Вьетнам",
@@ -686,7 +673,7 @@ locdata={
     "zh": "越南",
     "pt": "Vietnã",
     "en": "Vietnam",
-    "vi": ""
+    "vi": "Việt Nam"
   },
   "59d2f090a0624f4ad4889077": {
     "ru": "Китай",
@@ -699,7 +686,7 @@ locdata={
     "zh": "中国大陆",
     "pt": "China",
     "en": "China",
-    "vi": ""
+    "vi": "Trung Quốc"
   },
   "59d2f090a0624f4ad4889078": {
     "ru": "1,380 миллиарда людей",
@@ -712,7 +699,7 @@ locdata={
     "zh": "1,380亿人",
     "pt": "1.380 bilhões de pessoas",
     "en": "1,380 bln people",
-    "vi": ""
+    "vi": "1.380 tỷ người"
   },
   "59d2f090a0624f4ad4889079": {
     "ru": "Малайзия",
@@ -725,7 +712,7 @@ locdata={
     "zh": "马来西亚",
     "pt": "Malásia",
     "en": "Malaysia",
-    "vi": ""
+    "vi": "bán đảo Mã lai"
   },
   "59d2f090a0624f4ad488907a": {
     "ru": "Сингапур",
