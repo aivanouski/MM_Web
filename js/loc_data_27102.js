@@ -725,7 +725,7 @@ locdata={
     "zh": "新加坡",
     "pt": "Singapura",
     "en": "Singapore",
-    "vi": ""
+    "vi": "Singapore"
   },
   "59d2f090a0624f4ad488907b": {
     "ru": "Нигерия",
@@ -751,7 +751,7 @@ locdata={
     "zh": "很快",
     "pt": "Estará em breve disponível ",
     "en": "Business Model: Will be soon",
-    "vi": ""
+    "vi": "Mô hình kinh doanh: Sẽ sớm"
   },
   "59d2f090a0624f4ad488907d": {
     "ru": "У MicroMoney - одна из немногих кампаний по дистрибьюций токенов, в которых есть рабочий продукт и действующая бизнес-модель: людям нужны деньги, а компаниям нужны клиенты.",

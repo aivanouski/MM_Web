@@ -87,7 +87,7 @@ function chlang(lang){
 			'dli':'img/socials/white/wechat.svg'
 		},
 		'ko':{
-			'dla':'https://open.kakao.com/o/g5xztlC',
+			'dla':'https://open.kakao.com/o/gmWcCnB',
 			'dlt':'텔레그램 KakaoTalk',
 			'dli':'img/socials/white/kakaotalk.png'
 		},
