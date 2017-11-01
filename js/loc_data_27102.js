@@ -3315,17 +3315,17 @@ locdata={
     "vi": ""
   },
   "New113": {
-    "ru": "Токен бонус",
-    "es": "TOKEN SALE BONUS",
-    "it": "BONUS DI VENDITA TOKEN",
-    "de": "TOKEN SALE BONUS",
-    "fr": "BONUS DE VENTE DE JETON",
-    "ja": "TOKEN SALEボーナス",
-    "ko": "토큰 판매 보너스",
-    "zh": "東京銷售獎金",
-    "pt": "TOKEN VALE BONUS",
+    "ru": "Время до окончания кампании",
+    "es": "Tiempo restante hasta el final de la campaña",
+    "it": "Tempo rimasto fino alla fine della campagna",
+    "de": "Zeit bis zum Ende der Kampagne",
+    "fr": "Temps restant jusqu'à la fin de la campagne",
+    "ja": "キャンペーン終了までの時間",
+    "ko": "캠페인이 끝날 때까지 남은 시간",
+    "zh": "時間到運動結束",
+    "pt": "Tempo restante até o final da campanha",
     "en": "Time left until the end of campaign",
-    "vi": ""
+    "vi": "Thời gian còn lại cho đến khi kết thúc chiến dịch"
   },
   "New114": {
     "ru": "Заканчивается через",
