@@ -3339,6 +3339,32 @@ locdata={
     "pt": "TERMINA EM",
     "en": "ENDS IN",
     "vi": ""
+  },
+  "New120": {
+    "ru": "",
+    "es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "",
+    "zh": "",
+    "pt": "",
+    "en": "MicroMoney Blockchain Credit Bureau MicroMoney Expands Token Distribution Campaign.",
+    "vi": ""
+  },
+  "New121": {
+    "ru": "",
+    "es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "",
+    "zh": "",
+    "pt": "",
+    "en": "MicroMoney Taking Steps to Combat Financial Exclusion",
+    "vi": ""
   }
 };
 
