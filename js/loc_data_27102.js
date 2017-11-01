@@ -3378,6 +3378,7 @@ locall={
     'ja':'日本語',                 // японский
     'ko':'한국어',                     // корейский
     'zh':'中國',                      // китайский
+	'vi':'Tiếng Việt',                      // вьетнамсий
     'pt':'Portugues'                // португальский
 };
 
@@ -3391,5 +3392,6 @@ wplink={
     'ja':'/wp/Micromoney_whitepaper_JP.pdf',
     'ko':'/wp/Micromoney_whitepaper_KO.pdf',
     'zh':'/wp/Micromoney_whitepaper_CN.pdf',
+	'vi':'/wp/Micromoney_whitepaper_VI.pdf',
     'pt':'/wp/Micromoney_whitepaper_BR.pdf'
 };
