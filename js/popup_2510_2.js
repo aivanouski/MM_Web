@@ -1,5 +1,10 @@
 // Список активных попапов
+//var ssc='<div class="subscribe"><form action="//micromoney.us16.list-manage.com/subscribe/post?u=baf855c4f25ef91d97dd211c6&amp;id=0615f09eba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""><div class="input-wrap"><input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required=""><p localizerid="59d2f090a0624f4ad4889058">Type correct email</p></div><button type="submit" onclick="fbq(\'track\', \'CompleteRegistration\'); ga(\'send\', \'event\', \'Subscribe\', \'Subscribe mailchimp\');" localizerid="59d2f090a0624f4ad4889059">Subscribe now</button></form></div>';
+
 var popd={
+	
+	
+	
 	/*	
 	1:{
 		'l':['ru','ko','en'], 				// lang list
@@ -43,5 +48,22 @@ var popd={
 		'b':{
 			'en':'Welcome to MicroMoney’s Webinar, supporting the world’s first, fully transparent token distribution campaign. Today we will discuss the AMM token model, how it relates to the MicroMoney ecosystem, what our business expansion plans are, and how this affects token value.</br></br> You will also get the opportunity to meet Anton Dzyatkovsky, MicroMoney co-founder, and Vasily Sumanov, blockchain analyst and MicroMoney project advisor </br></br><a style="color:blue;" href="https://zoom.us/j/595621534" target="_blank">The Webinar begins at 15:00 (GMT) 27 October 2017.</a>',
 			},
-	}*/
+	}
+	0:{
+		// lang list - еmpty - for all
+		//'h':['630px'], 
+		'l':['en'],
+		't':{
+			'en':'Subscribe us',
+			},
+		's':{
+			'en':'Subscribe dude pls',
+			},
+		'b':{
+			'en':ssc,
+			},
+	}	
+	 */ 
+ 
+	
 };

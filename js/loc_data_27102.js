@@ -1453,7 +1453,7 @@ locdata={
     "zh": "更多",
     "pt": "Mais de",
     "en": "More than",
-    "vi": ""
+    "vi": "Nhiều hơn"
   },
   "59d2f090a0624f4ad48890c4_2": {
     "ru": "уникальных клиентов",
@@ -1466,7 +1466,7 @@ locdata={
     "zh": "獨特的客戶",
     "pt": "clientes",
     "en": "unique customers",
-    "vi": ""
+    "vi": "khách hàng độc nhất"
   },
   "59d2f090a0624f4ad48890c5": {
     "ru": "Тайвань",
@@ -1479,7 +1479,7 @@ locdata={
     "zh": "台湾",
     "pt": "",
     "en": "Taiwan",
-    "vi": ""
+    "vi": "Đài Loan"
   },
   "59d2f090a0624f4ad48890c6": {
     "ru": "Южная Корея",
@@ -1492,7 +1492,7 @@ locdata={
     "zh": "韩国",
     "pt": "Coreia do Sul",
     "en": "South Korea",
-    "vi": ""
+    "vi": "Nam Triều Tiên"
   },
   "59d2f090a0624f4ad48890c7": {
     "ru": "Африка",
@@ -1505,7 +1505,7 @@ locdata={
     "zh": "非洲",
     "pt": "",
     "en": "Africa",
-    "vi": ""
+    "vi": "Châu phi"
   },
   "59d2f090a0624f4ad4889067": {
     "ru": "Ближний Восток",
@@ -1518,7 +1518,7 @@ locdata={
     "zh": "",
     "pt": "",
     "en": "Middle East",
-    "vi": ""
+    "vi": "Trung đông"
   },
   "59d2f090a0624f4ad4889068": {
     "ru": "Европа",
@@ -1531,7 +1531,7 @@ locdata={
     "zh": "欧洲",
     "pt": "",
     "en": "Europe",
-    "vi": ""
+    "vi": "Châu Âu"
   },
   "59d2f090a0624f4ad4889069": {
     "ru": "США",
@@ -1557,7 +1557,7 @@ locdata={
     "zh": "至2020年第4季度",
     "pt": "Antes do 4º trimestre de 2020",
     "en": "Up to Q4 2020",
-    "vi": ""
+    "vi": "Tính đến quý 4 năm 2020"
   },
   "59d2f090a0624f4ad48890c9": {
     "ru": "Мы сделаем все возможное, чтобы достичь к 2020 году рыночной стоимости MicroMoney в размере 1 млрд долларов",
