@@ -36,6 +36,24 @@
     antc.run('antc.track.trackCode', 2);
   </script>
 
+	<!-- Facebook Pixel Code -->
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '1514236265337478');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	  src="https://www.facebook.com/tr?id=1514236265337478&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Facebook Pixel Code -->
+  
 </head>
 <body>
 <!-- TimeBonusInfo -->
@@ -114,7 +132,7 @@
 		<a onclick="chlang('vi')" style="cursor:pointer;"><img src="img/lang/vi.svg">VI</a>
       </div>
 
-      <a class="subscribe-link" href="/join" localizerid="59d2f090a0624f4ad488904c">Contribute</a>
+      <a class="subscribe-link" href="/join" onclick="fbq('track', 'Lead');" localizerid="59d2f090a0624f4ad488904c">Contribute</a>
 
       <div class="mobile-nav-toggle">
         <span></span>
@@ -149,7 +167,7 @@
         Contributing $10,000 or more? Join our Telegram for even better bonuses than what you see here.
       </div>
 
-      <a href="/join" class="btn reveal-first" localizerid="59d2f090a0624f4ad488904c">Contribute</a>
+      <a href="/join" onclick="fbq('track', 'Lead');" class="btn reveal-first" localizerid="59d2f090a0624f4ad488904c">Contribute</a>
 
       <a id="dla" href="/bar/wee.png" target="_blank" style="display:none;" class="btn btn__info reveal-first">
         <img id="dli" src="img/socials/white/line.svg" style="vertical-align:  middle; width: 16px;">
@@ -232,7 +250,7 @@
           </div>
         </div>
       </div>
-
+  
       <div class="countdown-panel">
         <div class="countdown-panel_title">
           <div class="js-current-bonus">
@@ -259,7 +277,7 @@
         </div>
 
         <div class="btn" >
-          <a class="subscribe-link" href="/join" localizerid="59d2f090a0624f4ad488904c">
+          <a class="subscribe-link" href="/join" onclick="fbq('track', 'Lead');"  localizerid="59d2f090a0624f4ad488904c">
             Contribute
           </a>
         </div>
