@@ -2197,17 +2197,17 @@ locdata={
     "vi": ""
   },
   "59d2f091a0624f4ad48890fe": {
-    "ru": "Группа SONATRA, Камбоджа",
-    "es": "Grupo SONATRA, Camboya",
-    "it": "Gruppo SONATRA, Cambogia",
-    "de": "SONATRA-Unternehmensgruppe, Kambodscha",
-    "fr": "Le Groupe SONATRA, Cambodge",
-    "ja": "SONATRAグループ、カンボジア",
+    "ru": "Группа SONATRA, Камбоджа. Советник примьер министра Камбоджии по финансовому сектору. Совладелец",
+    "es": "Grupo SONATRA, Camboya. Asesor del Primer Ministro de Camboya de Comercio, Accionista.",
+    "it": "Gruppo SONATRA, Cambogia. Consigliere per Primo Ministro della Cambogia del Commercio, Azionista.",
+    "de": "SONATRA-Unternehmensgruppe, Kambodscha. Berater für Premierminister von Kambodscha für Handel, Aktionär.",
+    "fr": "Le Groupe SONATRA, Cambodge. Conseiller du Premier Ministre du Cambodge du Commerce, Actionnaire.",
+    "ja": "SONATRAグループ、カンボジア カンボジア首相顧問、株主。",
     "ko": "SONATRA 그룹 캄보디아. 캄보디아 총리의 재정 고문. 주주",
-    "zh": "柬埔寨，SONATRA集团",
-    "pt": "Grupo SONATRA, Camboja",
+    "zh": "柬埔寨，SONATRA集团 商務部柬埔寨總理顧問，股東。",
+    "pt": "Grupo SONATRA, Camboja. Assessor do Primeiro Ministro do Camboja de Comércio, Acionista.",
     "en": "Sontra Group, Cambodia, Advisor for Prime Minister and Vice President of Cambodia of Chamber of Commerce, Shareholder.",
-    "vi": ""
+    "vi": "Tập đoàn Sontra, Campuchia. Cố vấn của Thủ tướng Campuchia về Thương mại, Cổ đông."
   },
   "59d2f091a0624f4ad4889100": {
     "ru": "Группа SONATRA, East Wing Capital. Япония, 11 лет в Bloomberg. 29 лет в Finance, акционер",
