@@ -3307,35 +3307,35 @@
               </div>
             </div>
           </div>
-			  <!--   https://cp.unisender.com/ru/subscribe?hash=6fbnhcdsdxu9fdc5yjcxg318tyq5mr31n16p8kuzj4dbm3ctfyrgo -->
-          <form action="//micromoney.us16.list-manage.com/subscribe/post?u=baf855c4f25ef91d97dd211c6&amp;id=0615f09eba" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-            <div class="input-wrap">
-              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
-              <p localizerid="59d2f090a0624f4ad4889058">Type correct email</p>
-            </div>
-            <button type="submit" onclick="fbq('track', 'CompleteRegistration'); ga('send', 'event', 'Subscribe', 'Subscribe mailchimp');" localizerid="59d2f090a0624f4ad4889059">Subscribe now</button>
-			<input type="hidden" name="charset" value="UTF-8">
-			<input type="hidden" name="default_list_id" value="11296101">
-			<input type="hidden" name="overwrite" value="2">
-			<input type="hidden" name="is_v5" value="1">
-		  </form>
+		  
+			<form method="POST" action="https://cp.unisender.com/ru/subscribe?hash=6fbnhcdsdxu9fdc5yjcxg318tyq5mr31n16p8kuzj4dbm3ctfyrgo" name="subscribtion_form" us_mode="embed">
+				<div class="input-wrap">
+				  <input type="text" name="email" _validator="email" _required="1" class="email" id="mce-EMAIL" placeholder="email address" _label="Subscribe to our mailing list" placeholder="">             
+				  <p localizerid="59d2f090a0624f4ad4889058">Type correct email</p>
+				</div>
+				<button href="javascript:" localizerid="59d2f090a0624f4ad4889059" target="_blank" onclick="fbq('track', 'CompleteRegistration'); ga('send', 'event', 'Subscribe', 'Subscribe mailchimp');">Subscribe now</button>
+				<input type="hidden" name="charset" value="UTF-8">
+				<input type="hidden" name="default_list_id" value="11296101">
+				<input type="hidden" name="overwrite" value="2">
+				<input type="hidden" name="is_v5" value="1">
+			</form>
+		  
+			<div class="subscribe__links">
+				<a href="https://bitcointalk.org/index.php?topic=2199477.msg22113023#msg22113023" target="_blank" onclick="ga('send', 'event', 'Bitcointalk', 'BitcointalkJoin');">
+				  <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad488904f">Visit Bitcointalk</localizertextnode>
+				  <img src="img/ico-talks.svg">
+				</a>
 
-          <div class="subscribe__links">
-            <a href="https://bitcointalk.org/index.php?topic=2199477.msg22113023#msg22113023" target="_blank" onclick="ga('send', 'event', 'Bitcointalk', 'BitcointalkJoin');">
-              <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad488904f">Visit Bitcointalk</localizertextnode>
-              <img src="img/ico-talks.svg">
-            </a>
+				<a href="MicroMoney_whitepaper_ENG.pdf" whitepaperlink="1" target="_blank" onclick="ga('send', 'event', 'WP', 'download WP');">
+				  <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad4889050">Download Whitepaper</localizertextnode>
+				  <img src="img/ico-paper.svg">
+				</a>
 
-            <a href="MicroMoney_whitepaper_ENG.pdf" whitepaperlink="1" target="_blank" onclick="ga('send', 'event', 'WP', 'download WP');">
-              <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad4889050">Download Whitepaper</localizertextnode>
-              <img src="img/ico-paper.svg">
-            </a>
-
-            <a href="https://t.me/micromoneyico" target="_blank" onclick="ga('send', 'event', 'TG', 'JoinTG');">
-              <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad4889051">Join Telegram</localizertextnode>
-              <img src="img/ico-telegram.svg">
-            </a>
-          </div>
+				<a href="https://t.me/micromoneyico" target="_blank" onclick="ga('send', 'event', 'TG', 'JoinTG');">
+				  <localizertextnode style="display: inline;" localizerid="59d2f090a0624f4ad4889051">Join Telegram</localizertextnode>
+				  <img src="img/ico-telegram.svg">
+				</a>
+			</div>
 
         </div>
 
@@ -4666,5 +4666,14 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/shortcuts/inview.min.js"></script>-->
 
   <script type="text/javascript" src="/js/main.js?v=6"></script>
+  
+  
+<script type='text/javascript'>
+function get_params(form){
+		for(var i=0;i<form.elements.length;i++) console.log(form.elements[i].value);
+}
+</script>
+
+  
 </body>
 </html>
