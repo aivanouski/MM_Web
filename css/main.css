@@ -860,6 +860,22 @@ background: url(../img/video_slider/ar-r_2.png) no-repeat; }
 .rating_block {
   background: #fff;
   padding: 70px 0 70px;
+} 
+.rating_block h3{
+  font-size: 54px; 
+  color: #202020;  
+  letter-spacing: 1.23px; 
+  line-height: 65px; 
+  margin: 0 0 85px;
+}
+@media screen and (max-width: 767px){
+  .rating_block h3 {
+      font-size: 36px;
+      padding-left: 20px;
+      letter-spacing: 0.82px;
+      line-height: 39px;
+      margin-bottom: 32px;
+  }
 }      
 .rating_content {
   display: flex;
@@ -935,6 +951,114 @@ background: url(../img/video_slider/ar-r_2.png) no-repeat; }
   line-height: 24px;
   text-align: center;
 }
+
+.exchange_block {
+  padding: 70px 0;
+  background: #fff;
+}
+@media screen and (max-width: 767px){
+  .exchange_block .wrapper {
+      width: 100%;
+  }
+}
+@media screen and (max-width: 767px){
+  .exchange_block {
+      padding: 50px 15px;
+  }
+}
+.exchange_block h3{
+  font-size: 54px; 
+  color: #202020;  
+  letter-spacing: 1.23px; 
+  line-height: 65px; 
+  margin: 0 0 85px;
+}
+@media screen and (max-width: 767px){
+  .exchange_block h3 {
+      font-size: 36px;
+      letter-spacing: 0.82px;
+      line-height: 39px;
+      margin-bottom: 32px;
+  }
+}  
+.exchange__row {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 767px){
+  .exchange__row {
+    flex-direction: column;
+  }
+}
+.exchange__item {
+  width: 190px;
+    margin: 5px 12px 25px 12px;
+   /* -ms-flex-negative: 0;
+    flex-shrink: 0;*/
+    -webkit-box-shadow: 0 0 20px 0 rgba(0, 60, 136, 0.08);
+    box-shadow: 0 0 20px 0 rgba(0, 60, 136, 0.08);
+    border-radius: 12px;
+}
+@media screen and (max-width: 767px){
+  .exchange__item {
+      width: 220px;
+      margin: 0 auto 20px;
+   } 
+}
+
+.exchange__item img {
+  display: block;
+  max-width: 100%;
+}
+.exchange__content {
+  padding: 15px 10px 20px 10px;
+  background: #f5f5f5;
+}
+.exchange__content h2 {
+  margin: 0 0 15px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+  color: #202020;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+}
+.exchange__content a {
+  display: block;
+  margin: 0 auto;
+  width: 160px;
+  height: 35px;
+  line-height: 35px;
+  
+  font-size: 16px;
+  color: #FFFFFF;
+  text-align: center;
+  font-weight: 400;
+  vertical-align: middle;
+  background-color: #249ddb;
+  border-radius: 30px;
+  box-shadow: 10px 10px 30px rgba(0,0,0,.1);
+  transition: .3s ease-in-out;
+}
+.exchange__content a:hover,
+.exchange__content a:focus {
+  background: #f56b3c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*ico*/
 
