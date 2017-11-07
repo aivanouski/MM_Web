@@ -81,6 +81,9 @@ $(document).ready(function() {
       var alt = parseInt(progress.erc20).toLocaleString();
       $('.founded-money-alt').show().find('span').text(alt);
     }
+	
+	resetPB();
+	
   }
 
   window.sr = ScrollReveal({
@@ -140,3 +143,24 @@ $(document).ready(function() {
     };
   }
 });
+
+function resetPB(){
+	// прапорциональный прогресс бар
+
+	var ls=$('.js-progress-amm'); 
+	if (ls.length>0) {
+		var vals=$(ls[0]).html();
+		var vali = parseInt(vals.replace(/&nbsp;/g, ""));
+		//var vali = vals.split('&nbsp;').join('');
+		console.log('['+vali+']');
+	}
+
+	var lw=$('.progress-bar-current'); 
+	if (lw.length>0) {
+		// 16%- 1000 71% 15000
+		var np=[[0.16,1000000],[0.71,15000000]];
+		var dd=parseInt(np[1][0]*vali/(np[1][1]/100))+3;
+		//console.log(dd+'|'+np[1][0]+'|'+vali+'|'+np[1][1]+'|');
+		lw[0].style.width=dd+"%";
+	}	
+}
