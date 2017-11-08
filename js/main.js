@@ -164,7 +164,7 @@ $(document).ready(function() {
 
 function resetPB(){
 	// прапорциональный прогресс бар
-	dd=50;
+	dd=65;
 	var ls=$('.js-progress-amm'); 
 	if (ls.length>0) {
 		var vals=$(ls[0]).html();
