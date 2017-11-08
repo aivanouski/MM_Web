@@ -177,7 +177,8 @@ function resetPB(){
 	if (lw.length>0) {
 		// 16%- 1000 71% 15000
 		var np=[[0.16,1000000],[0.80,15000000]];
-		var dd=parseInt(np[1][0]*vali/(np[1][1]/100))+3;
+		var dd2=parseInt(np[1][0]*vali/(np[1][1]/100))+3;
+		if (dd2>40) dd=dd2;
 		//console.log(dd+'|'+np[1][0]+'|'+vali+'|'+np[1][1]+'|');
 		//lw[0].style.width=dd+"%";
 		$(lw[0]).width(dd+"%");
