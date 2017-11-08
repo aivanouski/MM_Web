@@ -61,7 +61,20 @@ $(document).ready(function() {
       }
     ]
   });
-
+/*
+  progressInfo={
+	  total:9155432.681978757,
+	  tokens:10703129.681979999,
+	  erc20:"804.3909764527846",
+	  participants:"591",
+	  payments : {
+		  BTC:{type: "BTC", amount: "280.5878617"},
+		  ETH:{type: "ETH", amount: "11648.03284067698"},
+		  USD:{type: "USD", amount: "3938702"},
+		  LTC:{type: "LTC", amount: "216.19669814999997"}
+	  }
+  };
+*/
   if (window.progressInfo) {
     var progress = window.progressInfo;
 	//console.log(progress);
@@ -71,6 +84,7 @@ $(document).ready(function() {
     var usd = parseInt(progress.payments.USD.amount).toLocaleString();
     var amm = (parseInt(progress.tokens) + parseInt(progress.bonus)).toLocaleString();
 
+	var popl = (parseInt(progress.participants) + 868).toLocaleString();
 	
 	
     $('.js-progress-total').text(current);
@@ -78,6 +92,7 @@ $(document).ready(function() {
     $('.js-progress-btc').text(btc);
     $('.js-progress-eth').text(eth);
     $('.js-progress-amm').text(amm);
+	$('.js-progress-popl').text(popl);
 
     if (progress.erc20) {
       var alt = parseInt(progress.erc20).toLocaleString();

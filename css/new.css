@@ -260,7 +260,7 @@ body {
   margin-right: 7px;
   vertical-align: middle;
 }
-
+.founded-money-popl:before,
 .founded-money-alt:before,
 .founded-money-amm:before,
 .founded-money-fiat:before,
@@ -275,7 +275,9 @@ body {
 .founded-money-fiat:before {
   content: 'Fiat USD'
 }
-
+.founded-money-popl:before {
+  content: 'Participants'
+}
 .founded-money-total img {
   margin-left: -5px;
   max-width: 6px;
