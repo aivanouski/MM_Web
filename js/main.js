@@ -64,13 +64,15 @@ $(document).ready(function() {
 
   if (window.progressInfo) {
     var progress = window.progressInfo;
-
+	console.log(progress);
     var current = parseInt(progress.total).toLocaleString();
     var btc = parseInt(progress.payments.BTC.amount).toLocaleString();
     var eth = parseInt(progress.payments.ETH.amount).toLocaleString();
     var usd = parseInt(progress.payments.USD.amount).toLocaleString();
     var amm = (parseInt(progress.tokens) + parseInt(progress.bonus)).toLocaleString();
 
+	
+	
     $('.js-progress-total').text(current);
     $('.js-progress-fiat').text(usd);
     $('.js-progress-btc').text(btc);
