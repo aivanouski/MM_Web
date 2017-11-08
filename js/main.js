@@ -64,7 +64,8 @@ $(document).ready(function() {
 /*
   progressInfo={
 	  total:9155432.681978757,
-	  tokens:10703129.681979999,
+	  bonus:10,
+	  tokens:13703129.681979999,
 	  erc20:"804.3909764527846",
 	  participants:"591",
 	  payments : {
@@ -77,7 +78,7 @@ $(document).ready(function() {
 */
   if (window.progressInfo) {
     var progress = window.progressInfo;
-	//console.log(progress);
+	console.log(progress);
     var current = parseInt(progress.total).toLocaleString();
     var btc = parseInt(progress.payments.BTC.amount).toLocaleString();
     var eth = parseInt(progress.payments.ETH.amount).toLocaleString();
@@ -169,7 +170,7 @@ function resetPB(){
 		var vals=$(ls[0]).html();
 		var vali = parseInt(vals.replace(/&nbsp;/g, ""));
 		//var vali = vals.split('&nbsp;').join('');
-		console.log('['+vali+']');
+		//console.log('['+vali+'|'+vals+']');
 	}
 
 	var lw=$('.progress-bar-current'); 
@@ -178,6 +179,7 @@ function resetPB(){
 		var np=[[0.16,1000000],[0.80,15000000]];
 		var dd=parseInt(np[1][0]*vali/(np[1][1]/100))+3;
 		//console.log(dd+'|'+np[1][0]+'|'+vali+'|'+np[1][1]+'|');
-		lw[0].style.width=dd+"%";
+		//lw[0].style.width=dd+"%";
+		$(lw[0]).width(dd+"%");
 	}	
 }
