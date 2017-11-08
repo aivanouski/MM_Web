@@ -158,7 +158,7 @@ function resetPB(){
 	var lw=$('.progress-bar-current'); 
 	if (lw.length>0) {
 		// 16%- 1000 71% 15000
-		var np=[[0.16,1000000],[0.71,15000000]];
+		var np=[[0.16,1000000],[0.95,15000000]];
 		var dd=parseInt(np[1][0]*vali/(np[1][1]/100))+3;
 		//console.log(dd+'|'+np[1][0]+'|'+vali+'|'+np[1][1]+'|');
 		lw[0].style.width=dd+"%";
