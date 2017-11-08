@@ -64,7 +64,7 @@ $(document).ready(function() {
 
   if (window.progressInfo) {
     var progress = window.progressInfo;
-	console.log(progress);
+	//console.log(progress);
     var current = parseInt(progress.total).toLocaleString();
     var btc = parseInt(progress.payments.BTC.amount).toLocaleString();
     var eth = parseInt(progress.payments.ETH.amount).toLocaleString();
