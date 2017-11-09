@@ -994,7 +994,8 @@ background: url(../img/video_slider/ar-r_2.png) no-repeat; }
 }
 .exchange__item {
   width: 190px;
-    margin: 5px 12px 25px 12px;
+    position:relative;
+	margin: 5px 12px 25px 12px;
    /* -ms-flex-negative: 0;
     flex-shrink: 0;*/
     -webkit-box-shadow: 0 0 20px 0 rgba(0, 60, 136, 0.08);
