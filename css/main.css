@@ -1008,6 +1008,19 @@ background: url(../img/video_slider/ar-r_2.png) no-repeat; }
    } 
 }
 
+.exchange__item .request-sent {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  padding: 3px 5px;
+  text-transform: uppercase;
+  color: #111;
+  font-size: 12px;
+  line-height: 12px;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 0 0 10px 0 rgba(0, 60, 136, 0.03);
+}
 .exchange__item img {
   display: block;
   max-width: 100%;
