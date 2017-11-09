@@ -61,7 +61,7 @@ $(document).ready(function() {
       }
     ]
   });
-/**/
+/*
   progressInfo={
 	  total:9267589.681978757,
 	  bonus:10,
@@ -75,7 +75,7 @@ $(document).ready(function() {
 		  LTC:{type: "LTC", amount: "216.19669814999997"}
 	  }
   };
-
+*/
   if (window.progressInfo) {
     var progress = window.progressInfo;
 	//console.log(progress);

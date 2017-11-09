@@ -260,6 +260,7 @@ body {
   margin-right: 7px;
   vertical-align: middle;
 }
+.founded-money-plan:before,
 .founded-money-popl:before,
 .founded-money-alt:before,
 .founded-money-amm:before,
@@ -274,6 +275,9 @@ body {
 
 .founded-money-fiat:before {
   content: 'Fiat USD'
+}
+.founded-money-plan:before {
+  content: 'HARD CAP'
 }
 .founded-money-popl:before {
   content: 'Participants'
