@@ -162,8 +162,9 @@ $(document).ready(function() {
   }
 });
 
+
 function resetPB(){
-	// прапорциональный прогресс бар
+	/*// прапорциональный прогресс бар
 	dd=65;
 	var ls=$('.js-progress-amm'); 
 	if (ls.length>0) {
@@ -182,5 +183,5 @@ function resetPB(){
 		//console.log(dd+'|'+np[1][0]+'|'+vali+'|'+np[1][1]+'|');
 		//lw[0].style.width=dd+"%";
 		$(lw[0]).width(dd+"%");
-	}	
+	}*/	
 }
