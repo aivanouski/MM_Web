@@ -61,21 +61,21 @@ $(document).ready(function() {
       }
     ]
   });
-/*
+/**/
   progressInfo={
-	  total:9155432.681978757,
+	  total:9267589.681978757,
 	  bonus:10,
-	  tokens:13703129.681979999,
+	  tokens:10921662.681979999,
 	  erc20:"804.3909764527846",
-	  participants:"591",
+	  participants:"660",
 	  payments : {
-		  BTC:{type: "BTC", amount: "280.5878617"},
-		  ETH:{type: "ETH", amount: "11648.03284067698"},
+		  BTC:{type: "BTC", amount: "283.5878617"},
+		  ETH:{type: "ETH", amount: "11963.03284067698"},
 		  USD:{type: "USD", amount: "3938702"},
 		  LTC:{type: "LTC", amount: "216.19669814999997"}
 	  }
   };
-*/
+
   if (window.progressInfo) {
     var progress = window.progressInfo;
 	//console.log(progress);

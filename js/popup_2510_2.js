@@ -63,7 +63,7 @@ var popd={
 			'en':ssc,
 			},
 	}	
-	 */ 
+	 
 	6:{
 		'l':['en'], 				// lang list
 		//'h':['630px'], 
@@ -77,5 +77,5 @@ var popd={
 			'en':'<ul><li>Benefits of purchasing AMM tokens<br>How AMM value is linked to the growth of MicroMoney as a business</li><li>Implications of participating in a token distribution campaign that is backed by a real company</li><li>Our transparency in accounting for funding objectives</li><li>How these funding milestones will be used to implement our roadmap</li></ul>The webinar begins at 15:00 (GMT) 8 November 2017<br>Join our webinar here: <a style="color:blue;" href="https://zoom.us/j/610249164" target="_blank">https://zoom.us/j/610249164</a>',
 			},
 	} 
-	
+	*/ 
 };
