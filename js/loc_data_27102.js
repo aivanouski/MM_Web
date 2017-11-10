@@ -167,7 +167,7 @@ locdata={
     "pt": "Blog",
     "en": "Blog",
     "vi": "Blog"
-  },
+  },/*
   "59d2f090a0624f4ad488904c": {
     "ru": "Купить токены",
     "es": "Contribuir",
@@ -179,6 +179,19 @@ locdata={
     "zh": "購買令牌",
     "pt": "Contribuir",
     "en": "Contribute",
+    "vi": "Góp phần"
+  },*/
+  "59d2f090a0624f4ad488904c": {
+    "ru": "Присоединиться!",
+    "es": "¡ÚNETE AHORA!",
+    "it": "ISCRIVITI ADESSO!",
+    "de": "JETZT BEITRETEN!",
+    "fr": "REJOINDRE MAINTENANT!",
+    "ja": "今すぐ参加しよう！",
+    "ko": "지금 가입하십시오!",
+    "zh": "馬上加入！",
+    "pt": "ENTRAR!",
+    "en": "JOIN NOW!",
     "vi": "Góp phần"
   },
   "59d2f090a0624f4ad488904e": {
