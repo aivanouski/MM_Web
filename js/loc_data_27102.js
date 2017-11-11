@@ -1,3 +1,6 @@
+
+bhref="style=\"padding: 3px 22px 3px !important; -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: background 0.4s ease 0s, border-color 0.4s ease 0s, -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s; transition: background 0.4s ease 0s, border-color 0.4s ease 0s, transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s;\" class=\"btn btn__info reveal-first\" >";
+
 locdata={
   "new71": {
     "ru": "<span style=\"color: #ff6800;\">Первое кредитное бюро на блокчейне и социальное микрофинансирование</span><br/>Распродажа токенов уже идет",
@@ -9,7 +12,7 @@ locdata={
     "ko": "<span style=\"color: #ff6800;\">제1 블록체인 신용 조사 기관 및 소셜 소액 금융</span><br/>지금 군중 판매 합니다.",
     "zh": "<span style=\"color: #ff6800;\">第一家基于区块链的征信和社会小额信贷机构</span><br/>现在就进行众筹",
     "pt": "<span style=\"color: #ff6800;\">1ª Agência de Crédito Blockchain e Microfinanças Sociais</span><br/>Crowdsale em andamento",
-    "en": "<span style=\"color: #ff6800;\">MicroMoney for people & BigData for businesses</span><br/> Since 2015, 100.000+ users! Join Now Token Offering !",
+    "en": "<span style=\"color: #ff6800;\">MICROMONEY is profitable business since 2015,<br/> 100.000+ users!</span><br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
     "vi": "<span style=\"color: #ff6800;\">MicroMoney dành cho người & BigData cho doanh nghiệp</span><br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !",
   },
   "new73": {
