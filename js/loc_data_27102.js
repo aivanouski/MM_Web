@@ -1,19 +1,19 @@
 
-bhref="style=\"padding: 3px 22px 3px !important; -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: background 0.4s ease 0s, border-color 0.4s ease 0s, -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s; transition: background 0.4s ease 0s, border-color 0.4s ease 0s, transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s;\" class=\"btn btn__info reveal-first\" >";
-
+bhref="style=\"background-color: #ffffff; color: #00529e; padding: 3px 22px 3px !important; -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: background 0.4s ease 0s, border-color 0.4s ease 0s, -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s; transition: background 0.4s ease 0s, border-color 0.4s ease 0s, transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 1s;\" class=\"btn btn__info reveal-first\" >";
+// <span style=\"color: #ff6800;\">
 locdata={
   "new71": {
-    "ru": "<span style=\"color: #ff6800;\">Первое кредитное бюро на блокчейне и социальное микрофинансирование</span><br/>Распродажа токенов уже идет",
-    "es": "<span style=\"color: #ff6800;\">1ra Oficina de Préstamos en Blockchain & Microfinanzas Sociales</span><br/>Crowdsale abierto",
-    "it": "<span style=\"color: #ff6800;\">1° Microfinanziamento Blockchain Ufficio di credito & sociale </span><br/>Crowdsale aperta",
-    "de": "<span style=\"color: #ff6800;\">Erste Blockchain Kreditauskunftei & soziale Mikrofinanzierung</span><br/>Weiter zum aktuellen Crowdsale",
-    "fr": "<span style=\"color: #ff6800;\">Premier Bureau de Crédit Blockchain et de Microfinance Sociale</span><br/>Crowdsale en cours",
-    "ja": "<span style=\"color: #ff6800;\">初のブロックチェーン信用調査所&ソーシャル・マイクロファイナンス</span><br/>クラウドセール現在開催中",
-    "ko": "<span style=\"color: #ff6800;\">제1 블록체인 신용 조사 기관 및 소셜 소액 금융</span><br/>지금 군중 판매 합니다.",
-    "zh": "<span style=\"color: #ff6800;\">第一家基于区块链的征信和社会小额信贷机构</span><br/>现在就进行众筹",
-    "pt": "<span style=\"color: #ff6800;\">1ª Agência de Crédito Blockchain e Microfinanças Sociais</span><br/>Crowdsale em andamento",
-    "en": "<span style=\"color: #ff6800;\">MICROMONEY is profitable business since 2015,<br/> 100.000+ users!</span><br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
-    "vi": "<span style=\"color: #ff6800;\">MicroMoney dành cho người & BigData cho doanh nghiệp</span><br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !",
+    "ru": "Первое кредитное бюро на блокчейне и социальное микрофинансирование<br/>Распродажа токенов уже идет",
+    "es": "1ra Oficina de Préstamos en Blockchain & Microfinanzas Sociales<br/>Crowdsale abierto",
+    "it": "1° Microfinanziamento Blockchain Ufficio di credito & sociale <br/>Crowdsale aperta",
+    "de": "Erste Blockchain Kreditauskunftei & soziale Mikrofinanzierung<br/>Weiter zum aktuellen Crowdsale",
+    "fr": "Premier Bureau de Crédit Blockchain et de Microfinance Sociale<br/>Crowdsale en cours",
+    "ja": "初のブロックチェーン信用調査所&ソーシャル・マイクロファイナンス<br/>クラウドセール現在開催中",
+    "ko": "제1 블록체인 신용 조사 기관 및 소셜 소액 금융<br/>지금 군중 판매 합니다.",
+    "zh": "第一家基于区块链的征信和社会小额信贷机构<br/>现在就进行众筹",
+    "pt": "1ª Agência de Crédito Blockchain e Microfinanças Sociais<br/>Crowdsale em andamento",
+    "en": "MICROMONEY is profitable business since 2015,<br/> 100.000+ users!<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "vi": "MicroMoney dành cho người & BigData cho doanh nghiệp<br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !",
   },
   "new73": {
     "ru": "Хотите внести более $10,000?<br/>Присоединйтесь к телеграм группе для получения дополнительных бонусов",
