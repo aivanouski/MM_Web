@@ -166,28 +166,33 @@ function setNavbarStuff() {
 /**/
 
 oCL=0;
+//console.log('[runs]');
 
+/*
 $(document).ready(function() {
     onDocumentready();
 });
 
 function onDocumentready() {
     $(window).load(function() {
-        onContentLoad();
+        console.log('[onContentLoad]');
+		onContentLoad();
     });
 }
-
+*/
 setTimeout(function() {
 	onContentLoad();
-	console.log('5sec');
-}, 7500);
+	//console.log('1sec');
+}, 500);
 
 $(window).resize(function() {
     resizeScroller();
 });
 
 function onContentLoad() {
-    if (oCL==1) return true;
+    //console.log('[onContentLoad-run('+oCL+')]');
+	if (oCL==1) return true;
+	
 	oCL=1;
 	$('html, body').animate({
         scrollTop: 0
@@ -206,7 +211,7 @@ function onContentLoad() {
             showContent();
 			getHash();
         });
-    }, 1000);
+    }, 500);
 }
 
 function showContent() {
