@@ -118,8 +118,8 @@ function chlang(lang){
 	var ua = navigator.userAgent;    
 
     
-	if (ua.search(/Chrome/) > 0 || ua.search(/MSIE/) > 0) {
-		// Для хромов покаываем whatsapp
+	if (ua.search(/Chrome/) > 0 ) {
+		// Для хромов покаываем whatsapp  || ua.search(/MSIE/) > 0
 		if (typeof(dld[lang])!= "undefined") {
 			document.getElementById("dla").href = dld[lang]['dla'];
 			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
