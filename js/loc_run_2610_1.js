@@ -82,6 +82,13 @@ function chlang(lang){
 
 	$('[whitepaperlink]').attr('href',wplink[lang]);
 
+	//var dlad='href="https://www.micromoney.io" rel="sidebar" onclick="addBookmark()">Add to favorites';
+	var dlad={
+			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
+			'dlt':'join zu whatsapp',
+			'dli':'img/socials/white/whatsapp.svg'
+		};
+
 	var dld={
 		'zh':{
 			'dla':'/img/bar/wee.png',
@@ -98,53 +105,37 @@ function chlang(lang){
 			'dlt':'Line に追加',
 			'dli':'img/socials/color/line_logo.png'
 		},
-		'de':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join zu whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'en':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'es':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'fr':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'it':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'pt':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'join whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		},
-		'ru':{
-			'dla':'https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6',
-			'dlt':'Войти в Whatsapp',
-			'dli':'img/socials/white/whatsapp.svg'
-		}
+		'de':dlad,
+		'en':dlad,
+		'es':dlad,
+		'fr':dlad,
+		'it':dlad,
+		'pt':dlad,
+		'ru':dlad
 	};
-	/**/
+
 	var dvol='none'; var del=document.getElementById("dla");
-	if (typeof(dld[lang])!= "undefined") {
-		dvol='';
+	var ua = navigator.userAgent;    
+
+    
+	if (ua.search(/Chrome/) > 0 || ua.search(/MSIE/) > 0) {
+		// Для хромов покаываем whatsapp
+		if (typeof(dld[lang])!= "undefined") {
+			document.getElementById("dla").href = dld[lang]['dla'];
+			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
+			document.getElementById("dli").src = dld[lang]['dli'];
+		}	
+		
+	} else {
+		// Для нехрома пытаемся добавить в закладки
 		document.getElementById("dla").href = dld[lang]['dla'];
-		document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
-		document.getElementById("dli").src = dld[lang]['dli'];
+		$("#dla").attr("rel",'sidebar'); $("#dla").attr("onclick",'addBookmark()');
+		document.getElementById("dla").href = 'https://www.micromoney.io';
+		document.getElementById("dlt").innerHTML = 'Add to favorites';	
 	}
-
+	dvol='';
 	del.style.display = dvol;
-
+	
 }
 
 //var script = document.createElement('script');script.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js";document.getElementsByTagName('head')[0].appendChild(script);
@@ -194,5 +185,11 @@ function getHash(){
 			//if (loc.substring(0, 4)=='news') target_top-=200; 
 			$('html, body').animate({scrollTop:target_top}, 'slow');
 		}
+	}
+}
+
+function addBookmark() {
+	if (document.all) {
+		window.external.addFavorite('https://www.micromoney.io', 'ICO micromoney.io');
 	}
 }
