@@ -1773,13 +1773,13 @@ locdata={
   "59d2f091a0624f4ad48890d8": {
     "ru": "План",
     "es": "",
-    "it": "Programma di sollevare",
+    "it": "Plan to raise",
     "de": "Wachstumsplan",
-    "fr": "Objectif à atteindre",
+    "fr": "Plan to raise",
     "ja": "増加計画",
     "ko": "모집 계획",
     "zh": "计划筹集",
-    "pt": "Plano de angariação",
+    "pt": "Plan to raise",
     "en": "Plan to raise",
     "vi": "Kế hoạch tăng"
   },
