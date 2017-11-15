@@ -3,17 +3,17 @@ bhref="style=\"background-color: #ffffff; color: #00529e; padding: 3px 22px 3px 
 // <span style=\"color: #ff6800;\">
 locdata={
   "new71": {
-    "ru": "Первое кредитное бюро на блокчейне и социальное микрофинансирование<br/>Распродажа токенов уже идет",
-    "es": "1ra Oficina de Préstamos en Blockchain & Microfinanzas Sociales<br/>Crowdsale abierto",
-    "it": "1° Microfinanziamento Blockchain Ufficio di credito & sociale <br/>Crowdsale aperta",
-    "de": "Erste Blockchain Kreditauskunftei & soziale Mikrofinanzierung<br/>Weiter zum aktuellen Crowdsale",
-    "fr": "Premier Bureau de Crédit Blockchain et de Microfinance Sociale<br/>Crowdsale en cours",
-    "ja": "初のブロックチェーン信用調査所&ソーシャル・マイクロファイナンス<br/>クラウドセール現在開催中",
-    "ko": "제1 블록체인 신용 조사 기관 및 소셜 소액 금융<br/>지금 군중 판매 합니다.",
-    "zh": "第一家基于区块链的征信和社会小额信贷机构<br/>现在就进行众筹",
-    "pt": "1ª Agência de Crédito Blockchain e Microfinanças Sociais<br/>Crowdsale em andamento",
+    "ru": "Первое кредитное бюро на блокчейне и социальное микрофинансирование<br/>Распродажа токенов уже идет<br/><a href=\"#exchange\""+bhref+"Уже шесть обменых бирж работают с нами</a>",
+    "es": "1ra Oficina de Préstamos en Blockchain & Microfinanzas Sociales<br/>Crowdsale abierto<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "it": "1° Microfinanziamento Blockchain Ufficio di credito & sociale <br/>Crowdsale aperta<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "de": "Erste Blockchain Kreditauskunftei & soziale Mikrofinanzierung<br/>Weiter zum aktuellen Crowdsale<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "fr": "Premier Bureau de Crédit Blockchain et de Microfinance Sociale<br/>Crowdsale en cours<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "ja": "初のブロックチェーン信用調査所&ソーシャル・マイクロファイナンス<br/>クラウドセール現在開催中<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "ko": "제1 블록체인 신용 조사 기관 및 소셜 소액 금융<br/>지금 군중 판매 합니다.<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "zh": "第一家基于区块链的征信和社会小额信贷机构<br/>现在就进行众筹<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
+    "pt": "1ª Agência de Crédito Blockchain e Microfinanças Sociais<br/>Crowdsale em andamento<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
     "en": "MICROMONEY is profitable business since 2015,<br/> 100.000+ users!<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
-    "vi": "MicroMoney dành cho người & BigData cho doanh nghiệp<br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !",
+    "vi": "MicroMoney dành cho người & BigData cho doanh nghiệp<br/> Kể từ năm 2015, 100.000 người dùng! Tham gia !<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
   },
   "new73": {
     "ru": "Хотите внести более $10,000?<br/>Присоединйтесь к телеграм группе для получения дополнительных бонусов",
