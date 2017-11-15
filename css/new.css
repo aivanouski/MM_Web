@@ -312,7 +312,7 @@ body {
   .progress-target:after {
     left: 100%;
   }
-  .progress-bar-current { width: 73%; }
+  .progress-bar-current { width: 68%; }
   .progress-soft-target {
     margin-left: 25%;  /*5%*/
   }
