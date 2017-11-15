@@ -123,7 +123,7 @@ function chlang(lang){
 		if (typeof(dld[lang])!= "undefined") {
 			document.getElementById("dla").href = dld[lang]['dla'];
 			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
-			document.getElementById("dli").src = dld[lang]['dli'];
+			$("#dli").attr("src",dld[lang]['dli']); //document.getElementById("dli").src = dld[lang]['dli'];
 		}	
 		
 	} else {
