@@ -1771,15 +1771,15 @@ locdata={
     "vi": "Tổng lượng cung (phân phối Token)"
   },
   "59d2f091a0624f4ad48890d8": {
-    "ru": "План",
+    "ru": "",
     "es": "",
-    "it": "Plan to raise",
+    "it": "",
     "de": "Wachstumsplan",
-    "fr": "Plan to raise",
-    "ja": "増加計画",
-    "ko": "모집 계획",
-    "zh": "计划筹集",
-    "pt": "Plan to raise",
+    "fr": "",
+    "ja": "",
+    "ko": "",
+    "zh": "",
+    "pt": "",
     "en": "Plan to raise",
     "vi": "Kế hoạch tăng"
   },
