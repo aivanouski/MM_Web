@@ -139,7 +139,6 @@ function chlang(lang){
 		
 	} else {
 		// Для нехрома пытаемся добавить в закладки
-		document.getElementById("dla").href = dld[lang]['dla'];
 		$("#dla").attr("rel",'sidebar'); $("#dla").attr("onclick",'addBookmark()');
 		document.getElementById("dla").href = 'https://www.micromoney.io';
 		document.getElementById("dlt").innerHTML = 'Add to favorites';	
