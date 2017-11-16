@@ -199,7 +199,7 @@ locdata={
   },
   */
   "59d2f090a0624f4ad488904c": {
-    "ru": "Получить свои токены",
+    "ru": "Получи свои токены!",
     "es": "¡ÚNETE AHORA!",
     "it": "ISCRIVITI ADESSO!",
     "de": "JETZT BEITRETEN!",
