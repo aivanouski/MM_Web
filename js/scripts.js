@@ -223,7 +223,7 @@ function showContent() {
     setNavbarStuff();
 
     setInterval(function() {
-        getTime('2017/11/25 15:59 UTC');
+        getTime('2017/11/17 15:59 UTC');
     }, 1000);
 
     $('.quotes__slider').slick({
