@@ -183,7 +183,7 @@ locdata={
     "pt": "Contribuir",
     "en": "Contribute",
     "vi": "Góp phần"
-  },*/
+  },
   "59d2f090a0624f4ad488904c": {
     "ru": "Присоединиться!",
     "es": "¡ÚNETE AHORA!",
@@ -195,6 +195,20 @@ locdata={
     "zh": "馬上加入！",
     "pt": "ENTRAR!",
     "en": "JOIN NOW!",
+    "vi": "Góp phần"
+  },
+  */,
+  "59d2f090a0624f4ad488904c": {
+    "ru": "Получить свои токены",
+    "es": "¡ÚNETE AHORA!",
+    "it": "ISCRIVITI ADESSO!",
+    "de": "JETZT BEITRETEN!",
+    "fr": "REJOINDRE MAINTENANT!",
+    "ja": "今すぐ参加しよう！",
+    "ko": "지금 가입하십시오!",
+    "zh": "馬上加入！",
+    "pt": "ENTRAR!",
+    "en": "GET YOU TOKENS NOW!",
     "vi": "Góp phần"
   },
   "59d2f090a0624f4ad488904e": {
