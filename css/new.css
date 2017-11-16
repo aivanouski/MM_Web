@@ -145,11 +145,12 @@ body {
 }
 
 .progress-number:after {
-  position: absolute;
+  /*position: absolute;
   left: 50%;
   margin-left: -1px;
   height: 10px;
-  width: 1px;
+  width: 1px;*/
+  display: none;
 }
 
 .progress-current {
