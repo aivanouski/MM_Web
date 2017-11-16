@@ -3,7 +3,7 @@ bhref="style=\"background-color: #ffffff; color: #00529e; padding: 3px 22px 3px 
 // <span style=\"color: #ff6800;\">
 locdata={
   "new71": {
-    "ru": "Первое кредитное бюро на блокчейне и социальное микрофинансирование<br/>Распродажа токенов уже идет<br/><a href=\"#exchange\""+bhref+"Уже шесть обменых бирж работают с нами</a>",
+    "ru": "Первое кредитное бюро на блокчейне и социальное микрофинансирование<br/>Распродажа токенов уже идет<br/><a href=\"#exchange\""+bhref+"Уже шесть обменных бирж работают с нами</a>",
     "es": "1ra Oficina de Préstamos en Blockchain & Microfinanzas Sociales<br/>Crowdsale abierto<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
     "it": "1° Microfinanziamento Blockchain Ufficio di credito & sociale <br/>Crowdsale aperta<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
     "de": "Erste Blockchain Kreditauskunftei & soziale Mikrofinanzierung<br/>Weiter zum aktuellen Crowdsale<br/><a href=\"#exchange\""+bhref+"6 token EXCHANGES already confirmed</a>",
