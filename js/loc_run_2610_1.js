@@ -201,5 +201,7 @@ function getHash(){
 function addBookmark() {
 	if (document.all) {
 		window.external.addFavorite('https://www.micromoney.io', 'ICO micromoney.io');
-	}
+	} else {
+		
+	}	
 }
