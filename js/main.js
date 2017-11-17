@@ -117,7 +117,7 @@ $(document).ready(function() {
 
   $('.countdown').each(function() {
     var $el = $(this);
-    var deadline = new Date(2017, 10, 17, 23, 59);  // 17
+    var deadline = new Date(2017, 10, 18, 07, 59);  // 17
 
     update();
 
