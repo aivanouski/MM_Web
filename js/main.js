@@ -92,7 +92,7 @@ $(document).ready(function() {
     $('.js-progress-fiat').text(usd);
     $('.js-progress-btc').text(btc);
     $('.js-progress-eth').text(eth);
-    $('.js-progress-amm').text(amm);
+    $('.js-progress-amm').text(current); //  amm
 	$('.js-progress-popl').text(popl);
 
     if (progress.erc20) {
