@@ -184,20 +184,7 @@ locdata={
     "en": "Contribute",
     "vi": "Góp phần"
   },
-  "59d2f090a0624f4ad488904c": {
-    "ru": "Присоединиться!",
-    "es": "¡ÚNETE AHORA!",
-    "it": "ISCRIVITI ADESSO!",
-    "de": "JETZT BEITRETEN!",
-    "fr": "REJOINDRE MAINTENANT!",
-    "ja": "今すぐ参加しよう！",
-    "ko": "지금 가입하십시오!",
-    "zh": "馬上加入！",
-    "pt": "ENTRAR!",
-    "en": "JOIN NOW!",
-    "vi": "Góp phần"
-  },
-  */
+  
   "59d2f090a0624f4ad488904c": {
     "ru": "Получить свои токены!",
     "es": "¡ÚNETE AHORA!",
@@ -211,6 +198,21 @@ locdata={
     "en": "GET YOU TOKENS NOW!",
     "vi": "Góp phần"
   },
+  */
+  "59d2f090a0624f4ad488904c": {
+    "ru": "Присоединиться!",
+    "es": "¡ÚNETE AHORA!",
+    "it": "ISCRIVITI ADESSO!",
+    "de": "JETZT BEITRETEN!",
+    "fr": "REJOINDRE MAINTENANT!",
+    "ja": "今すぐ参加しよう！",
+    "ko": "지금 가입하십시오!",
+    "zh": "馬上加入！",
+    "pt": "ENTRAR!",
+    "en": "JOIN NOW!",
+    "vi": "Góp phần"
+  },
+
   "59d2f090a0624f4ad488904e": {
     "ru": "Мы знаем, как привлечь в новый мир криптоэкономики 2 миллиарда людей, у которых нет доступа к банковским услугам и которые вынуждены всю жизнь иметь дело только с наличными. Мы делаем это уже два года.",
     "es": "O cómo atraer a 2 mil millones de personas no atendidas por los bancos, que usan dinero en efectivo, a la nueva Cripto-economía global.",
