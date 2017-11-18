@@ -209,7 +209,7 @@ locdata={
     "ko": "지금 가입하십시오!",
     "zh": "馬上加入！",
     "pt": "ENTRAR!",
-    "en": "JOIN NOW!",
+    "en": "SUBSCRIBE",
     "vi": "Góp phần"
   },
 
@@ -366,7 +366,7 @@ locdata={
     "ko": "특별 할인 정보 받기",
     "zh": "马上订阅",
     "pt": "Inscreva-se agora",
-    "en": "GET UNIQUE OFFER",
+    "en": "SUBSCRIBE",
     "vi": ""
   },
   "59d2f090a0624f4ad488905a": {
@@ -2790,14 +2790,14 @@ locdata={
   "new63": {
     "ru": "",
     "es": "",
-    "it": "INTERNAZIONALE PTE Limitato, Ufficio 18 Sin Ming Stradetta, 08-06, Midview Città, Singapore",
+    "it": "",
     "de": "",
     "fr": "",
     "ja": "",
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "MICROMONEY INTERNATIONAL PTE. LTD., Office 18 Sin Ming Lane, #08-06, Midview City, Singapore",
+    "en": "AMM token distribution company, Maynmar",
     "vi": ""
   },
   "59d2f091a0624f4ad4889154": {
