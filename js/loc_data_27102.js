@@ -2797,7 +2797,7 @@ locdata={
     "ko": "",
     "zh": "",
     "pt": "",
-    "en": "AMM token distribution company, Maynmar",
+    "en": "AMM token distribution company, Maynmar Global Gateway 8, Rue de la Perle, Providence, Mahe, Seychelles",
     "vi": ""
   },
   "59d2f091a0624f4ad4889154": {
