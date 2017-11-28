@@ -3295,16 +3295,16 @@ locdata={
     "vi": "Hội thảo"
   },
   "New110": {
-    "ru": "Всего собрано",
-    "es": "Total fundado",
-    "it": "Totale fondata",
-    "de": "Insgesamt gegründet",
-    "fr": "Total fondé",
-    "ja": "総計",
-    "ko": "합계 설립",
-    "zh": "總共創立",
-    "pt": "Total fundado",
-    "en": "Total funded",
+    "ru": "",
+    "es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "",
+    "zh": "",
+    "pt": "",
+    "en": "Total token Suply",
     "vi": ""
   },
   "New111": {
