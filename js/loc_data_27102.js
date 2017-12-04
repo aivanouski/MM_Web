@@ -1592,6 +1592,19 @@ locdata={
     "vi": "Tính đến quý 4 năm 2020"
   },
   "59d2f090a0624f4ad48890c9": {
+    "ru": "",
+    "es": "",
+    "it": "",
+    "de": "",
+    "fr": "",
+    "ja": "",
+    "ko": "",
+    "zh": "",
+    "pt": "",
+    "en": "We do our best to make sure MicroMoney's will work in 50+ countries",
+    "vi": ""
+  },/*
+  "59d2f090a0624f4ad48890c9": {
     "ru": "Мы сделаем все возможное, чтобы достичь к 2020 году рыночной стоимости MicroMoney в размере 1 млрд долларов",
     "es": "Faremo del nostro meglio per raggiungere un valore di mercato di MicroMoney di $ 1 miliardo entro il 2020",
     "it": "Haremos lo mejor que podamos para lograr un valor de mercado de MicroMoney de $ 1 mil millones para 2020",
@@ -1603,7 +1616,7 @@ locdata={
     "pt": "",
     "en": "We do our best to make sure MicroMoney's market cap will achieve $1 billion mark by 2020",
     "vi": ""
-  },
+  },*/
   "59d2f090a0624f4ad48890ca": {
     "ru": "Ключевые компоненты",
     "es": "",
