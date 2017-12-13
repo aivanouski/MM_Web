@@ -88,7 +88,7 @@ function chlang(lang){
 
 	var dld={
 		'zh':{
-			'dla':'/img/bar/wee.png',
+			'dla':'/img/bar/wee_f.png',
 			'dlt':'加入WeChat',
 			'dli':'img/socials/white/wechat.svg'
 		},
