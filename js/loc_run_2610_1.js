@@ -130,19 +130,17 @@ function chlang(lang){
 	var dvol='none'; var del=document.getElementById("dla");
 	var ua = navigator.userAgent;    
 
-    
+    dvol='';
 	if (ua.search(/Chrome/) > 0 ) {
 		// Для хромов покаываем whatsapp  || ua.search(/MSIE/) > 0
 		if (typeof(dld[lang])!= "undefined" && dlad!='') {
-			document.getElementById("dla").style.display="block";
+			dvol='inline';
 			document.getElementById("dla").href = dld[lang]['dla'];
 			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
 			$("#dli").attr("src",dld[lang]['dli']); //document.getElementById("dli").src = dld[lang]['dli'];
 		}	
 		
-		if (dlad=='') {
-			document.getElementById("dla").style.display="none";
-		}
+		if (dlad=='') dvol='none';
 		
 	} else {
 		// Для нехрома пытаемся добавить в закладки
@@ -150,7 +148,7 @@ function chlang(lang){
 		document.getElementById("dla").href = 'https://www.micromoney.io';
 		document.getElementById("dlt").innerHTML = 'Add to favorites';	
 	}
-	dvol='';
+	
 	del.style.display = dvol;
 	
 }
