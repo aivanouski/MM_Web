@@ -82,10 +82,12 @@ function chlang(lang){
 
 	$('[whitepaperlink]').attr('href',wplink[lang]);
 
-	//var dlad='href="https://www.micromoney.io" rel="sidebar" onclick="addBookmark()">Add to favorites';
-	var dlad='https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6';
-	var dlai='img/socials/white/whatsapp.svg';
+	////var dlad='href="https://www.micromoney.io" rel="sidebar" onclick="addBookmark()">Add to favorites';
+	//var dlad='https://chat.whatsapp.com/DP5XsCwjd8H0OoY4b4EmD6';
+	//var dlai='img/socials/white/whatsapp.svg';
 
+	var dlad='';var dlai='';
+	
 	var dld={
 		'zh':{
 			'dla':'/img/bar/wee_f.png',
@@ -131,11 +133,16 @@ function chlang(lang){
     
 	if (ua.search(/Chrome/) > 0 ) {
 		// Для хромов покаываем whatsapp  || ua.search(/MSIE/) > 0
-		if (typeof(dld[lang])!= "undefined") {
+		if (typeof(dld[lang])!= "undefined" && dlad!='') {
+			document.getElementById("dla").style.display="block";
 			document.getElementById("dla").href = dld[lang]['dla'];
 			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
 			$("#dli").attr("src",dld[lang]['dli']); //document.getElementById("dli").src = dld[lang]['dli'];
 		}	
+		
+		if (dlad=='') {
+			document.getElementById("dla").style.display="none";
+		}
 		
 	} else {
 		// Для нехрома пытаемся добавить в закладки
