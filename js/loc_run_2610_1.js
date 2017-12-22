@@ -87,7 +87,7 @@ function chlang(lang){
 	//var dlai='img/socials/white/whatsapp.svg';
 
 	var dlad='';var dlai='';
-	
+	console.log('['+lang+']');
 	var dld={
 		'zh':{
 			'dla':'/img/bar/wee_f.png',
