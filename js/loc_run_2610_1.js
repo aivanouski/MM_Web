@@ -133,14 +133,14 @@ function chlang(lang){
     dvol='';
 	if (ua.search(/Chrome/) > 0 ) {
 		// Для хромов покаываем whatsapp  || ua.search(/MSIE/) > 0
-		if (typeof(dld[lang])!= "undefined" && dlad!='') {
+		if (typeof(dld[lang])!= "undefined" && dld[lang]['dla']!='') {
 			dvol='inline';
 			document.getElementById("dla").href = dld[lang]['dla'];
 			document.getElementById("dlt").innerHTML = dld[lang]['dlt'];
 			$("#dli").attr("src",dld[lang]['dli']); //document.getElementById("dli").src = dld[lang]['dli'];
 		}	
 		
-		if (dlad=='') dvol='none';
+		if (dld[lang]['dla']=='') dvol='none';
 		
 	} else {
 		// Для нехрома пытаемся добавить в закладки
