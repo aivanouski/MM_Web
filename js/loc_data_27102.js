@@ -2455,11 +2455,11 @@ locdata={
     "it": "",
     "de": "",
     "fr": "",
-    "ja": "Bancor advisor.Qoin, Visa.オランダ",
-    "ko": "Bancor advisor.Qoin, Visa. Netherlands",
+    "ja": "Advisor to Bancor.Qoin.オランダ",
+    "ko": "Advisor to Bancor.Qoin. Netherlands",
     "zh": "",
     "pt": "",
-    "en": "Bancor advisor. Qoin. Visa. Netherlands",
+    "en": "Advisor to Bancor. Qoin. Netherlands",
     "vi": ""
   },
   "59d2f091a0624f4ad4889120": {
